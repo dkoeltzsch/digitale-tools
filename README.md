@@ -1,4 +1,4 @@
-# digitale-tools
+# Digitale Tools
 Digitale Tools für die Schule
 
 ## Vokabel Lernen
