@@ -1,10 +1,13 @@
-# Digitale Tools
-Digitale Tools für die Schule
+# Digitale Tools für den Unterricht
+Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung an digitalen Tools, die dein Leben in der Bildung erleichtern sollen. 
+Die Liste wird ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal. 
+Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen, dann melde dich doch gern via dem  Formular und schicke mir eine Nachricht. Denn auch im Unterricht geht es darum: If you want to go fast, go alone. If you want to go far, go together.
 
+# Kleine Legende
 :moneybag: komplett kostenpflichtig
 :star: empfehlenswert
 
-## Vokabel Lernen
+### Vokabel Lernen
 * [Kahoot](https://kahoot.com) :star:
 * [Quizlet](https://quizlet.com) :star:
 * [Quizzizz](https://quizizz.com) :star:
