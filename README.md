@@ -8,11 +8,11 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 
 ⭐ empfehlenswert
 
-## Vokabel Lernen
+## Vokabeln Lernen
 * [Kahoot](https://kahoot.com) ⭐
 * [Quizlet](https://quizlet.com) ⭐
 * [Quizzizz](https://quizizz.com) ⭐
-* [AnkiApp](https://apps.ankiweb.net)
+* [Anki](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de) 💰
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
 * [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
@@ -101,7 +101,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 
 ## Online Lernen
 * [Quizlet](https://quizlet.com) ⭐
-* [AnkiApp](https://apps.ankiweb.net)
+* [Anki](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de)
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
 * [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
