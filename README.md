@@ -1,6 +1,8 @@
 # Digitale Tools für den Unterricht
 Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung an digitalen Tools, die dein Leben in der Bildung erleichtern sollen. 
+
 Die Liste wird ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal. 
+
 Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen, dann schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com). Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to go far, go together.
 
 ## Kleine Legende
