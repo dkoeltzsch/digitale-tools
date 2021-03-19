@@ -4,15 +4,15 @@ Die Liste wird ständig erweitert und angepasst, also lohnt sich der Blick auch 
 Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen, dann melde dich doch gern via dem  diesem [Link](https://forms.gle/kfWUBN8e4xbNQUkJ7) und schicke mir eine Nachricht. Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to go far, go together.
 
 # Kleine Legende
-:moneybag: komplett kostenpflichtig
-:star: empfehlenswert
+💰 komplett kostenpflichtig
+⭐ empfehlenswert
 
 ### Vokabel Lernen
-* [Kahoot](https://kahoot.com) :star:
-* [Quizlet](https://quizlet.com) :star:
-* [Quizzizz](https://quizizz.com) :star:
+* [Kahoot](https://kahoot.com) ⭐
+* [Quizlet](https://quizlet.com) ⭐
+* [Quizzizz](https://quizizz.com) ⭐
 * [AnkiApp](https://apps.ankiweb.net)
-* [Phase6](http://phase-6.de) :moneybag:
+* [Phase6](http://phase-6.de) 💰
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
 * [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
 * [Schlaukopf](https://www.schlaukopf.de)
@@ -24,18 +24,18 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Glitch](https://glitch.com)
 * [Genial.ly](https://www.genial.ly)
 * [H5P](https://h5p.org)
-* [LearningApps](https://learningapps.org/createApp.php) :star:
+* [LearningApps](https://learningapps.org/createApp.php) ⭐
 * [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks)
 * [Classtime](https://www.classtime.com/de/)
-* [Quizlet](https://quizlet.com) :star:
+* [Quizlet](https://quizlet.com) ⭐
 * [Actionbound](https://de.actionbound.com)
 * [Classcraft](https://www.classcraft.com/de/)
 
 ## Umfragen & Quiz
-* [Quizizz](https://quizizz.com) :star:
+* [Quizizz](https://quizizz.com) ⭐
 * [Edkimo](https://edkimo.com/de/)
 * [Kahoot](https://kahoot.com) :star:
-* [Mentimeter](https://www.mentimeter.com) :moneybag: :star:
+* [Mentimeter](https://www.mentimeter.com) 💰 ⭐
 * [Quiz Academy](https://quizacademy.de)
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
@@ -43,29 +43,29 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 ## Teamtools (Terminplaner, agiles Arbeiten etc.)
 * [Meistertask](https://www.meistertask.com/de)
 * [Asana](https://asana.com/de)
-* [Monday](https://monday.com/pm-visual-t/aw-todo) :moneybag:
+* [Monday](https://monday.com/pm-visual-t/aw-todo) 💰
 * [Microsoft Planner](https://tasks.office.com)
 * [Microsoft Project](https://www.microsoft.com/de-de/microsoft-365/project/project-management-software?market=de)
-* [Mural](https://www.mural.co) :moneybag:
+* [Mural](https://www.mural.co) 💰
 * [Trello](https://trello.com )
 
 ## Kooperatives Arbeiten
-* [Mindmeister](https://www.mindmeister.com/de) :star:
+* [Mindmeister](https://www.mindmeister.com/de) ⭐
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
 * [Microsoft To Do](https://todo.microsoft.com/tasks/de-de)
 * [TickTick](https://www.ticktick.com)
 * [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=de&gl=US)
 * [Todoist](https://todoist.com/de)
 * [Mindomo](https://www.mindomo.com/de/)
-* [Oncoo](https://www.oncoo.de) :star:
+* [Oncoo](https://www.oncoo.de) ⭐
 * [Bitpaper](https://www.bitpaper.io)
 * [Flinga](https://flinga.fi)
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
-* [Explain Everything](https://explaineverything.com) :star:
+* [Explain Everything](https://explaineverything.com) ⭐
 * [Zumpad](https://zumpad.zum.de)
 * [Etherpad](https://yopad.eu)
-* [Padlet](https://padlet.com) :star:
-* [Book Creator](https://bookcreator.com) :star:
+* [Padlet](https://padlet.com) ⭐
+* [Book Creator](https://bookcreator.com) ⭐
 
 ## Digitales Klassenzimmer
 * [Classroom](https://classroom.google.com/h)
@@ -76,13 +76,13 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Schabi](https://www.schabi.ch)
 
 ## Konferenztools
-* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) :moneybag:
+* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) 💰
 * [Zoom](https://zoom.us)
 * [Google Meet](https://meet.google.com)
 * [Jitsi](https://meet.jit.si)
 * [Miro](https://miro.com )
 * [Cisco](https://www.cisco.com/c/de_de/index.html)
-* [Discord](https://discord.com )
+* [Discord](https://discord.com)
 * [Eyeson](https://www.eyeson.com/?lang=de)
 * [GoTo Meeting](https://www.gotomeeting.com/de-de )
 * [Big Blue Button](https://bigbluebutton.org)
@@ -90,7 +90,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 ## Erstellen von Infographiken o.Ä.
 * [Adobe Spark](https://spark.adobe.com/de-DE/sp)
 * [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
-* [Canva](https://www.canva.com) :star:
+* [Canva](https://www.canva.com) ⭐
 * [thinglink](https://www.thinglink.com)
 * [MySimpleShow](https://www.mysimpleshow.com/de/)
 * [Prezi](https://prezi.com)
@@ -99,7 +99,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [ttsmp3](https://ttsmp3.com)
 
 ## Online Lernen
-* [Quizlet](https://quizlet.com) :star:
+* [Quizlet](https://quizlet.com) ⭐
 * [AnkiApp](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de)
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
@@ -110,15 +110,15 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
 
 ## (Kostenloses) Material
-* [Lehrermarktplatz](https://lehrermarktplatz.de) :star:
-* [Schulportal](https://schulportal.de) :star: 
+* [Lehrermarktplatz](https://lehrermarktplatz.de) ⭐
+* [Schulportal](https://schulportal.de) ⭐
 * [4teachers](https://www.4teachers.de)
 * [Unterricht.Schule](https://unterricht.schule)
 * [Übungskönig](https://www.uebungskoenig.de)
 * [Newsela](https://newsela.com)
 * [Unterrichtsmaterial-Schule](https://www.unterrichtsmaterial-schule.de)
 * [Materialguru](https://www.materialguru.de/deutsch/)
-* [Lehrerheld](https://lehrerheld.com) :moneybag:
+* [Lehrerheld](https://lehrerheld.com) 💰
 * [Lehrerfreund](https://www.lehrerfreund.de)
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de)
 * [Grundschul Material](https://www.grundschulmaterial.de)
@@ -127,7 +127,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Teachers Pay Teachers](https://www.teacherspayteachers.com)
 * [ZUM Unterrichten](https://unterrichten.zum.de/wiki)
 * [iSL COLLECTIVE](https://en.islcollective.com)
-* [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) :moneybag:
+* [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) 💰
 
 ## Anderes
 * [Worksheet Crafter](https://getschoolcraft.com/de/die-worksheet-go-app-ist-da/)
