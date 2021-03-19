@@ -3,9 +3,9 @@ Digitale Tools für die Schule
 
 ## Vokabel Lernen
 * [Kahoot](https://kahoot.com)
-* [Quizlet] (https://quizlet.com)
-* [Quizzizz] (https://quizizz.com)
-* [AnkiApp] (https://www.ankiapp.com)
+* [Quizlet](https://quizlet.com)
+* [Quizzizz](https://quizizz.com)
+* [AnkiApp](https://www.ankiapp.com)
 * [Phase6] (http://phase-6.de)
 * [Alfons] (https://alfons.westermann.de/alfons/#/information)
 * [LearnEnglish Apps British Council] (https://www.britishcouncil.de/en/english/apps)
