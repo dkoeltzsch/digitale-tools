@@ -87,7 +87,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [GoTo Meeting](https://www.gotomeeting.com/de-de )
 * [Big Blue Button](https://bigbluebutton.org)
 
-## Erstellen von Infographiken o.Ä.
+## Erstellen von Infographiken, Lernvideos o.Ä.
 * [Adobe Spark](https://spark.adobe.com/de-DE/sp)
 * [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
 * [Canva](https://www.canva.com) ⭐
