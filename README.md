@@ -43,7 +43,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
 
-## Teamtools (Terminplaner, agiles Arbeiten etc.)
+## Teamtools
 * [Meistertask](https://www.meistertask.com/de)
 * [Asana](https://asana.com/de)
 * [Monday](https://monday.com/pm-visual-t/aw-todo) 💰
