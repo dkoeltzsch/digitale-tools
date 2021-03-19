@@ -5,7 +5,7 @@ Digitale Tools für die Schule
 * [Kahoot](https://kahoot.com)
 * [Quizlet](https://quizlet.com)
 * [Quizzizz](https://quizizz.com)
-* [AnkiApp](https://www.ankiapp.com)
+* [AnkiApp](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de)
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
 * [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
@@ -70,7 +70,7 @@ Digitale Tools für die Schule
 * [Schabi](https://www.schabi.ch)
 
 ## Konferenztools
-* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software)
+* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) :moneybag:
 * [Zoom](https://zoom.us)
 * [Google Meet](https://meet.google.com)
 * [Jitsi](https://meet.jit.si)
@@ -95,7 +95,7 @@ Digitale Tools für die Schule
 
 ## Online Lernen
 * [Quizlet](https://quizlet.com)
-* [AnkiApp](https://www.ankiapp.com)
+* [AnkiApp](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de)
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
 * [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
