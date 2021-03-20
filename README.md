@@ -46,6 +46,10 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Let's Enhance](https://letsenhance.io) ✔️
 * [Screenzy](https://screenzy.io) ✔️
 
+## Coding
+* [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/)
+* [Scratch](https://scratch.mit.edu)
+
 ## Digitales Klassenzimmer
 * [Classroom](https://classroom.google.com/h)
 * [Moodle](https://moodle.org)
@@ -143,6 +147,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
 * [XWords](https://www.xwords-generator.de/de) ✔️
 * [Wheel Decide](https://wheeldecide.com) ✔️
+* [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738)
 
 ## Mathematisches
 * [Geogebra](https://www.geogebra.org/?lang=de) ⭐
@@ -153,6 +158,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Photomath](https://photomath.app/de/)
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
 * [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml)
+* [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733)
 
 ## Mindmaps
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -179,6 +185,9 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 
 ## Organisieren & Verwalten
 * [Klassenmappe](https://www.klassenmappe.de) 💰
+* [Sharezone](https://sharezone.net/#/)
+* [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923)
+* [iDoceo](https://www.idoceo.net) 💰
 
 ## Tafelersatz
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
