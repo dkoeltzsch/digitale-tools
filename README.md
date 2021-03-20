@@ -70,6 +70,19 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [ttsmp3](https://ttsmp3.com)
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
 
+## Gamification
+* [BreakoutEDU](https://breakoutedu.com) 💰
+* [Biparcours](https://biparcours.de)
+* [LearningApps](https://learningapps.org/createApp.php) ⭐
+* [Classcraft](https://www.classcraft.com/de/)
+* [Quizizz](https://quizizz.com) ⭐ ✔️
+* [Kahoot](https://kahoot.com) ⭐ ✔️
+* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
+* [XWords](https://www.xwords-generator.de/de) ✔️
+* [Wheel Decide](https://wheeldecide.com) ✔️
+* [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738)
+* [DeckToys](https://deck.toys)
+
 ## Kooperatives Arbeiten
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
@@ -136,18 +149,6 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Geogebra](https://www.geogebra.org/?lang=de)
 * [wisc-online](https://www.wisc-online.com)
 * [Wizer.me](https://wizer.me)
-
-## Gamification
-* [BreakoutEDU](https://breakoutedu.com) 💰
-* [Biparcours](https://biparcours.de)
-* [LearningApps](https://learningapps.org/createApp.php) ⭐
-* [Classcraft](https://www.classcraft.com/de/)
-* [Quizizz](https://quizizz.com) ⭐ ✔️
-* [Kahoot](https://kahoot.com) ⭐ ✔️
-* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
-* [XWords](https://www.xwords-generator.de/de) ✔️
-* [Wheel Decide](https://wheeldecide.com) ✔️
-* [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738)
 
 ## Mathematisches
 * [Geogebra](https://www.geogebra.org/?lang=de) ⭐
