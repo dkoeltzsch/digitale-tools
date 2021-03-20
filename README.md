@@ -8,9 +8,11 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to go far, go together.
 
 ### Kleine Legende
+⭐ empfehlenswert
+
 💰 komplett kostenpflichtig
 
-⭐ empfehlenswert
+✔️ keine Anmeldung der Lernenden notwendig
 
 ## Arbeitsblätter erstellen
 * [Wizer.me](https://wizer.me)
@@ -33,7 +35,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Classcraft](https://www.classcraft.com/de/)
 
 ## Audioaufnahme
-* [Vocaroo](https://vocaroo.com)
+* [Vocaroo](https://vocaroo.com) ✔️
 
 ## Digitales Klassenzimmer
 * [Classroom](https://classroom.google.com/h)
@@ -120,9 +122,9 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Biparcours](https://biparcours.de)
 * [LearningApps](https://learningapps.org/createApp.php) ⭐
 * [Classcraft](https://www.classcraft.com/de/)
-* [Quizizz](https://quizizz.com) ⭐
-* [Kahoot](https://kahoot.com) ⭐
-* [Mentimeter](https://www.mentimeter.com) 💰 ⭐
+* [Quizizz](https://quizizz.com) ⭐ ✔️
+* [Kahoot](https://kahoot.com) ⭐ ✔️
+* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
 
 ## Mathematisches
 * [Geogebra](https://www.geogebra.org/?lang=de) ⭐
@@ -157,18 +159,18 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Klassenmappe](https://www.klassenmappe.de) 💰
 
 ## Umfragen & Quiz
-* [Quizizz](https://quizizz.com) ⭐
+* [Quizizz](https://quizizz.com) ⭐ ✔️
 * [Edkimo](https://edkimo.com/de/)
-* [Kahoot](https://kahoot.com) ⭐
-* [Mentimeter](https://www.mentimeter.com) 💰 ⭐
+* [Kahoot](https://kahoot.com) ⭐ ✔️
+* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
 * [Quiz Academy](https://quizacademy.de)
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
 
 ## Vokabeln Lernen
-* [Kahoot](https://kahoot.com) ⭐
+* [Kahoot](https://kahoot.com) ⭐ ✔️
 * [Quizlet](https://quizlet.com) ⭐
-* [Quizzizz](https://quizizz.com) ⭐
+* [Quizzizz](https://quizizz.com) ⭐ ✔️
 * [Anki](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de) 💰
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
