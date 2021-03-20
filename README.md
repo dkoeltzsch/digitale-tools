@@ -3,25 +3,23 @@ Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung an di
 
 Die Liste wird ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal. 
 
-Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen, dann schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com). Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to go far, go together.
+Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen oder dir digitale Tools zu einer neuen Kategorie wünschen, dann schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com). 
+
+Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to go far, go together.
 
 ### Kleine Legende
 💰 komplett kostenpflichtig
 
 ⭐ empfehlenswert
 
-## Vokabeln Lernen
-* [Kahoot](https://kahoot.com) ⭐
-* [Quizlet](https://quizlet.com) ⭐
-* [Quizzizz](https://quizizz.com) ⭐
-* [Anki](https://apps.ankiweb.net)
-* [Phase6](http://phase-6.de) 💰
-* [Alfons](https://alfons.westermann.de/alfons/#/information)
-* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
-* [Schlaukopf](https://www.schlaukopf.de)
-* [Study smarter](https://www.studysmarter.de/schule/)
-* [Scoyo](https://www.scoyo.de/faecher/englisch)
-* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
+## Arbeitsblätter erstellen
+* [Wizer.me](https://wizer.me)
+* [Canva](https://www.canva.com/de_de/erstellen/arbeitsblaetter/)
+* [Tutory](https://www.tutory.de)
+* [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html)
+* [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de/arbeitsblatt-generator/)
+* [Lingofox](https://www.lingofox.de) 💰
+* [Worksheetcrafter](https://getschoolcraft.com/de/) 💰
 
 ## Aufgabentools
 * [Glitch](https://glitch.com)
@@ -34,23 +32,27 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Actionbound](https://de.actionbound.com)
 * [Classcraft](https://www.classcraft.com/de/)
 
-## Umfragen & Quiz
-* [Quizizz](https://quizizz.com) ⭐
-* [Edkimo](https://edkimo.com/de/)
-* [Kahoot](https://kahoot.com) :star:
-* [Mentimeter](https://www.mentimeter.com) 💰 ⭐
-* [Quiz Academy](https://quizacademy.de)
-* [Slido](https://www.sli.do)
-* [Plickers](https://get.plickers.com)
+## Audioaufnahme
+* [Vocaroo](https://vocaroo.com)
 
-## Teamtools
-* [Meistertask](https://www.meistertask.com/de)
-* [Asana](https://asana.com/de)
-* [Monday](https://monday.com/pm-visual-t/aw-todo) 💰
-* [Microsoft Planner](https://tasks.office.com)
-* [Microsoft Project](https://www.microsoft.com/de-de/microsoft-365/project/project-management-software?market=de)
-* [Mural](https://www.mural.co) 💰
-* [Trello](https://trello.com )
+## Digitales Klassenzimmer
+* [Classroom](https://classroom.google.com/h)
+* [Moodle](https://moodle.org)
+* [Gathertown](https://gather.town)
+* [Wonder](https://www.wonder.me/)
+* [Topia](http://topia.io)
+* [Schabi](https://www.schabi.ch)
+
+## Erstellen von Infographiken, Lernvideos o.Ä.
+* [Adobe Spark](https://spark.adobe.com/de-DE/sp)
+* [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
+* [Canva](https://www.canva.com) ⭐
+* [thinglink](https://www.thinglink.com)
+* [MySimpleShow](https://www.mysimpleshow.com/de/)
+* [Prezi](https://prezi.com)
+* [Powtoon](https://www.powtoon.com)
+* [Toontastic](https://toontastic.withgoogle.com)
+* [ttsmp3](https://ttsmp3.com)
 
 ## Kooperatives Arbeiten
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -69,14 +71,14 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Etherpad](https://yopad.eu)
 * [Padlet](https://padlet.com) ⭐
 * [Book Creator](https://bookcreator.com) ⭐
-
-## Digitales Klassenzimmer
-* [Classroom](https://classroom.google.com/h)
-* [Moodle](https://moodle.org)
-* [Gathertown](https://gather.town)
-* [Wonder](https://www.wonder.me/)
-* [Topia](http://topia.io)
-* [Schabi](https://www.schabi.ch)
+* [Meistertask](https://www.meistertask.com/de)
+* [Asana](https://asana.com/de)
+* [Monday](https://monday.com/pm-visual-t/aw-todo) 💰
+* [Microsoft Planner](https://tasks.office.com)
+* [Microsoft Project](https://www.microsoft.com/de-de/microsoft-365/project/project-management-software?market=de)
+* [Mural](https://www.mural.co) 💰
+* [Trello](https://trello.com )
+* [Cryptpad](https://cryptpad.fr) ⭐
 
 ## Konferenztools
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) 💰
@@ -89,28 +91,6 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Eyeson](https://www.eyeson.com/?lang=de)
 * [GoTo Meeting](https://www.gotomeeting.com/de-de )
 * [Big Blue Button](https://bigbluebutton.org)
-
-## Erstellen von Infographiken, Lernvideos o.Ä.
-* [Adobe Spark](https://spark.adobe.com/de-DE/sp)
-* [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
-* [Canva](https://www.canva.com) ⭐
-* [thinglink](https://www.thinglink.com)
-* [MySimpleShow](https://www.mysimpleshow.com/de/)
-* [Prezi](https://prezi.com)
-* [Powtoon](https://www.powtoon.com)
-* [Toontastic](https://toontastic.withgoogle.com)
-* [ttsmp3](https://ttsmp3.com)
-
-## Online Lernen
-* [Quizlet](https://quizlet.com) ⭐
-* [Anki](https://apps.ankiweb.net)
-* [Phase6](http://phase-6.de)
-* [Alfons](https://alfons.westermann.de/alfons/#/information)
-* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
-* [Schlaukopf](https://www.schlaukopf.de)
-* [Study smarter](https://www.studysmarter.de/schule/)
-* [Scoyo](https://www.scoyo.de/faecher/englisch)
-* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
 
 ## (Kostenloses) Material
 * [Lehrermarktplatz](https://lehrermarktplatz.de) ⭐
@@ -131,8 +111,74 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [ZUM Unterrichten](https://unterrichten.zum.de/wiki)
 * [iSL COLLECTIVE](https://en.islcollective.com)
 * [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) 💰
+* [Geogebra](https://www.geogebra.org/?lang=de)
+* [wisc-online](https://www.wisc-online.com)
+* [Wizer.me](https://wizer.me)
 
-## Anderes
+## Gamification
+* [BreakoutEDU](https://breakoutedu.com) 💰
+* [Biparcours](https://biparcours.de)
+* [LearningApps](https://learningapps.org/createApp.php) ⭐
+* [Classcraft](https://www.classcraft.com/de/)
+* [Quizizz](https://quizizz.com) ⭐
+* [Kahoot](https://kahoot.com) ⭐
+* [Mentimeter](https://www.mentimeter.com) 💰 ⭐
+
+## Mathematisches
+* [Geogebra](https://www.geogebra.org/?lang=de) ⭐
+* [Derive](https://derive.de.uptodown.com/windows)
+* [Mathcad](https://www.mathcad.com/de) 💰
+* [Maple](https://de.maplesoft.com) 💰
+* [Microsoft Mathematics](https://www.heise.de/download/product/microsoft-mathematics-math-61147)
+* [Photomath](https://photomath.app/de/)
+
+## Mindmaps
+* [Mindmeister](https://www.mindmeister.com/de) ⭐
+* [XMind](https://www.xmind.net/de/) ⭐
+
+## Notizen
+* [Good Notes](https://www.goodnotes.com) 💰
+* [Notability](https://apps.apple.com/de/app/notability/id360593530) 💰
+* [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) 💰
+* [Cryptpad](https://cryptpad.fr) ⭐
+
+## Online Üben
+* [Quizlet](https://quizlet.com) ⭐
+* [Anki](https://apps.ankiweb.net)
+* [Phase6](http://phase-6.de)
+* [Alfons](https://alfons.westermann.de/alfons/#/information)
+* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
+* [Schlaukopf](https://www.schlaukopf.de)
+* [Study smarter](https://www.studysmarter.de/schule/)
+* [Scoyo](https://www.scoyo.de/faecher/englisch)
+* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
+
+## Organisieren & Verwalten
+* [Klassenmappe](https://www.klassenmappe.de) 💰
+
+## Umfragen & Quiz
+* [Quizizz](https://quizizz.com) ⭐
+* [Edkimo](https://edkimo.com/de/)
+* [Kahoot](https://kahoot.com) ⭐
+* [Mentimeter](https://www.mentimeter.com) 💰 ⭐
+* [Quiz Academy](https://quizacademy.de)
+* [Slido](https://www.sli.do)
+* [Plickers](https://get.plickers.com)
+
+## Vokabeln Lernen
+* [Kahoot](https://kahoot.com) ⭐
+* [Quizlet](https://quizlet.com) ⭐
+* [Quizzizz](https://quizizz.com) ⭐
+* [Anki](https://apps.ankiweb.net)
+* [Phase6](http://phase-6.de) 💰
+* [Alfons](https://alfons.westermann.de/alfons/#/information)
+* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
+* [Schlaukopf](https://www.schlaukopf.de)
+* [Study smarter](https://www.studysmarter.de/schule/)
+* [Scoyo](https://www.scoyo.de/faecher/englisch)
+* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
+
+## Sonstiges
 * [Worksheet Crafter](https://getschoolcraft.com/de/die-worksheet-go-app-ist-da/)
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs)
 * [Google Forms](https://www.google.com/intl/de/forms/about/)
@@ -143,9 +189,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 * [Newsela](https://newsela.com)
 
 ## Kategorien in Arbeit
-* Gamification
 * Kreatives Arbeiten
-* Arbeitsblätter erstellen
 * ...
 
 Großes Dankeschön an Laura Ickinger für die Zusammenstellung einer großen Mehrheit dieser Tools!
