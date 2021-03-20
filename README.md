@@ -55,6 +55,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Powtoon](https://www.powtoon.com)
 * [Toontastic](https://toontastic.withgoogle.com)
 * [ttsmp3](https://ttsmp3.com)
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
 
 ## Kooperatives Arbeiten
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -81,6 +82,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Mural](https://www.mural.co) 💰
 * [Trello](https://trello.com )
 * [Cryptpad](https://cryptpad.fr) ⭐
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
+* [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
 
 ## Konferenztools
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) 💰
@@ -133,6 +136,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Maple](https://de.maplesoft.com) 💰
 * [Microsoft Mathematics](https://www.heise.de/download/product/microsoft-mathematics-math-61147)
 * [Photomath](https://photomath.app/de/)
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
+* [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml)
 
 ## Mindmaps
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -158,6 +163,10 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 ## Organisieren & Verwalten
 * [Klassenmappe](https://www.klassenmappe.de) 💰
 
+## Tafelersatz
+* [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
+* [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
+
 ## Umfragen & Quiz
 * [Quizizz](https://quizizz.com) ⭐ ✔️
 * [Edkimo](https://edkimo.com/de/)
@@ -166,6 +175,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Quiz Academy](https://quizacademy.de)
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
+* [QuizAcademy](https://quizacademy.de)
 
 ## Vokabeln Lernen
 * [Kahoot](https://kahoot.com) ⭐ ✔️
@@ -179,9 +189,10 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Study smarter](https://www.studysmarter.de/schule/)
 * [Scoyo](https://www.scoyo.de/faecher/englisch)
 * [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
+* [QuizAcademy](https://quizacademy.de)
 
 ## Sonstiges
-* [Worksheet Crafter](https://getschoolcraft.com/de/die-worksheet-go-app-ist-da/)
+* [Worksheet Crafter](https://getschoolcraft.com/de/die-worksheet-go-app-ist-da/) ⭐
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs)
 * [Google Forms](https://www.google.com/intl/de/forms/about/)
 * [Typeform](https://www.typeform.com)
@@ -192,6 +203,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
+* Quick Guides/Anleitungen
 * ...
 
 Großes Dankeschön an Laura Ickinger für die Zusammenstellung einer großen Mehrheit dieser Tools!
