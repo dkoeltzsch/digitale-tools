@@ -37,6 +37,15 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 ## Audioaufnahme
 * [Vocaroo](https://vocaroo.com) ✔️
 
+## Bilder (Lizenzfrei & Bildbearbeitung)
+* [Unsplash](https://unsplash.com) ✔️
+* [Pexels](https://www.pexels.com/de-de/) ✔️
+* [Pixabay](https://pixabay.com/de/) ✔️
+* [ImgBB](https://imgbb.com) ✔️
+* [flaticon](https://www.flaticon.com) ✔️
+* [Let's Enhance](https://letsenhance.io) ✔️
+* [Screenzy](https://screenzy.io) ✔️
+
 ## Digitales Klassenzimmer
 * [Classroom](https://classroom.google.com/h)
 * [Moodle](https://moodle.org)
@@ -84,6 +93,10 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Cryptpad](https://cryptpad.fr) ⭐
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
+* [Classroomscreen](https://classroomscreen.com) ✔️
+* [Board.net](https://board.net) ✔️
+* [Edupad](https://edupad.ch) ✔️
+* [JustPasteIt](https://justpaste.it) ✔️
 
 ## Konferenztools
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) 💰
@@ -128,6 +141,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Quizizz](https://quizizz.com) ⭐ ✔️
 * [Kahoot](https://kahoot.com) ⭐ ✔️
 * [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
+* [XWords](https://www.xwords-generator.de/de) ✔️
+* [Wheel Decide](https://wheeldecide.com) ✔️
 
 ## Mathematisches
 * [Geogebra](https://www.geogebra.org/?lang=de) ⭐
@@ -142,6 +157,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 ## Mindmaps
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
 * [XMind](https://www.xmind.net/de/) ⭐
+* [Webgreat](https://webgreat.de/mindmap-erstellen-kostenlos-ohne-anmeldung) ✔️
+* [Excalidraw](https://excalidraw.com) ✔️
 
 ## Notizen
 * [Good Notes](https://www.goodnotes.com) 💰
@@ -166,6 +183,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 ## Tafelersatz
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
+* [Classroomscreen](https://classroomscreen.com) ✔️
 
 ## Umfragen & Quiz
 * [Quizizz](https://quizizz.com) ⭐ ✔️
@@ -176,6 +194,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
 * [QuizAcademy](https://quizacademy.de)
+* [Doodle](https://doodle.com/de/) ✔️
+* [Xoyondo](https://xoyondo.com) ✔️
 
 ## Vokabeln Lernen
 * [Kahoot](https://kahoot.com) ⭐ ✔️
@@ -196,10 +216,19 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs)
 * [Google Forms](https://www.google.com/intl/de/forms/about/)
 * [Typeform](https://www.typeform.com)
-* [QR Code Monkey](https://www.qrcode-monkey.com)
+* [QR Code Monkey](https://www.qrcode-monkey.com) ✔️
+* [QR Code Generator](http://goqr.me/de/) ✔️
 * [Evernote](https://evernote.com/intl/de/basic)
 * [Classroomscreen](https://www.classroomscreen.com)
 * [Newsela](https://newsela.com)
+* [BitteFeedback](https://bittefeedback.de) ✔️
+* [FragMich](https://fragmich.xyz) ✔️
+* [ClassTools](https://www.classtools.net) ✔️
+* [DocDroid](https://www.docdroid.net/de) ✔️
+* [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) ✔️
+* [Telegraph](https://telegra.ph) ✔️
+* [T1P](https://t1p.de) ✔️
+* [Tiny URL](https://tiny.cc) ✔️
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
