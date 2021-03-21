@@ -22,6 +22,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de/arbeitsblatt-generator/)
 * [Lingofox](https://www.lingofox.de) 💰
 * [Worksheetcrafter](https://getschoolcraft.com/de/) 💰
+* [TeacherMade](https://teachermade.com/teachermade-features/)
 
 ## Aufgabentools
 * [Glitch](https://glitch.com)
@@ -33,24 +34,52 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Quizlet](https://quizlet.com) ⭐
 * [Actionbound](https://de.actionbound.com)
 * [Classcraft](https://www.classcraft.com/de/)
+* [Wordwall](https://wordwall.net)
+* [Nearpod](https://nearpod.com)
+* [Lumi](https://next.lumi.education)
+* [TeacherMade](https://teachermade.com/teachermade-features/)
 
 ## Audioaufnahme
 * [Vocaroo](https://vocaroo.com) ✔️
 * [H5P](https://h5p.org)
 * [Audacity](https://www.audacity.de)
+* [Flipgrid](https://info.flipgrid.com) ⭐
+* [Speakflow](https://www.speakflow.com)
+* [Anchor](https://anchor.fm)
+* [Qwiqr](https://qwiqr.education) ⭐
+* [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426)
 
-## Bilder (Lizenzfrei & Bildbearbeitung)
+## Bildbearbeitung
 * [Unsplash](https://unsplash.com) ✔️
+* [flaticon](https://www.flaticon.com) ✔️
+* [Let's Enhance](https://letsenhance.io) ✔️
+
+## Chat
+* [tlk](https://tlk.io) ✔️
+* [Qwiqr](https://qwiqr.education) ⭐
+* [Tweedback](https://tweedback.de) ✔️
+
+## Creative Commons
+* [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) ✔️
+* [Free Clip art library](http://clipart-library.com) ✔️
+* [Openclipart](https://openclipart.org/share) ✔️
+* [creativecommons.org](https://creativecommons.org/2020/08/04/nearly-500-cc-licensed-education-images-are-now-available/) ✔️
+* [CC0 Textures](https://cc0textures.com) ✔️
 * [Pexels](https://www.pexels.com/de-de/) ✔️
 * [Pixabay](https://pixabay.com/de/) ✔️
 * [ImgBB](https://imgbb.com) ✔️
-* [flaticon](https://www.flaticon.com) ✔️
-* [Let's Enhance](https://letsenhance.io) ✔️
-* [Screenzy](https://screenzy.io) ✔️
+* [Freepik](https://www.freepik.com) ✔️
 
 ## Coding
 * [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/)
 * [Scratch](https://scratch.mit.edu)
+* [CodiMD](https://hackmd.okfn.de)
+* [X-Ray Goggles](https://foundation.mozilla.org/en/artifacts/x-ray-goggles/)
+
+## Comics
+* [Storyboard That](https://www.storyboardthat.com/de)
+* [Knietzsches Werkstatt](https://apps.apple.com/de/app/knietzsches-werkstatt/id1156376762)
+* [MakeBeliefsComics](https://www.makebeliefscomix.com)
 
 ## Digitales Klassenzimmer
 * [Classroom](https://classroom.google.com/h)
@@ -71,6 +100,30 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Toontastic](https://toontastic.withgoogle.com)
 * [ttsmp3](https://ttsmp3.com)
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
+* [Doodly](https://www.doodly.com)
+* [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
+* [Visme](https://www.visme.co)
+
+## Feedback & Umfragen
+* [BitteFeedback](https://bittefeedback.de) ✔️
+* [FragMich](https://fragmich.xyz) ✔️
+* [Google Forms](https://www.google.com/intl/de/forms/about/)
+* [Typeform](https://www.typeform.com)
+* [Feedback Master](https://feedback-master.de)
+* [Answer Garden](https://answergarden.ch)
+* [Edkimo](https://edkimo.com/de/)
+* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
+* [Slido](https://www.sli.do)
+* [Plickers](https://get.plickers.com)
+* [Doodle](https://doodle.com/de/) ✔️
+* [Xoyondo](https://xoyondo.com) ✔️
+* [Socrative](https://www.socrative.com)
+* [Wooclap](https://www.wooclap.com/de/)
+* [frag.jetzt](https://frag.jetzt/home)
+* [poll everywhere](https://www.polleverywhere.com)
+* [StrawPoll](https://strawpoll.com)
+* [Qwiqr](https://qwiqr.education) ⭐
+* [Tweedback](https://tweedback.de) ✔️
 
 ## Gamification
 * [BreakoutEDU](https://breakoutedu.com) 💰
@@ -84,6 +137,12 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Wheel Decide](https://wheeldecide.com) ✔️
 * [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738)
 * [DeckToys](https://deck.toys)
+* [Educandy](https://www.educandy.com)
+* [Bitsboard](http://bitsboard.com)
+* [Stadt Land Fluss online](https://stadtlandflussonline.net/new-game.xhtml)
+* [Quick Words](https://quickwords.net)
+* [GeoGuessr](https://www.geoguessr.com) ✔️
+* [Brightful](https://app.brightful.me/game/#/signup)
 
 ## Kooperatives Arbeiten
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -117,6 +176,18 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Edupad](https://edupad.ch) ✔️
 * [JustPasteIt](https://justpaste.it) ✔️
 * [Ilias](https://www.ilias.de)
+* [Stormboard](https://stormboard.com)
+* [Flinga](https://ebildungslabor.de/blog/flinga/) ✔️
+* [CodiMD](https://hackmd.okfn.de)
+* [Conceptboard](https://app.conceptboard.com/login-redirect)
+* [Draw.Chat](https://draw.chat)
+* [Wakelet](https://wakelet.com)
+* [Kialo](https://www.kialo-edu.com)
+* [Flipgrid](https://info.flipgrid.com) ⭐
+* [Twinery](https://twinery.org/2/#!/stories)
+* [Mindwendel](https://idea.kits.blog)
+* [Wortwolke](https://kits.blog/cloud/)
+* [Glogster](http://edu.glogster.com) 💰
 
 ## Konferenztools
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) (💰)
@@ -129,6 +200,12 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Eyeson](https://www.eyeson.com/?lang=de)
 * [GoTo Meeting](https://www.gotomeeting.com/de-de )
 * [Big Blue Button](https://bigbluebutton.org)
+* [Loom](https://www.loom.com)
+* [Meetzu](https://klassenzimmer.meetzi.de)
+
+## Lesen & Lesematerial
+* [Newsela](https://newsela.com)
+* [Readlang](https://readlang.com/en/dashboard)
 
 ## (Kostenloses) Material
 * [Lehrermarktplatz](https://lehrermarktplatz.de) ⭐
@@ -153,7 +230,18 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [wisc-online](https://www.wisc-online.com)
 * [Wizer.me](https://wizer.me)
 
-## Mathematisches
+## Mindmaps
+* [Mindmeister](https://www.mindmeister.com/de) ⭐
+* [XMind](https://www.xmind.net/de/) ⭐
+* [Webgreat](https://webgreat.de/mindmap-erstellen-kostenlos-ohne-anmeldung) ✔️
+* [Excalidraw](https://excalidraw.com) ✔️
+* [Flinga](https://ebildungslabor.de/blog/flinga/) ✔️
+* [Popplet](https://www.popplet.com)
+* [Bubbl.us](https://bubbl.us)
+* [MindMup](https://app.mindmup.com)
+* [Mindmapp](https://map.kits.blog/app)
+
+## MINT
 * [Geogebra](https://www.geogebra.org/?lang=de) ⭐
 * [Derive](https://derive.de.uptodown.com/windows)
 * [Mathcad](https://www.mathcad.com/de) 💰
@@ -165,18 +253,11 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733)
 * [Toy Theater](https://toytheater.com/category/teacher-tools/virtual-manipulatives/?fbclid=IwAR0-yPkMVeEecQE1KX6OOMoEqfPgBD_O38sniqWAR2DK82s7_bIyj0193_A)
 * [Didax](https://www.didax.com/math/virtual-manipulatives.html?fbclid=IwAR2_IaUdOtoKiXM5Zwk0tmu4QSI-87OIMSj3QykxtYJiM-o0bb7mnS1_0D8)
-
-## Mindmaps
-* [Mindmeister](https://www.mindmeister.com/de) ⭐
-* [XMind](https://www.xmind.net/de/) ⭐
-* [Webgreat](https://webgreat.de/mindmap-erstellen-kostenlos-ohne-anmeldung) ✔️
-* [Excalidraw](https://excalidraw.com) ✔️
-
-## Notizen
-* [Good Notes](https://www.goodnotes.com) 💰
-* [Notability](https://apps.apple.com/de/app/notability/id360593530) 💰
-* [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) 💰
-* [Cryptpad](https://cryptpad.fr) ⭐
+* [Shapes 3D](https://apps.apple.com/de/app/shapes-3d-create-geometry-ar/id1455777006)
+* [Bau ein Atom](https://phet.colorado.edu/de/simulation/build-an-atom)
+* [Chemix](https://chemix.org)
+* [Flora Incognita](https://apps.apple.com/de/app/flora-incognita/id1297860122)
+* [PhET](https://phet.colorado.edu/de/)
 
 ## Online Üben
 * [Quizlet](https://quizlet.com) ⭐
@@ -195,12 +276,13 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923)
 * [iDoceo](https://www.idoceo.net) 💰
 
-## Tafelersatz
-* [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
-* [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
-* [Classroomscreen](https://classroomscreen.com) ✔️
+## QR-Codes
+* [mal-den-code](https://mal-den-code.de)
+* [QR Code Monkey](https://www.qrcode-monkey.com) ✔️
+* [QR Code Generator](http://goqr.me/de/) ✔️
+* [QR-Code-Generator](https://kits.blog/qr/)
 
-## Umfragen & Quiz
+## Quiz
 * [Quizizz](https://quizizz.com) ⭐ ✔️
 * [Edkimo](https://edkimo.com/de/)
 * [Kahoot](https://kahoot.com) ⭐ ✔️
@@ -208,9 +290,59 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Quiz Academy](https://quizacademy.de)
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
-* [QuizAcademy](https://quizacademy.de)
-* [Doodle](https://doodle.com/de/) ✔️
 * [Xoyondo](https://xoyondo.com) ✔️
+* [Socrative](https://www.socrative.com)
+* [Google Forms](https://www.google.com/intl/de/forms/about/)
+* [Wooclap](https://www.wooclap.com/de/)
+* [Tubequizard](http://tubequizard.com)
+* [Seterra](https://online.seterra.com/de)
+
+## Simulatoren (Social Media o.Ä.)
+* [Zeoob](https://zeoob.com)
+* [TextingStory](https://textingstory.com)
+* [Chat Story Maker](https://apps.apple.com/us/app/textingstory-chat-story-maker/id1083676922)
+* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks)
+* [Story Generator](https://www.plot-generator.org.uk/story/)
+* [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/)
+* [Maze Generator](http://www.mazegenerator.net)
+* [Cyborg Web Apps Sammlung](https://appscyborg.com)
+* [FakeWhatsApp](https://www.fakewhats.com/generator) ✔️
+* [Penguin Classics Cover Generator](https://penguin.jos.ht) ✔️
+
+## Tafelersatz
+* [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
+* [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
+* [Classroomscreen](https://classroomscreen.com) ✔️
+* [Bitpaper](https://www.bitpaper.io)
+
+## Textbearbeitung & Notizen
+* [DocDroid](https://www.docdroid.net/de) ✔️
+* [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) ✔️
+* [Telegraph](https://telegra.ph) ✔️
+* [Cabinet](https://www.cabinet.app)
+* [Etherpad](https://yopad.eu)
+* [Cryptpad](https://cryptpad.fr) ⭐
+* [Edupad](https://edupad.ch) ✔️
+* [Good Notes](https://www.goodnotes.com) 💰
+* [Notability](https://apps.apple.com/de/app/notability/id360593530) 💰
+* [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) 💰
+* [Evernote](https://evernote.com/intl/de/basic)
+* [Liquid Texts](https://www.liquidtext.net)
+* [Marginnote](https://www.marginnote.com)
+* [Twinery](https://twinery.org/2/#!/stories)
+
+## Video
+* [Loom](https://www.loom.com)
+* [Flipgrid](https://info.flipgrid.com)
+* [Plotagon](https://www.plotagon.com)
+* [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US)
+* [Doodly](https://www.doodly.com)
+* [Touchcast](https://touchcast.com/studio)
+* [Speakflow](https://www.speakflow.com)
+* [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
+* [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382)
+* [share.it video](https://shareit.video)
+* [Screenzy](https://screenzy.io) ✔️
 
 ## Vokabeln Lernen
 * [Kahoot](https://kahoot.com) ⭐ ✔️
@@ -225,29 +357,36 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Scoyo](https://www.scoyo.de/faecher/englisch)
 * [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
 * [QuizAcademy](https://quizacademy.de)
+* [Skribbl](https://skribbl.io)
+
+## Wörterbücher, Übersetzer & Schreibhilfen
+* [LanguageTool](https://languagetool.org/de/)
+* [Deepl](https://www.deepl.com/translator)
+* [PONS Übersetzer](https://de.pons.com/text-übersetzung)
+* [Leo.org](https://www.leo.org/englisch-deutsch/)
+* [linguee](https://www.linguee.de)
 
 ## Sonstiges
-* [Worksheet Crafter](https://getschoolcraft.com/de/die-worksheet-go-app-ist-da/) ⭐
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs)
-* [Google Forms](https://www.google.com/intl/de/forms/about/)
-* [Typeform](https://www.typeform.com)
-* [QR Code Monkey](https://www.qrcode-monkey.com) ✔️
-* [QR Code Generator](http://goqr.me/de/) ✔️
-* [Evernote](https://evernote.com/intl/de/basic)
-* [Classroomscreen](https://www.classroomscreen.com)
-* [Newsela](https://newsela.com)
-* [BitteFeedback](https://bittefeedback.de) ✔️
-* [FragMich](https://fragmich.xyz) ✔️
+* [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F)
 * [ClassTools](https://www.classtools.net) ✔️
-* [DocDroid](https://www.docdroid.net/de) ✔️
-* [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) ✔️
-* [Telegraph](https://telegra.ph) ✔️
 * [T1P](https://t1p.de) ✔️
 * [Tiny URL](https://tiny.cc) ✔️
+* [Linktree](https://linktr.ee)
+* [Snapdrop](https://snapdrop.net) ✔️
+* [PDF Compressor](https://pdfcompressor.com/de/)
+* [Schicks Digital!](https://schicks.digital)
+* [exam.net](https://exam.net)
+* [Offene Geschichte](https://offene-geschichte.de)
+* [pecha.flickr](https://pechaflickr.de)
+* [Random Emoji Prompts](https://www.byrdseed.com/emoji2/)
+* [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039)
+* [Kunstmatrix](https://www.kunstmatrix.com/en)
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
 * Quick Guides/Anleitungen
+* MINT
 * ...
 
 Großes Dankeschön an Laura Ickinger für die Zusammenstellung einer großen Mehrheit dieser Tools!
