@@ -36,6 +36,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 
 ## Audioaufnahme
 * [Vocaroo](https://vocaroo.com) ✔️
+* [H5P](https://h5p.org)
+* [Audacity](https://www.audacity.de)
 
 ## Bilder (Lizenzfrei & Bildbearbeitung)
 * [Unsplash](https://unsplash.com) ✔️
@@ -114,9 +116,10 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Board.net](https://board.net) ✔️
 * [Edupad](https://edupad.ch) ✔️
 * [JustPasteIt](https://justpaste.it) ✔️
+* [Ilias](https://www.ilias.de)
 
 ## Konferenztools
-* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) 💰
+* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) (💰)
 * [Zoom](https://zoom.us)
 * [Google Meet](https://meet.google.com)
 * [Jitsi](https://meet.jit.si)
@@ -160,6 +163,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
 * [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml)
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733)
+* [Toy Theater](https://toytheater.com/category/teacher-tools/virtual-manipulatives/?fbclid=IwAR0-yPkMVeEecQE1KX6OOMoEqfPgBD_O38sniqWAR2DK82s7_bIyj0193_A)
+* [Didax](https://www.didax.com/math/virtual-manipulatives.html?fbclid=IwAR2_IaUdOtoKiXM5Zwk0tmu4QSI-87OIMSj3QykxtYJiM-o0bb7mnS1_0D8)
 
 ## Mindmaps
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
