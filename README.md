@@ -163,6 +163,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Edupuzzle](https://edpuzzle.com)
 * [GarticPhone](https://garticphone.com/de)
 * [Codenames](https://codenames.game)
+* [MakeAWordSearch](http://makeawordsearch.net/create.php)
+* [MazeBrite](http://mazebrite.com)
 
 ## Kooperatives Arbeiten
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
