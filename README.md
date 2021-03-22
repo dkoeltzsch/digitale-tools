@@ -49,6 +49,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Anchor](https://anchor.fm)
 * [Qwiqr](https://qwiqr.education) ⭐
 * [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426)
+* [Voki](https://www.voki.com)
+* [Soundtrap](https://www.soundtrap.com/?lang=de)
 
 ## Bildbearbeitung
 * [Unsplash](https://unsplash.com) ✔️
