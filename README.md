@@ -222,7 +222,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Meetzu](https://klassenzimmer.meetzi.de)
 * [Whereby](https://whereby.com) 💰
 * [Skype](https://www.skype.com/de/)
-* [Schoolfox] 💰
+* [Schoolfox](https://foxeducation.com/schoolfox/) 💰
 
 ## Lesen & Lesematerial
 * [Newsela](https://newsela.com)
