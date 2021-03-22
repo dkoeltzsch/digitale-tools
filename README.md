@@ -250,6 +250,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Geogebra](https://www.geogebra.org/?lang=de)
 * [wisc-online](https://www.wisc-online.com)
 * [Wizer.me](https://wizer.me)
+* [Planet Schule](https://www.planet-schule.de)
+* [bpb](https://www.bpb.de)
 
 ## Mindmaps
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -380,6 +382,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Clips](https://www.apple.com/de/clips/)
 * [Stop Motion Studio](https://www.stopmotionstudio.com)
 * [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131)
+* [Screen-Cast-O-Matic](https://screencast-o-matic.com)
 
 ## Vokabeln Lernen
 * [Kahoot](https://kahoot.com) ⭐ ✔️
@@ -410,6 +413,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Google Scholar](https://scholar.google.de)
 * [Qwant](https://www.qwant.com)
 * [Ecosia](https://www.ecosia.org)
+* [Metager](https://metager.de)
 
 ## Sonstiges
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs)
