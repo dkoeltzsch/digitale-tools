@@ -290,6 +290,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Study smarter](https://www.studysmarter.de/schule/)
 * [Scoyo](https://www.scoyo.de/faecher/englisch)
 * [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
+* [Anton](https://anton.app/de/)
 
 ## Organisieren & Verwalten
 * [Klassenmappe](https://www.klassenmappe.de) 💰
