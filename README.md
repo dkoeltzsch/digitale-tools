@@ -87,6 +87,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Scratch](https://scratch.mit.edu)
 * [CodiMD](https://hackmd.okfn.de)
 * [X-Ray Goggles](https://foundation.mozilla.org/en/artifacts/x-ray-goggles/)
+* [Snap!](https://snap.berkeley.edu) ✔️
 
 ## Comics
 * [Storyboard That](https://www.storyboardthat.com/de)
