@@ -30,10 +30,10 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 
 ## Aufgabentools
 * [Glitch](https://glitch.com)
-* [Genial.ly](https://www.genial.ly)
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
 * [H5P](https://h5p.org)
 * [LearningApps](https://learningapps.org/createApp.php) ⭐
-* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks)
+* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) interaktive, textbasierende Dialogsysteme ✔️ ⭐
 * [Classtime](https://www.classtime.com/de/)
 * [Quizlet](https://quizlet.com) ⭐
 * [Actionbound](https://de.actionbound.com)
@@ -45,7 +45,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Edupuzzle](https://edpuzzle.com)
 
 ## Audioaufnahme
-* [Vocaroo](https://vocaroo.com) ✔️
+* [Vocaroo](https://vocaroo.com) ✔️ 📱 💻 sehr simple Sprachaufzeichnung, via Link & Download zu verschicken
 * [H5P](https://h5p.org)
 * [Audacity](https://www.audacity.de)
 * [Flipgrid](https://info.flipgrid.com) ⭐
@@ -112,8 +112,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 ## Erstellen von Infographiken, Lernvideos o.Ä.
 * [Adobe Spark](https://spark.adobe.com/de-DE/sp)
 * [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
-* [Canva](https://www.canva.com) ⭐
-* [thinglink](https://www.thinglink.com)
+* [Canva](https://www.canva.com) Mediendesign inkl. vieler schicke Vorlagen u.v.m ⭐
+* [thinglink](https://www.thinglink.com) Verlinken von Bildern
 * [MySimpleShow](https://www.mysimpleshow.com/de/)
 * [Prezi](https://prezi.com)
 * [Powtoon](https://www.powtoon.com)
@@ -123,6 +123,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Doodly](https://www.doodly.com)
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 * [Visme](https://www.visme.co)
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
 
 ## Feedback & Umfragen
 * [BitteFeedback](https://bittefeedback.de) ✔️
@@ -131,14 +132,14 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Typeform](https://www.typeform.com)
 * [Feedback Master](https://feedback-master.de)
 * [Answer Garden](https://answergarden.ch)
-* [Edkimo](https://edkimo.com/de/)
+* [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen
 * [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
 * [Doodle](https://doodle.com/de/) ✔️
 * [Xoyondo](https://xoyondo.com) ✔️
 * [Socrative](https://www.socrative.com)
-* [Wooclap](https://www.wooclap.com/de/)
+* [Wooclap](https://www.wooclap.com/de/) Abstimmungen
 * [frag.jetzt](https://frag.jetzt/home)
 * [poll everywhere](https://www.polleverywhere.com)
 * [StrawPoll](https://strawpoll.com)
@@ -147,6 +148,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Aula](https://aula-blog.website)
 * [Tricider](https://www.tricider.com)
 * [Feedbackr](https://www.feedbackr.io) ✔️
+* [invote](https://invote.de) (Live-)Feedback von Gruppen einholen ✔️
 
 ## Gamification
 * [BreakoutEDU](https://breakoutedu.com) 💰
@@ -172,6 +174,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Codenames](https://codenames.game)
 * [MakeAWordSearch](http://makeawordsearch.net/create.php)
 * [MazeBrite](http://mazebrite.com)
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
 
 ## Kooperatives Arbeiten
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -210,7 +213,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [CodiMD](https://hackmd.okfn.de)
 * [Conceptboard](https://app.conceptboard.com/login-redirect)
 * [Draw.Chat](https://draw.chat)
-* [Wakelet](https://wakelet.com)
+* [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen, aber schicker
 * [Kialo](https://www.kialo-edu.com)
 * [Flipgrid](https://info.flipgrid.com) ⭐
 * [Twinery](https://twinery.org/2/#!/stories)
@@ -269,6 +272,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Wizer.me](https://wizer.me)
 * [Planet Schule](https://www.planet-schule.de)
 * [bpb](https://www.bpb.de)
+* [Mundo](https://mundo.schule)
+* [wir-lernen-online.de](https://wirlernenonline.de)
 
 ## Mindmaps
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
@@ -339,6 +344,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Wooclap](https://www.wooclap.com/de/)
 * [Tubequizard](http://tubequizard.com)
 * [Seterra](https://online.seterra.com/de)
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
 
 ## Simulatoren (Social Media o.Ä.)
 * [Zeoob](https://zeoob.com)
@@ -362,8 +368,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Bitpaper](https://www.bitpaper.io)
 * [Explain Everything](https://explaineverything.com) ⭐
 * [Padlet](https://padlet.com) ⭐
-* [Flinga](https://flinga.fi)
-* [Miro](https://miro.com)
+* [Flinga](https://flinga.fi) interaktives Whiteboard
+* [Miro](https://miro.com) interaktives Whiteboard
 * [Cryptpad](https://cryptpad.fr) ⭐
 * [Keynote](https://www.apple.com/de/keynote/)
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
@@ -459,6 +465,9 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/)
 * [epals](https://www.epals.com/#/findPenPalsPage)
 * [Slowly](https://slowly.app/en/)
+* [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 📱 💻
+* [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 📱 💻
+* [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
