@@ -14,6 +14,10 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 
 ✔️ keine Anmeldung der Lernenden notwendig
 
+📱 als App für mobile Endgeräte verfügbar
+
+💻 als Browser-Anwendung verfügbar
+
 ## Arbeitsblätter erstellen
 * [Wizer.me](https://wizer.me)
 * [Canva](https://www.canva.com/de_de/erstellen/arbeitsblaetter/)
