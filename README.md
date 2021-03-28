@@ -292,6 +292,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Chemix](https://chemix.org)
 * [Flora Incognita](https://apps.apple.com/de/app/flora-incognita/id1297860122)
 * [PhET](https://phet.colorado.edu/de/)
+* [Desmos](https://www.desmos.com/?lang=de) ✔️ ⭐
 
 ## Online Üben
 * [Quizlet](https://quizlet.com) ⭐
