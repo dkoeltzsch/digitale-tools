@@ -216,6 +216,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Pages](https://www.apple.com/de/pages/)
 * [Keynote](https://www.apple.com/de/keynote/)
 * [Numbers](https://www.apple.com/de/numbers/)
+* [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
+* [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
 
 ## Konferenztools
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) (💰)
@@ -237,6 +239,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 ## Lesen & Lesematerial
 * [Newsela](https://newsela.com)
 * [Readlang](https://readlang.com/en/dashboard)
+* [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
 
 ## (Kostenloses) Material
 * [Lehrermarktplatz](https://lehrermarktplatz.de) ⭐
@@ -359,6 +362,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Miro](https://miro.com)
 * [Cryptpad](https://cryptpad.fr) ⭐
 * [Keynote](https://www.apple.com/de/keynote/)
+* [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
 
 ## Textbearbeitung & Notizen
 * [DocDroid](https://www.docdroid.net/de) ✔️
@@ -379,6 +383,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Minibooks](https://www.minibooks.ch)
 * [Book Creator](https://bookcreator.com) ⭐
 * [Pages](https://www.apple.com/de/pages/)
+* [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
+* [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
 
 ## Video
 * [Loom](https://www.loom.com)
