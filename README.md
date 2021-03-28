@@ -88,6 +88,8 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [CodiMD](https://hackmd.okfn.de)
 * [X-Ray Goggles](https://foundation.mozilla.org/en/artifacts/x-ray-goggles/)
 * [Snap!](https://snap.berkeley.edu) ✔️
+* [Code.org](https://code.org)
+* [Tinkercad](https://www.tinkercad.com) ⭐
 
 ## Comics
 * [Storyboard That](https://www.storyboardthat.com/de)
@@ -211,6 +213,9 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Mindwendel](https://idea.kits.blog)
 * [Glogster](http://edu.glogster.com) 💰
 * [Mahara](https://mahara.de)
+* [Pages](https://www.apple.com/de/pages/)
+* [Keynote](https://www.apple.com/de/keynote/)
+* [Numbers](https://www.apple.com/de/numbers/)
 
 ## Konferenztools
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) (💰)
@@ -352,6 +357,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Flinga](https://flinga.fi)
 * [Miro](https://miro.com)
 * [Cryptpad](https://cryptpad.fr) ⭐
+* [Keynote](https://www.apple.com/de/keynote/)
 
 ## Textbearbeitung & Notizen
 * [DocDroid](https://www.docdroid.net/de) ✔️
@@ -371,6 +377,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Post-it](https://apps.apple.com/us/app/post-it/id920127738)
 * [Minibooks](https://www.minibooks.ch)
 * [Book Creator](https://bookcreator.com) ⭐
+* [Pages](https://www.apple.com/de/pages/)
 
 ## Video
 * [Loom](https://www.loom.com)
@@ -388,6 +395,7 @@ Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to g
 * [Stop Motion Studio](https://www.stopmotionstudio.com)
 * [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131)
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com)
+* [ActivePresenter](https://atomisystems.com)
 
 ## Vokabeln Lernen
 * [Kahoot](https://kahoot.com) ⭐ ✔️
