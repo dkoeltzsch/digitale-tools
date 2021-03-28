@@ -5,7 +5,10 @@ Die Liste wird ständig erweitert und angepasst, also lohnt sich der Blick auch 
 
 Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen oder dir digitale Tools zu einer neuen Kategorie wünschen, dann schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com). 
 
-Denn auch im Unterricht gilt: If you want to go fast, go alone. If you want to go far, go together.
+Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to go far, go together.**
+
+## Inhaltsverzeichnis der Kategorien
+coming soon
 
 ### Kleine Legende
 ⭐ empfehlenswert
