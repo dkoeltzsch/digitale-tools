@@ -7,7 +7,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 
 Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to go far, go together.**
 
-## Inhaltsverzeichnis der Kategorien
+### Inhaltsverzeichnis der Kategorien
 coming soon
 
 ### Kleine Legende
