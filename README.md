@@ -91,18 +91,18 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="aufgabentools"></a>
 ## Aufgabentools
-* [Glitch](https://glitch.com)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
+* [Glitch](https://glitch.com) zahlreiche Online-Anwendungen, die verwendet und weiterentwickelt werden können ✔️ 💻
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
 * [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) interaktive, textbasierende Dialogsysteme ✔️
-* [Classtime](https://www.classtime.com/de/)
+* [Classtime](https://www.classtime.com/de/) interaktive Lektionen gestalten, individuellen Lernfortschritt einsehen 💻 💰
 * [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
-* [Actionbound](https://de.actionbound.com)
-* [Classcraft](https://www.classcraft.com/de/)
-* [Wordwall](https://wordwall.net)
+* [Actionbound](https://de.actionbound.com) App für Multimedia-Guides, interaktive Schnitzeljagden und Handy-Rallyes 💻 📱
+* [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
+* [Wordwall](https://wordwall.net) Erstellen interaktiver Übungen 💻
 * [Nearpod](https://nearpod.com) Alleskönner in Sachen formativem Unterricht 📱 💻
-* [Lumi](https://next.lumi.education)
+* [Lumi](https://next.lumi.education) Erstellen, Bearbeiten, Anzeigen und Freigeben von interaktiven Inhalten mit vers. Inhaltstypen 💻
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 
@@ -110,26 +110,25 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 ## Audioaufnahme
 * [Vocaroo](https://vocaroo.com) sehr simple Sprachaufzeichnung, via Link & Download zu verschicken ✔️ 💻 
 * [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
-* [Audacity](https://www.audacity.de)
-* [Flipgrid](https://info.flipgrid.com)
-* [Speakflow](https://www.speakflow.com)
-* [Anchor](https://anchor.fm)
-* [Qwiqr](https://qwiqr.education)
-* [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426)
-* [Voki](https://www.voki.com)
-* [Soundtrap](https://www.soundtrap.com/?lang=de)
+* [Audacity](https://www.audacity.de) Audioeditor und -rekorder 💻
+* [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
+* [Speakflow](https://www.speakflow.com) Teleprompter 💻
+* [Anchor](https://anchor.fm) Podcast erstellen & hochladen 📱 💻
+* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻 
+* [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426) Fotos sprechen lassen 📱
+* [Voki](https://www.voki.com) sprechende virtuelle Figuren 📱 💻
+* [Soundtrap](https://www.soundtrap.com/?lang=de) digitale Audio-Workstation zum Erstellen von Musik & Podcasts 💻 💰
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
-* [Unsplash](https://unsplash.com) ✔️
-* [Let's Enhance](https://letsenhance.io) ✔️
+* [Let's Enhance](https://letsenhance.io) Bildauflösung ohne Qualitätsverlust zu erhöhen ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
-* [tlk](https://tlk.io) ✔️
-* [Qwiqr](https://qwiqr.education)
-* [Tweedback](https://tweedback.de) ✔️
+* [tlk](https://tlk.io) simpler Webchat ✔️ 💻
+* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻 
+* [Tweedback](https://tweedback.de) web-basiertes Live-Feedback-System ✔️ 💻
 
 <a name="creative-commons"></a>
 ## Creative Commons
@@ -152,7 +151,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) ✔️
 * [flaticon](https://www.flaticon.com) ✔️
 * [Text to Speech](https://ttsmp3.com) ✔️
-
+* [Unsplash](https://unsplash.com) Bilder zur kostenlosen Verwendung ✔️ 💻
+ 
 <a name="coding"></a>
 ## Coding
 * [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/)
@@ -194,7 +194,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Doodly](https://www.doodly.com)
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 * [Visme](https://www.visme.co)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
@@ -215,8 +215,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [frag.jetzt](https://frag.jetzt/home)
 * [poll everywhere](https://www.polleverywhere.com) Umfragetool mit vielen Frageformaten ✔️ 📱 💻
 * [StrawPoll](https://strawpoll.com)
-* [Qwiqr](https://qwiqr.education)
-* [Tweedback](https://tweedback.de) ✔️
+* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻 
+* [Tweedback](https://tweedback.de) web-basiertes Live-Feedback-System ✔️ 💻
 * [Aula](https://aula-blog.website)
 * [Tricider](https://www.tricider.com)
 * [Feedbackr](https://www.feedbackr.io) ✔️
@@ -227,7 +227,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [BreakoutEDU](https://breakoutedu.com) 💰
 * [Biparcours](https://biparcours.de)
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
-* [Classcraft](https://www.classcraft.com/de/)
+* [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
@@ -247,7 +247,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Codenames](https://codenames.game)
 * [MakeAWordSearch](http://makeawordsearch.net/create.php)
 * [MazeBrite](http://mazebrite.com)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -288,7 +288,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Draw.Chat](https://draw.chat)
 * [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen, aber schicker
 * [Kialo](https://www.kialo-edu.com)
-* [Flipgrid](https://info.flipgrid.com)
+* [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Twinery](https://twinery.org/2/#!/stories)
 * [Mindwendel](https://idea.kits.blog)
 * [Glogster](http://edu.glogster.com) 💰
@@ -427,7 +427,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Wooclap](https://www.wooclap.com/de/)
 * [Tubequizard](http://tubequizard.com)
 * [Seterra](https://online.seterra.com/de)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 
 <a name="simulatoren-(social-media-o.ae.)"></a>
@@ -486,12 +486,12 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="video"></a>
 ## Video
 * [Loom](https://www.loom.com)
-* [Flipgrid](https://info.flipgrid.com)
+* [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Plotagon](https://www.plotagon.com)
 * [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US)
 * [Doodly](https://www.doodly.com)
 * [Touchcast](https://touchcast.com/studio)
-* [Speakflow](https://www.speakflow.com)
+* [Speakflow](https://www.speakflow.com) Teleprompter 💻
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 * [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382)
 * [share.it video](https://shareit.video)
