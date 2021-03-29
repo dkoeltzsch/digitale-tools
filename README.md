@@ -74,7 +74,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 📱 als App für mobile Endgeräte verfügbar
 
-💻 als Browser-Anwendung verfügbar
+💻 als Browser-Anwendung verfügbar (häufig auf mobilen Endgeräten ebenfalls zu verwenden)
 
 💰 komplett kostenpflichtig
 
@@ -119,10 +119,12 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Voki](https://www.voki.com) sprechende virtuelle Figuren 📱 💻
 * [Soundtrap](https://www.soundtrap.com/?lang=de) digitale Audio-Workstation zum Erstellen von Musik & Podcasts 💻 💰
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
+* [Text to Speech](https://ttsmp3.com) Umwandeln von Text in natürlich klingende Sprache ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
 * [Let's Enhance](https://letsenhance.io) Bildauflösung ohne Qualitätsverlust zu erhöhen ✔️ 💻
+* [ImgBB](https://imgbb.com) kostensloses Bilder hochladen & teilen ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
@@ -132,25 +134,23 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="creative-commons"></a>
 ## Creative Commons
-* [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) ✔️
-* [Free Clip art library](http://clipart-library.com) ✔️
-* [Openclipart](https://openclipart.org/share) ✔️
-* [creativecommons.org](https://creativecommons.org/2020/08/04/nearly-500-cc-licensed-education-images-are-now-available/) ✔️
-* [CC0 Textures](https://cc0textures.com) ✔️
-* [Pexels](https://www.pexels.com/de-de/) ✔️
-* [Pixabay](https://pixabay.com/de/) ✔️
-* [ImgBB](https://imgbb.com) ✔️
-* [Freepik](https://www.freepik.com) ✔️
-* [Free Music Archive](https://freemusicarchive.org) ✔️
-* [digccmixter](http://dig.ccmixter.org) ✔️
-* [audiohub](https://audiohub.de/kostenlose-gemafreie-musik) ✔️
-* [salamisound](https://www.salamisound.de) ✔️
-* [hörspielbox](https://www.hoerspielbox.de) ✔️
-* [freesound.org](https://freesound.org/browse/) ✔️
-* [audiyou](https://www.audiyou.de/freesounds/) ✔️
-* [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) ✔️
-* [flaticon](https://www.flaticon.com) ✔️
-* [Text to Speech](https://ttsmp3.com) ✔️
+* [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) kostenlose Texturen, Bilder und Fotos im Graffiti Stil ✔️ 💻
+* [Free Clip art library](http://clipart-library.com) kostenlose Clip-Arts ✔️ 💻
+* [Openclipart](https://openclipart.org/share) kostenlose Clip-Arts ✔️ 💻
+* [creativecommons.org](https://creativecommons.org/2020/08/04/nearly-500-cc-licensed-education-images-are-now-available/) kostenlose Videos, Bilder, Audios u.v.m. ✔️ 💻
+* [CC0 Textures](https://cc0textures.com) kostenloses PBR Material ✔️ 💻
+* [Pexels](https://www.pexels.com/de-de/) kostenlose Fotos & Videos ✔️ 💻
+* [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
+* [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
+* [Free Music Archive](https://freemusicarchive.org) lizenzfreie Musik ✔️ 💻
+* [digccmixter](http://dig.ccmixter.org) lizenzfreie Musik zum direkten Weiterverarbeiten ✔️ 💻
+* [audiohub](https://audiohub.de/kostenlose-gemafreie-musik) lizenzfreie Musik ✔️ 💻
+* [salamisound](https://www.salamisound.de) Geräusche und Sounds kostenlos downloaden ✔️ 💻
+* [hörspielbox](https://www.hoerspielbox.de) kostenlose Inhalte für Audioproduktionen ✔️ 💻
+* [freesound.org](https://freesound.org/browse/) lizenzfreie Musik & Sounds ✔️ 💻
+* [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
+* [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
+* [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻 
 * [Unsplash](https://unsplash.com) Bilder zur kostenlosen Verwendung ✔️ 💻
  
 <a name="coding"></a>
