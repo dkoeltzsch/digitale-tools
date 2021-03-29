@@ -232,7 +232,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
-* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
+* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten ✔️ 📱 💻 💰
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
 * [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
 * [Wheel Decide](https://wheeldecide.com) Glücksrad Generator ✔️ 💻
@@ -322,8 +322,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
 * [Newsela](https://newsela.com) Texte an verschiedene Schwierigkeitsstufen anpassen & mit Fragen/Medien versehen 📱 💻
-* [Readlang](https://readlang.com/en/dashboard)
-* [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
+* [Readlang](https://readlang.com/en/dashboard) Übersetzungstool für Websiten mit späterer Abfrage der unbekannten Wörter 📱 💻
+* [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen 💻
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
