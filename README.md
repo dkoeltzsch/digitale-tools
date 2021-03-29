@@ -200,29 +200,29 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
-* [BitteFeedback](https://bittefeedback.de) ✔️
-* [FragMich](https://fragmich.xyz) ✔️
-* [Google Forms](https://www.google.com/intl/de/forms/about/)
-* [Typeform](https://www.typeform.com)
-* [Feedback Master](https://feedback-master.de)
-* [Answer Garden](https://answergarden.ch)
-* [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen
-* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
-* [Slido](https://www.sli.do)
-* [Plickers](https://get.plickers.com)
-* [Doodle](https://doodle.com/de/) ✔️
-* [Xoyondo](https://xoyondo.com) ✔️
+* [BitteFeedback](https://bittefeedback.de) Online-Feedback-Tool für unkomplizierte und anonyme Feedback-Übermittlung ✔️ 💻
+* [FragMich](https://fragmich.xyz) Online-Feedback-Tool für anonyme Feedback-Übermittlung, gegenseitige Bewertung der Fragen möglich ✔️ 💻
+* [frag.jetzt](https://frag.jetzt/home) Online-Feedback-Tool für anonyme Feedback-Übermittlung, gegenseitige Bewertung der Fragen möglich ✔️ 💻
+* [Google Forms](https://www.google.com/intl/de/forms/about/) Erstellen einer Umfrage mit Vorlagen und vers. Funktionen 💻
+* [Typeform](https://www.typeform.com) Erstellung von Online-Formularen und Online-Umfragen 💻
+* [Feedback Master](https://feedback-master.de) Erstellen von Frage- und Bewertungsbögen, digitale Korrekturhilfe ✔️ 📱 💻
+* [Answer Garden](https://answergarden.ch) Web-Tool zum schnellen Sammeln von kurzen Antworten, Ideen und Rückmeldungen ✔️ 💻
+* [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen 📱 💻
+* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten ✔️ 📱 💻
+* [Slido](https://www.sli.do) interaktive Q&A- und Abstimmungsplattform 📱 💻
+* [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
+* [Doodle](https://doodle.com/de/) Erstellung von Terminumfragen oder einfachen Online-Umfragen ✔️ 📱 💻
+* [Xoyondo](https://xoyondo.com) Erstellung von Terminumfragen oder einfachen Online-Umfragen ✔️ 💻
 * [Socrative](https://www.socrative.com) Quiztool mit schnellen Umfrage- und Abschlussticketfunktion ✔️ 📱 💻
-* [Wooclap](https://www.wooclap.com/de/) Abstimmungen
-* [frag.jetzt](https://frag.jetzt/home)
+* [Wooclap](https://www.wooclap.com/de/) Umfrage & Präsentationstool mit vielen Frageformaten 💻
 * [poll everywhere](https://www.polleverywhere.com) Umfragetool mit vielen Frageformaten ✔️ 📱 💻
-* [StrawPoll](https://strawpoll.com)
+* [StrawPoll](https://strawpoll.com) Erstellen von Umfragen ✔️ 📱 💻
 * [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻 
 * [Tweedback](https://tweedback.de) web-basiertes Live-Feedback-System ✔️ 💻
-* [Aula](https://aula-blog.website)
-* [Tricider](https://www.tricider.com)
-* [Feedbackr](https://www.feedbackr.io) ✔️
-* [invote](https://invote.de) (Live-)Feedback von Gruppen einholen ✔️
+* [Aula](https://aula-blog.website) Online-Plattform, um eigene Ideen einzustellen, zu diskutieren, auszuarbeiten und darüber abzustimmen 📱 💻 💰
+* [Tricider](https://www.tricider.com) Brainstorming- & Abstimmungsfunktion ✔️ 💻
+* [Feedbackr](https://www.feedbackr.io) gegenseitige Bewertung, Gruppendiskussion, Meinungsbild u.v.m. ✔️ 📱 💻
+* [invote](https://invote.de) Online-Tool für Live-Umfragen durch Abstimmung ✔️ 📱 💻
 
 <a name="gamification"></a>
 ## Gamification
