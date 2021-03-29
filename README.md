@@ -69,9 +69,6 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 [Sonstiges](#sonstiges)
 
 ### Kleine Legende
-⭐ empfehlenswert
-
-💰 komplett kostenpflichtig
 
 ✔️ keine Anmeldung der Lernenden notwendig
 
@@ -79,10 +76,12 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 💻 als Browser-Anwendung verfügbar
 
+💰 komplett kostenpflichtig
+
 <a name="arbeitsblaetter-erstellen"></a>
 ## Arbeitsblätter erstellen
 * [Wizer.me](https://wizer.me)
-* [Canva](https://www.canva.com/de_de/erstellen/arbeitsblaetter/)
+* [Canva](https://www.canva.com/de_de/erstellen/arbeitsblaetter/) Mediendesign, viele schicke Vorlagen u.v.m., kostenloser EDU-Account 💻
 * [Tutory](https://www.tutory.de)
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html)
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de/arbeitsblatt-generator/)
@@ -93,29 +92,29 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="aufgabentools"></a>
 ## Aufgabentools
 * [Glitch](https://glitch.com)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
-* [H5P](https://h5p.org)
-* [LearningApps](https://learningapps.org/createApp.php) ⭐
-* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) interaktive, textbasierende Dialogsysteme ✔️ ⭐
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
+* [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
+* [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
+* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) interaktive, textbasierende Dialogsysteme ✔️
 * [Classtime](https://www.classtime.com/de/)
-* [Quizlet](https://quizlet.com) ⭐
+* [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
 * [Actionbound](https://de.actionbound.com)
 * [Classcraft](https://www.classcraft.com/de/)
 * [Wordwall](https://wordwall.net)
-* [Nearpod](https://nearpod.com)
+* [Nearpod](https://nearpod.com) Alleskönner in Sachen formativem Unterricht 📱 💻
 * [Lumi](https://next.lumi.education)
 * [TeacherMade](https://teachermade.com/teachermade-features/)
-* [Edupuzzle](https://edpuzzle.com)
+* [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 
 <a name="audioaufnahme"></a>
 ## Audioaufnahme
-* [Vocaroo](https://vocaroo.com) ✔️ 💻 sehr simple Sprachaufzeichnung, via Link & Download zu verschicken
-* [H5P](https://h5p.org)
+* [Vocaroo](https://vocaroo.com) sehr simple Sprachaufzeichnung, via Link & Download zu verschicken ✔️ 💻 
+* [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
 * [Audacity](https://www.audacity.de)
-* [Flipgrid](https://info.flipgrid.com) ⭐
+* [Flipgrid](https://info.flipgrid.com)
 * [Speakflow](https://www.speakflow.com)
 * [Anchor](https://anchor.fm)
-* [Qwiqr](https://qwiqr.education) ⭐
+* [Qwiqr](https://qwiqr.education)
 * [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426)
 * [Voki](https://www.voki.com)
 * [Soundtrap](https://www.soundtrap.com/?lang=de)
@@ -129,7 +128,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="chat"></a>
 ## Chat
 * [tlk](https://tlk.io) ✔️
-* [Qwiqr](https://qwiqr.education) ⭐
+* [Qwiqr](https://qwiqr.education)
 * [Tweedback](https://tweedback.de) ✔️
 
 <a name="creative-commons"></a>
@@ -162,7 +161,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [X-Ray Goggles](https://foundation.mozilla.org/en/artifacts/x-ray-goggles/)
 * [Snap!](https://snap.berkeley.edu) ✔️
 * [Code.org](https://code.org)
-* [Tinkercad](https://www.tinkercad.com) ⭐
+* [Tinkercad](https://www.tinkercad.com)
 
 <a name="comics"></a>
 ## Comics
@@ -184,7 +183,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 ## Erstellen von Infographiken und Lernvideos o.Ä.
 * [Adobe Spark](https://spark.adobe.com/de-DE/sp)
 * [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
-* [Canva](https://www.canva.com) Mediendesign inkl. vieler schicke Vorlagen u.v.m ⭐
+* [Canva](https://www.canva.com) Mediendesign, viele schicke Vorlagen u.v.m., kostenloser EDU-Account 💻
 * [thinglink](https://www.thinglink.com) Verlinken von Bildern
 * [MySimpleShow](https://www.mysimpleshow.com/de/)
 * [Prezi](https://prezi.com)
@@ -195,7 +194,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Doodly](https://www.doodly.com)
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 * [Visme](https://www.visme.co)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
@@ -206,17 +205,17 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Feedback Master](https://feedback-master.de)
 * [Answer Garden](https://answergarden.ch)
 * [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen
-* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
+* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
 * [Doodle](https://doodle.com/de/) ✔️
 * [Xoyondo](https://xoyondo.com) ✔️
-* [Socrative](https://www.socrative.com)
+* [Socrative](https://www.socrative.com) Quiztool mit schnellen Umfrage- und Abschlussticketfunktion ✔️ 📱 💻
 * [Wooclap](https://www.wooclap.com/de/) Abstimmungen
 * [frag.jetzt](https://frag.jetzt/home)
-* [poll everywhere](https://www.polleverywhere.com)
+* [poll everywhere](https://www.polleverywhere.com) Umfragetool mit vielen Frageformaten ✔️ 📱 💻
 * [StrawPoll](https://strawpoll.com)
-* [Qwiqr](https://qwiqr.education) ⭐
+* [Qwiqr](https://qwiqr.education)
 * [Tweedback](https://tweedback.de) ✔️
 * [Aula](https://aula-blog.website)
 * [Tricider](https://www.tricider.com)
@@ -227,11 +226,11 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 ## Gamification
 * [BreakoutEDU](https://breakoutedu.com) 💰
 * [Biparcours](https://biparcours.de)
-* [LearningApps](https://learningapps.org/createApp.php) ⭐
+* [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
 * [Classcraft](https://www.classcraft.com/de/)
-* [Quizizz](https://quizizz.com) ⭐ ✔️
-* [Kahoot](https://kahoot.com) ⭐ ✔️
-* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
+* [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
+* [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
+* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
 * [XWords](https://www.xwords-generator.de/de) ✔️
 * [Wheel Decide](https://wheeldecide.com) ✔️
 * [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738)
@@ -248,26 +247,25 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Codenames](https://codenames.game)
 * [MakeAWordSearch](http://makeawordsearch.net/create.php)
 * [MazeBrite](http://mazebrite.com)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
-* [Mindmeister](https://www.mindmeister.com/de) ⭐
+* [Mindmeister](https://www.mindmeister.com/de)
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
 * [Microsoft To Do](https://todo.microsoft.com/tasks/de-de)
 * [TickTick](https://www.ticktick.com)
 * [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=de&gl=US)
 * [Todoist](https://todoist.com/de)
 * [Mindomo](https://www.mindomo.com/de/)
-* [Oncoo](https://www.oncoo.de) ⭐
+* [Oncoo](https://www.oncoo.de)
 * [Bitpaper](https://www.bitpaper.io)
-* [Flinga](https://flinga.fi)
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
-* [Explain Everything](https://explaineverything.com) ⭐
+* [Explain Everything](https://explaineverything.com)
 * [Zumpad](https://zumpad.zum.de)
 * [Etherpad](https://yopad.eu)
-* [Padlet](https://padlet.com) ⭐
-* [Book Creator](https://bookcreator.com) ⭐
+* [Padlet](https://padlet.com)
+* [Book Creator](https://bookcreator.com)
 * [Meistertask](https://www.meistertask.com/de)
 * [Asana](https://asana.com/de)
 * [Monday](https://monday.com/pm-visual-t/aw-todo) 💰
@@ -275,10 +273,10 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Microsoft Project](https://www.microsoft.com/de-de/microsoft-365/project/project-management-software?market=de)
 * [Mural](https://www.mural.co) 💰
 * [Trello](https://trello.com )
-* [Cryptpad](https://cryptpad.fr) ⭐
+* [Cryptpad](https://cryptpad.fr)
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
-* [Classroomscreen](https://classroomscreen.com) ✔️
+* [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [Board.net](https://board.net) ✔️
 * [Edupad](https://edupad.ch) ✔️
 * [JustPasteIt](https://justpaste.it) ✔️
@@ -290,11 +288,11 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Draw.Chat](https://draw.chat)
 * [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen, aber schicker
 * [Kialo](https://www.kialo-edu.com)
-* [Flipgrid](https://info.flipgrid.com) ⭐
+* [Flipgrid](https://info.flipgrid.com)
 * [Twinery](https://twinery.org/2/#!/stories)
 * [Mindwendel](https://idea.kits.blog)
 * [Glogster](http://edu.glogster.com) 💰
-* [Mahara](https://mahara.de)
+* [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
 * [Pages](https://www.apple.com/de/pages/)
 * [Keynote](https://www.apple.com/de/keynote/)
 * [Numbers](https://www.apple.com/de/numbers/)
@@ -321,18 +319,18 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
-* [Newsela](https://newsela.com)
+* [Newsela](https://newsela.com) Texte an verschiedene Schwierigkeitsstufen anpassen & mit Fragen/Medien versehen 📱 💻
 * [Readlang](https://readlang.com/en/dashboard)
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
-* [Lehrermarktplatz](https://lehrermarktplatz.de) ⭐
-* [Schulportal](https://schulportal.de) ⭐
+* [Lehrermarktplatz](https://lehrermarktplatz.de)
+* [Schulportal](https://schulportal.de)
 * [4teachers](https://www.4teachers.de)
 * [Unterricht.Schule](https://unterricht.schule)
 * [Übungskönig](https://www.uebungskoenig.de)
-* [Newsela](https://newsela.com)
+* [Newsela](https://newsela.com) Texte an verschiedene Schwierigkeitsstufen anpassen & mit Fragen/Medien versehen 📱 💻
 * [Unterrichtsmaterial-Schule](https://www.unterrichtsmaterial-schule.de)
 * [Materialguru](https://www.materialguru.de/deutsch/)
 * [Lehrerheld](https://lehrerheld.com) 💰
@@ -345,7 +343,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [ZUM Unterrichten](https://unterrichten.zum.de/wiki)
 * [iSL COLLECTIVE](https://en.islcollective.com)
 * [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) 💰
-* [Geogebra](https://www.geogebra.org/?lang=de)
+* [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool ✔️ 📱 💻
 * [wisc-online](https://www.wisc-online.com)
 * [Wizer.me](https://wizer.me)
 * [Planet Schule](https://www.planet-schule.de)
@@ -355,8 +353,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="mindmaps"></a>
 ## Mindmaps
-* [Mindmeister](https://www.mindmeister.com/de) ⭐
-* [XMind](https://www.xmind.net/de/) ⭐
+* [Mindmeister](https://www.mindmeister.com/de)
+* [XMind](https://www.xmind.net/de/)
 * [Webgreat](https://webgreat.de/mindmap-erstellen-kostenlos-ohne-anmeldung) ✔️
 * [Excalidraw](https://excalidraw.com) ✔️
 * [Flinga](https://ebildungslabor.de/blog/flinga/) ✔️
@@ -368,7 +366,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="mint"></a>
 ## MINT
-* [Geogebra](https://www.geogebra.org/?lang=de) ⭐
+* [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool ✔️ 📱 💻
 * [Derive](https://derive.de.uptodown.com/windows)
 * [Mathcad](https://www.mathcad.com/de) 💰
 * [Maple](https://de.maplesoft.com) 💰
@@ -384,11 +382,11 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Chemix](https://chemix.org)
 * [Flora Incognita](https://apps.apple.com/de/app/flora-incognita/id1297860122)
 * [PhET](https://phet.colorado.edu/de/)
-* [Desmos](https://www.desmos.com/?lang=de) ✔️ ⭐
+* [Desmos](https://www.desmos.com/?lang=de) Grafiktaschenrechner & interaktives Mathetool, Anzeige des individuellen Lernfortschritts ✔️ 📱 💻
 
 <a name="online-ueben"></a>
 ## Online Üben
-* [Quizlet](https://quizlet.com) ⭐
+* [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
 * [Anki](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de)
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
@@ -415,20 +413,21 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="quiz"></a>
 ## Quiz
-* [Quizizz](https://quizizz.com) ⭐ ✔️
+* [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Edkimo](https://edkimo.com/de/)
-* [Kahoot](https://kahoot.com) ⭐ ✔️
-* [Mentimeter](https://www.mentimeter.com) 💰 ⭐ ✔️
+* [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
+* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
 * [Quiz Academy](https://quizacademy.de)
 * [Slido](https://www.sli.do)
 * [Plickers](https://get.plickers.com)
 * [Xoyondo](https://xoyondo.com) ✔️
-* [Socrative](https://www.socrative.com)
+* [Socrative](https://www.socrative.com) Quiztool mit schnellen Umfrage- und Abschlussticketfunktion ✔️ 📱 💻
 * [Google Forms](https://www.google.com/intl/de/forms/about/)
 * [Wooclap](https://www.wooclap.com/de/)
 * [Tubequizard](http://tubequizard.com)
 * [Seterra](https://online.seterra.com/de)
-* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
+* [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele
+* [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 
 <a name="simulatoren-(social-media-o.ae.)"></a>
 ## Simulatoren (Social Media o.Ä.)
@@ -450,13 +449,13 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 ## Tafelersatz
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
-* [Classroomscreen](https://classroomscreen.com) ✔️
+* [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [Bitpaper](https://www.bitpaper.io)
-* [Explain Everything](https://explaineverything.com) ⭐
-* [Padlet](https://padlet.com) ⭐
+* [Explain Everything](https://explaineverything.com)
+* [Padlet](https://padlet.com)
 * [Flinga](https://flinga.fi) interaktives Whiteboard
 * [Miro](https://miro.com) interaktives Whiteboard
-* [Cryptpad](https://cryptpad.fr) ⭐
+* [Cryptpad](https://cryptpad.fr)
 * [Keynote](https://www.apple.com/de/keynote/)
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
 
@@ -467,7 +466,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Telegraph](https://telegra.ph) ✔️
 * [Cabinet](https://www.cabinet.app)
 * [Etherpad](https://yopad.eu)
-* [Cryptpad](https://cryptpad.fr) ⭐
+* [Cryptpad](https://cryptpad.fr)
 * [Edupad](https://edupad.ch) ✔️
 * [Good Notes](https://www.goodnotes.com) 💰
 * [Notability](https://apps.apple.com/de/app/notability/id360593530) 💰
@@ -478,7 +477,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Twinery](https://twinery.org/2/#!/stories)
 * [Post-it](https://apps.apple.com/us/app/post-it/id920127738)
 * [Minibooks](https://www.minibooks.ch)
-* [Book Creator](https://bookcreator.com) ⭐
+* [Book Creator](https://bookcreator.com)
 * [Pages](https://www.apple.com/de/pages/)
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
@@ -501,12 +500,13 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131)
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com)
 * [ActivePresenter](https://atomisystems.com)
+* [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
-* [Kahoot](https://kahoot.com) ⭐ ✔️
-* [Quizlet](https://quizlet.com) ⭐
-* [Quizzizz](https://quizizz.com) ⭐ ✔️
+* [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
+* [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
+* [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Anki](https://apps.ankiweb.net)
 * [Phase6](http://phase-6.de) 💰
 * [Alfons](https://alfons.westermann.de/alfons/#/information)
