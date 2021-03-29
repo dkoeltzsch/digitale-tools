@@ -134,14 +134,16 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="creative-commons"></a>
 ## Creative Commons
-* [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) kostenlose Texturen, Bilder und Fotos im Graffiti Stil ✔️ 💻
-* [Free Clip art library](http://clipart-library.com) kostenlose Clip-Arts ✔️ 💻
-* [Openclipart](https://openclipart.org/share) kostenlose Clip-Arts ✔️ 💻
 * [creativecommons.org](https://creativecommons.org/2020/08/04/nearly-500-cc-licensed-education-images-are-now-available/) kostenlose Videos, Bilder, Audios u.v.m. ✔️ 💻
-* [CC0 Textures](https://cc0textures.com) kostenloses PBR Material ✔️ 💻
 * [Pexels](https://www.pexels.com/de-de/) kostenlose Fotos & Videos ✔️ 💻
 * [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
+* [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻 
+* [Unsplash](https://unsplash.com) Bilder zur kostenlosen Verwendung ✔️ 💻
+* [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) kostenlose Texturen, Bilder und Fotos im Graffiti Stil ✔️ 💻
+* [Free Clip art library](http://clipart-library.com) kostenlose Clip-Arts ✔️ 💻
+* [Openclipart](https://openclipart.org/share) kostenlose Clip-Arts ✔️ 💻
+* [CC0 Textures](https://cc0textures.com) kostenloses PBR Material ✔️ 💻
 * [Free Music Archive](https://freemusicarchive.org) lizenzfreie Musik ✔️ 💻
 * [digccmixter](http://dig.ccmixter.org) lizenzfreie Musik zum direkten Weiterverarbeiten ✔️ 💻
 * [audiohub](https://audiohub.de/kostenlose-gemafreie-musik) lizenzfreie Musik ✔️ 💻
@@ -150,8 +152,6 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [freesound.org](https://freesound.org/browse/) lizenzfreie Musik & Sounds ✔️ 💻
 * [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
-* [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻 
-* [Unsplash](https://unsplash.com) Bilder zur kostenlosen Verwendung ✔️ 💻
  
 <a name="coding"></a>
 ## Coding
