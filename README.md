@@ -226,29 +226,29 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="gamification"></a>
 ## Gamification
-* [BreakoutEDU](https://breakoutedu.com) 💰
-* [Biparcours](https://biparcours.de)
+* [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
+* [Biparcours](https://biparcours.de) Gestaltung digitaler Lernangebote zur Erschließung außerschulischer Lernorte, z.B. Schnitzeljagd 📱
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
 * [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
-* [XWords](https://www.xwords-generator.de/de) ✔️
-* [Wheel Decide](https://wheeldecide.com) ✔️
-* [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738)
-* [DeckToys](https://deck.toys)
-* [Educandy](https://www.educandy.com)
-* [Bitsboard](http://bitsboard.com)
-* [Stadt Land Fluss online](https://stadtlandflussonline.net/new-game.xhtml)
-* [Quick Words](https://quickwords.net)
-* [GeoGuessr](https://www.geoguessr.com) ✔️
-* [Brightful](https://app.brightful.me/game/#/signup)
-* [Google Expeditionen](https://edu.google.com/intl/de_de/products/vr-ar/expeditions/?modal_active=none)
-* [Edupuzzle](https://edpuzzle.com)
-* [GarticPhone](https://garticphone.com/de)
-* [Codenames](https://codenames.game)
-* [MakeAWordSearch](http://makeawordsearch.net/create.php)
-* [MazeBrite](http://mazebrite.com)
+* [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
+* [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
+* [Wheel Decide](https://wheeldecide.com) Glücksrad Generator ✔️ 💻
+* [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738) interaktive, aktivitäts- und spielbasierte Diashows erstellen 📱 💻
+* [DeckToys](https://deck.toys) Rätselspiele erstellen, inkl. Einbetten von u.a. LearningsApps, Videos, Websites 💻
+* [Educandy](https://www.educandy.com) simples Erstellen interaktiver Lernspiele ✔️ 📱 💻 
+* [Bitsboard](http://bitsboard.com) Sammlung und eigenes Erstellen von Lernspielen mit eigenen Bildern, Videos und Tönen 📱
+* [Stadt Land Fluss online](https://stadtlandflussonline.net/new-game.xhtml) multiplayer, kostenlos, online Variante des Spieleklassikers ✔️ 💻
+* [Quick Words](https://quickwords.net) virtuelles Wörterspiel ✔️ 💻
+* [GeoGuessr](https://www.geoguessr.com) webbasiertes Geographie-Computerspiel ✔️ 📱 💻
+* [Brightful](https://app.brightful.me/game/#/signup) online Spiele für virtuelle Gruppentreffen 📱 💻
+* [Google Expeditionen](https://edu.google.com/intl/de_de/products/vr-ar/expeditions/?modal_active=none) virtuelle Schulausflüge 📱
+* [GarticPhone](https://garticphone.com/de) Stille Post online ✔️ 💻
+* [Codenames](https://codenames.game) Brettpiel Codenames online ✔️ 💻
+* [MakeAWordSearch](http://makeawordsearch.net/create.php) Erstellen von Wortsuchrätseln ✔️ 💻
+* [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 
 <a name="kooperatives-arbeiten"></a>
@@ -417,16 +417,16 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="quiz"></a>
 ## Quiz
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
-* [Edkimo](https://edkimo.com/de/)
+* [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
 * [Quiz Academy](https://quizacademy.de)
-* [Slido](https://www.sli.do)
-* [Plickers](https://get.plickers.com)
-* [Xoyondo](https://xoyondo.com) ✔️
+* [Slido](https://www.sli.do) interaktive Q&A- und Abstimmungsplattform 📱 💻
+* [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
+* [Xoyondo](https://xoyondo.com) Erstellung von Terminumfragen oder einfachen Online-Umfragen ✔️ 💻
 * [Socrative](https://www.socrative.com) Quiztool mit schnellen Umfrage- und Abschlussticketfunktion ✔️ 📱 💻
 * [Google Forms](https://www.google.com/intl/de/forms/about/)
-* [Wooclap](https://www.wooclap.com/de/)
+* [Wooclap](https://www.wooclap.com/de/) Umfrage & Präsentationstool mit vielen Frageformaten 💻
 * [Tubequizard](http://tubequizard.com)
 * [Seterra](https://online.seterra.com/de)
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
