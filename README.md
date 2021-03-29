@@ -85,8 +85,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Tutory](https://www.tutory.de) Online Editor für Arbeitsblätter 💻
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial und Arbeitsblätter für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de/arbeitsblatt-generator/) Arbeitsblätter und Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
-* [Lingofox](https://www.lingofox.de) Software zur Erstellung von Arbeitsblättern für den Sprachunterricht 💰 💻
-* [Worksheetcrafter](https://getschoolcraft.com/de/) Programm zur Gestaltung von differenzierten Arbeitsblättern 💰 💻
+* [Lingofox](https://www.lingofox.de) Software zur Erstellung von Arbeitsblättern für den Sprachunterricht 💻 💰
+* [Worksheetcrafter](https://getschoolcraft.com/de/) Programm zur Gestaltung von differenzierten Arbeitsblättern 💻 💰
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 
 <a name="aufgabentools"></a>
@@ -420,7 +420,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
-* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
+* [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten ✔️ 📱 💻 💰
 * [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
 * [Slido](https://www.sli.do) interaktive Q&A- und Abstimmungsplattform 📱 💻
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
