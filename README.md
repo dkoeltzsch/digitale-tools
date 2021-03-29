@@ -9,6 +9,34 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 
 ### Inhaltsverzeichnis der Kategorien
 [Arbeitsblätter erstellen](#arbeitsblaetter-erstellen)
+[Aufgabentools](#aufgabentools)
+[Audioaufnahme](#audioaufnahme)
+[Bildbearbeitung](#bildbearbeitung)
+[Chat](#chat)
+[Creative Commons](#creative-commons)
+[Coding](#coding)
+[Comics](#comics)
+[Digitales Klassenzimmer](#digitales-klassenzimmer)
+[Erstellen von Infografiken und Lernvideos o.Ä.](#erstellen-von-infographiken-und-lernvideos-o.ae.)
+[Feedback & Umfragen](#feedback-&-umfragen)
+[Gamification](#gamification)
+[Kooperatives Arbeiten](#kooperatives-arbeiten)
+[Konferenztools](#konferenztools)
+[Lesen- & Lesematerial](#lesen-&-lesematerial)
+[(Kostenloses) Material](#(kostenloses)-material)
+[Mindmaps](#mindmaps)
+[MINT](#mint)
+[Online Üben](#online-ueben)
+[Organisieren & Verwalten](#organisieren-&-verwalten)
+[QR-Codes](#qr-codes)
+[Quiz](#quiz)
+[Simulatoren (Social Media o.Ä.)](#simulatoren-(social-media-o.ae.))
+[Tafelersatz](#tafelersatz)
+[Textbearbeitung & Notizen](#textbearbeitung-&-notizen)
+[Video](#video)
+[Vokabeln Lernen](#vokabeln-lernen)
+[Wörterbücher, Lexika, Suchmaschine o.Ä.](#woerterbuecher,-lexika,-suchmaschine-o.ae)
+[Sonstiges](#sonstiges)
 
 ### Kleine Legende
 ⭐ empfehlenswert
@@ -32,6 +60,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Worksheetcrafter](https://getschoolcraft.com/de/) 💰
 * [TeacherMade](https://teachermade.com/teachermade-features/)
 
+<a name="aufgabentools"></a>
 ## Aufgabentools
 * [Glitch](https://glitch.com)
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
@@ -48,6 +77,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [TeacherMade](https://teachermade.com/teachermade-features/)
 * [Edupuzzle](https://edpuzzle.com)
 
+<a name="audioaufnahme"></a>
 ## Audioaufnahme
 * [Vocaroo](https://vocaroo.com) ✔️ 📱 💻 sehr simple Sprachaufzeichnung, via Link & Download zu verschicken
 * [H5P](https://h5p.org)
@@ -60,15 +90,18 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Voki](https://www.voki.com)
 * [Soundtrap](https://www.soundtrap.com/?lang=de)
 
+<a name="bildbearbeitung"></a>
 ## Bildbearbeitung
 * [Unsplash](https://unsplash.com) ✔️
 * [Let's Enhance](https://letsenhance.io) ✔️
 
+<a name="chat"></a>
 ## Chat
 * [tlk](https://tlk.io) ✔️
 * [Qwiqr](https://qwiqr.education) ⭐
 * [Tweedback](https://tweedback.de) ✔️
 
+<a name="creative-commons"></a>
 ## Creative Commons
 * [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) ✔️
 * [Free Clip art library](http://clipart-library.com) ✔️
@@ -90,6 +123,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [flaticon](https://www.flaticon.com) ✔️
 * [Text to Speech](https://ttsmp3.com) ✔️
 
+<a name="coding"></a>
 ## Coding
 * [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/)
 * [Scratch](https://scratch.mit.edu)
@@ -99,12 +133,14 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Code.org](https://code.org)
 * [Tinkercad](https://www.tinkercad.com) ⭐
 
+<a name="comics"></a>
 ## Comics
 * [Storyboard That](https://www.storyboardthat.com/de)
 * [Knietzsches Werkstatt](https://apps.apple.com/de/app/knietzsches-werkstatt/id1156376762)
 * [MakeBeliefsComics](https://www.makebeliefscomix.com)
 * [Comic Life](https://comiclife.eu/download.html)
 
+<a name="digitales-klassenzimmer"></a>
 ## Digitales Klassenzimmer
 * [Classroom](https://classroom.google.com/h)
 * [Moodle](https://moodle.org)
@@ -113,7 +149,8 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Topia](http://topia.io)
 * [Schabi](https://www.schabi.ch)
 
-## Erstellen von Infographiken, Lernvideos o.Ä.
+<a name="erstellen-von-infographiken-und-lernvideos-o.ae."></a>
+## Erstellen von Infographiken und Lernvideos o.Ä.
 * [Adobe Spark](https://spark.adobe.com/de-DE/sp)
 * [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
 * [Canva](https://www.canva.com) Mediendesign inkl. vieler schicke Vorlagen u.v.m ⭐
@@ -129,6 +166,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Visme](https://www.visme.co)
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
 
+<a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
 * [BitteFeedback](https://bittefeedback.de) ✔️
 * [FragMich](https://fragmich.xyz) ✔️
@@ -154,6 +192,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Feedbackr](https://www.feedbackr.io) ✔️
 * [invote](https://invote.de) (Live-)Feedback von Gruppen einholen ✔️
 
+<a name="gamification"></a>
 ## Gamification
 * [BreakoutEDU](https://breakoutedu.com) 💰
 * [Biparcours](https://biparcours.de)
@@ -180,6 +219,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [MazeBrite](http://mazebrite.com)
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
 
+<a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
@@ -230,6 +270,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
 
+<a name="konferenztools"></a>
 ## Konferenztools
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) (💰)
 * [Zoom](https://zoom.us)
@@ -247,11 +288,13 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Skype](https://www.skype.com/de/)
 * [Schoolfox](https://foxeducation.com/schoolfox/) 💰
 
+<a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
 * [Newsela](https://newsela.com)
 * [Readlang](https://readlang.com/en/dashboard)
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
 
+<a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
 * [Lehrermarktplatz](https://lehrermarktplatz.de) ⭐
 * [Schulportal](https://schulportal.de) ⭐
@@ -279,6 +322,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Mundo](https://mundo.schule)
 * [wir-lernen-online.de](https://wirlernenonline.de)
 
+<a name="mindmaps"></a>
 ## Mindmaps
 * [Mindmeister](https://www.mindmeister.com/de) ⭐
 * [XMind](https://www.xmind.net/de/) ⭐
@@ -291,6 +335,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Mindmapp](https://map.kits.blog/app)
 * [Coggle](https://coggle.it/#pricing) 💰
 
+<a name="mint"></a>
 ## MINT
 * [Geogebra](https://www.geogebra.org/?lang=de) ⭐
 * [Derive](https://derive.de.uptodown.com/windows)
@@ -310,6 +355,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [PhET](https://phet.colorado.edu/de/)
 * [Desmos](https://www.desmos.com/?lang=de) ✔️ ⭐
 
+<a name="online-ueben"></a>
 ## Online Üben
 * [Quizlet](https://quizlet.com) ⭐
 * [Anki](https://apps.ankiweb.net)
@@ -322,18 +368,21 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
 * [Anton](https://anton.app/de/)
 
+<a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
 * [Klassenmappe](https://www.klassenmappe.de) 💰
 * [Sharezone](https://sharezone.net/#/)
 * [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923)
 * [iDoceo](https://www.idoceo.net) 💰
 
+<a name="qr-codes"></a>
 ## QR-Codes
 * [mal-den-code](https://mal-den-code.de)
 * [QR Code Monkey](https://www.qrcode-monkey.com) ✔️
 * [QR Code Generator](http://goqr.me/de/) ✔️
 * [QR-Code-Generator](https://kits.blog/qr/)
 
+<a name="quiz"></a>
 ## Quiz
 * [Quizizz](https://quizizz.com) ⭐ ✔️
 * [Edkimo](https://edkimo.com/de/)
@@ -350,6 +399,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Seterra](https://online.seterra.com/de)
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele ⭐
 
+<a name="simulatoren-(social-media-o.ae.)"></a>
 ## Simulatoren (Social Media o.Ä.)
 * [Zeoob](https://zeoob.com)
 * [TextingStory](https://textingstory.com)
@@ -365,6 +415,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Wortwolke](https://kits.blog/cloud/)
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) ✔️
 
+<a name="tafelersatz"></a>
 ## Tafelersatz
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
@@ -378,6 +429,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Keynote](https://www.apple.com/de/keynote/)
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
 
+<a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
 * [DocDroid](https://www.docdroid.net/de) ✔️
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) ✔️
@@ -400,6 +452,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
 
+<a name="video"></a>
 ## Video
 * [Loom](https://www.loom.com)
 * [Flipgrid](https://info.flipgrid.com)
@@ -418,6 +471,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com)
 * [ActivePresenter](https://atomisystems.com)
 
+<a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
 * [Kahoot](https://kahoot.com) ⭐ ✔️
 * [Quizlet](https://quizlet.com) ⭐
@@ -433,6 +487,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [QuizAcademy](https://quizacademy.de)
 * [Skribbl](https://skribbl.io)
 
+<a name="woerterbuecher,-lexika,-suchmaschine-o.ae."></a>
 ## Wörterbücher, Lexika, Suchmaschine o.Ä.
 * [LanguageTool](https://languagetool.org/de/)
 * [Deepl](https://www.deepl.com/translator)
@@ -449,6 +504,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 * [Ecosia](https://www.ecosia.org)
 * [Metager](https://metager.de)
 
+<a name="sonstiges"></a>
 ## Sonstiges
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs)
 * [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F)
