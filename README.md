@@ -8,7 +8,7 @@ Ganz unten findest du noch einige Kategorien, die im Aufbau sind. Solltest du de
 Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to go far, go together.**
 
 ### Inhaltsverzeichnis der Kategorien
-coming soon
+[Arbeitsblätter erstellen](#arbeitsblaetter-erstellen)
 
 ### Kleine Legende
 ⭐ empfehlenswert
@@ -21,6 +21,7 @@ coming soon
 
 💻 als Browser-Anwendung verfügbar
 
+<a name="arbeitsblaetter-erstellen"></a>
 ## Arbeitsblätter erstellen
 * [Wizer.me](https://wizer.me)
 * [Canva](https://www.canva.com/de_de/erstellen/arbeitsblaetter/)
