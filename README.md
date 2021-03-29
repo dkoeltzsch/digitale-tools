@@ -155,29 +155,29 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
  
 <a name="coding"></a>
 ## Coding
-* [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/)
-* [Scratch](https://scratch.mit.edu)
-* [CodiMD](https://hackmd.okfn.de)
-* [X-Ray Goggles](https://foundation.mozilla.org/en/artifacts/x-ray-goggles/)
-* [Snap!](https://snap.berkeley.edu) ✔️
-* [Code.org](https://code.org)
-* [Tinkercad](https://www.tinkercad.com)
+* [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/) App, um die Programmiersprache Swift zu lernen 📱
+* [Scratch](https://scratch.mit.edu) bildungsorientierte visuelle Programmiersprache für Kinder und Jugendliche ✔️ 💻 📱
+* [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 💻
+* [X-Ray Goggles](https://foundation.mozilla.org/en/artifacts/x-ray-goggles/) Browser-Erweiterung, um den Code hinter jeder Webseite anzusehen und anzupassen 💻
+* [Snap!](https://snap.berkeley.edu) Programmiersprache für Kinder und Erwachsene ✔️ 💻
+* [Code.org](https://code.org) Informatik lernen, Erfinder der Hour of Code 💻
+* [Tinkercad](https://www.tinkercad.com) simples Online-3D-Modellierungsprogramm 📱 💻
 
 <a name="comics"></a>
 ## Comics
-* [Storyboard That](https://www.storyboardthat.com/de)
-* [Knietzsches Werkstatt](https://apps.apple.com/de/app/knietzsches-werkstatt/id1156376762)
-* [MakeBeliefsComics](https://www.makebeliefscomix.com)
-* [Comic Life](https://comiclife.eu/download.html)
+* [Storyboard That](https://www.storyboardthat.com/de) Storyboards erstellen 💻 💰
+* [Knietzsches Werkstatt](https://apps.apple.com/de/app/knietzsches-werkstatt/id1156376762) Bildergeschichten gestalten und schreiben 📱
+* [MakeBeliefsComics](https://www.makebeliefscomix.com) Erstellen von Comic Strips 💻
+* [Comic Life](https://comiclife.eu/download.html) Bildergeschichten, Comics oder bebilderte Anleitungen erstellen 💻 💰
 
 <a name="digitales-klassenzimmer"></a>
 ## Digitales Klassenzimmer
-* [Classroom](https://classroom.google.com/h)
-* [Moodle](https://moodle.org)
-* [Gathertown](https://gather.town)
-* [Wonder](https://www.wonder.me/)
-* [Topia](http://topia.io)
-* [Schabi](https://www.schabi.ch)
+* [Classroom](https://classroom.google.com/h) Lern- und Übungsaufgaben erstellen und verteilen 💻
+* [Moodle](https://moodle.org) kooperative Lehr- und Lernplattform 📱 💻
+* [Gathertown](https://gather.town) immersiver Gruppen-Video-Chat 💻
+* [Wonder](https://www.wonder.me/) immersiver Gruppen-Video-Chat 💻
+* [Topia](http://topia.io) immersiver Gruppen-Video-Chat 💻
+* [Schabi](https://www.schabi.ch) virtuelle Lernumgebung 💻
 * [Kumospace](https://www.kumospace.com) immersiver Gruppen-Video-Chat 💻
 
 <a name="erstellen-von-infographiken-und-lernvideos-o.ae."></a>
