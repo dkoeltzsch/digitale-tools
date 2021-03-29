@@ -62,7 +62,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 
 [Vokabeln Lernen](#vokabeln-lernen)
 
-[Wörterbücher, Lexika, Suchmaschine o.Ä.](#woerterbuecher,-lexika,-suchmaschine-o.ae)
+[Wörterbücher, Lexika, Suchmaschine o.Ä.](#woerterbuecher,-lexika,-suchmaschine-o.ae.)
 
 [Sonstiges](#sonstiges)
 
