@@ -9,33 +9,61 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 
 ### Inhaltsverzeichnis der Kategorien
 [Arbeitsblätter erstellen](#arbeitsblaetter-erstellen)
+
 [Aufgabentools](#aufgabentools)
+
 [Audioaufnahme](#audioaufnahme)
+
 [Bildbearbeitung](#bildbearbeitung)
+
 [Chat](#chat)
+
 [Creative Commons](#creative-commons)
+
 [Coding](#coding)
+
 [Comics](#comics)
+
 [Digitales Klassenzimmer](#digitales-klassenzimmer)
+
 [Erstellen von Infografiken und Lernvideos o.Ä.](#erstellen-von-infographiken-und-lernvideos-o.ae.)
+
 [Feedback & Umfragen](#feedback-&-umfragen)
+
 [Gamification](#gamification)
+
 [Kooperatives Arbeiten](#kooperatives-arbeiten)
+
 [Konferenztools](#konferenztools)
+
 [Lesen- & Lesematerial](#lesen-&-lesematerial)
+
 [(Kostenloses) Material](#(kostenloses)-material)
+
 [Mindmaps](#mindmaps)
+
 [MINT](#mint)
+
 [Online Üben](#online-ueben)
+
 [Organisieren & Verwalten](#organisieren-&-verwalten)
+
 [QR-Codes](#qr-codes)
+
 [Quiz](#quiz)
+
 [Simulatoren (Social Media o.Ä.)](#simulatoren-(social-media-o.ae.))
+
 [Tafelersatz](#tafelersatz)
+
 [Textbearbeitung & Notizen](#textbearbeitung-&-notizen)
+
 [Video](#video)
+
 [Vokabeln Lernen](#vokabeln-lernen)
+
 [Wörterbücher, Lexika, Suchmaschine o.Ä.](#woerterbuecher,-lexika,-suchmaschine-o.ae)
+
 [Sonstiges](#sonstiges)
 
 ### Kleine Legende
