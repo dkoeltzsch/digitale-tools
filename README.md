@@ -173,6 +173,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="digitales-klassenzimmer"></a>
 ## Digitales Klassenzimmer
 * [Classroom](https://classroom.google.com/h) Lern- und Übungsaufgaben erstellen und verteilen 💻
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Moodle](https://moodle.org) kooperative Lehr- und Lernplattform 📱 💻
 * [Gathertown](https://gather.town) immersiver Gruppen-Video-Chat 💻
 * [Wonder](https://www.wonder.me/) immersiver Gruppen-Video-Chat 💻
@@ -182,19 +183,19 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="erstellen-von-infographiken-und-lernvideos-o.ae."></a>
 ## Erstellen von Infographiken und Lernvideos o.Ä.
-* [Adobe Spark](https://spark.adobe.com/de-DE/sp)
-* [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE)
 * [Canva](https://www.canva.com) Mediendesign, viele schicke Vorlagen u.v.m., kostenloser EDU-Account 💻
-* [thinglink](https://www.thinglink.com) Verlinken von Bildern
-* [MySimpleShow](https://www.mysimpleshow.com/de/)
-* [Prezi](https://prezi.com)
-* [Powtoon](https://www.powtoon.com)
-* [Toontastic](https://toontastic.withgoogle.com)
-* [ttsmp3](https://ttsmp3.com)
-* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
-* [Doodly](https://www.doodly.com)
-* [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
-* [Visme](https://www.visme.co)
+* [Adobe Spark](https://spark.adobe.com/de-DE/sp) Mediendesign 📱 💻
+* [Visme](https://www.visme.co) Mediendesign, viele schicke Vorlagen u.v.m. 💻
+* [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE) Erstellen von Präsentationen u.v.m. 📱 💻
+* [Prezi](https://prezi.com) Erstellen von Präsentationen 📱 💻
+* [thinglink](https://www.thinglink.com) Erstellen von interaktiven Bildern 📱 💻
+* [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
+* [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
+* [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
+* [Toontastic](https://toontastic.withgoogle.com) Kreative Storytelling-App, um Cartoons zu zeichnen, animieren, erzählen und aufzunehmen 📱
+* [Text to Speech](https://ttsmp3.com) Umwandeln von Text in natürlich klingende Sprache ✔️ 💻
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
+* [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 
 <a name="feedback-&-umfragen"></a>
@@ -275,7 +276,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Mural](https://www.mural.co) 💰
 * [Trello](https://trello.com )
 * [Cryptpad](https://cryptpad.fr)
-* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [Board.net](https://board.net) ✔️
@@ -374,7 +375,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Maple](https://de.maplesoft.com) 💰
 * [Microsoft Mathematics](https://www.heise.de/download/product/microsoft-mathematics-math-61147)
 * [Photomath](https://photomath.app/de/)
-* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/)
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml)
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733)
 * [Toy Theater](https://toytheater.com/category/teacher-tools/virtual-manipulatives/?fbclid=IwAR0-yPkMVeEecQE1KX6OOMoEqfPgBD_O38sniqWAR2DK82s7_bIyj0193_A)
@@ -460,6 +461,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Cryptpad](https://cryptpad.fr)
 * [Keynote](https://www.apple.com/de/keynote/)
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
@@ -490,10 +492,9 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Plotagon](https://www.plotagon.com)
 * [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US)
-* [Doodly](https://www.doodly.com)
 * [Touchcast](https://touchcast.com/studio)
 * [Speakflow](https://www.speakflow.com) Teleprompter 💻
-* [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
+* [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
 * [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382)
 * [share.it video](https://shareit.video)
 * [Screenzy](https://screenzy.io) ✔️
@@ -503,6 +504,9 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com)
 * [ActivePresenter](https://atomisystems.com)
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
+* [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
+* [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
+* [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
