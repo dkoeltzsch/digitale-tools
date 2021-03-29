@@ -178,6 +178,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Wonder](https://www.wonder.me/)
 * [Topia](http://topia.io)
 * [Schabi](https://www.schabi.ch)
+* [Kumospace](https://www.kumospace.com) immersiver Gruppen-Video-Chat 💻
 
 <a name="erstellen-von-infographiken-und-lernvideos-o.ae."></a>
 ## Erstellen von Infographiken und Lernvideos o.Ä.
