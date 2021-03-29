@@ -109,7 +109,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="audioaufnahme"></a>
 ## Audioaufnahme
-* [Vocaroo](https://vocaroo.com) ✔️ 📱 💻 sehr simple Sprachaufzeichnung, via Link & Download zu verschicken
+* [Vocaroo](https://vocaroo.com) ✔️ 💻 sehr simple Sprachaufzeichnung, via Link & Download zu verschicken
 * [H5P](https://h5p.org)
 * [Audacity](https://www.audacity.de)
 * [Flipgrid](https://info.flipgrid.com) ⭐
@@ -556,8 +556,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/)
 * [epals](https://www.epals.com/#/findPenPalsPage)
 * [Slowly](https://slowly.app/en/)
-* [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 📱 💻
-* [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 📱 💻
+* [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
+* [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen
 
 ## Kategorien in Arbeit
