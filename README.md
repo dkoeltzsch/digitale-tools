@@ -568,4 +568,4 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an Laura Ickinger für die Zusammenstellung einer großen Mehrheit dieser Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration.
