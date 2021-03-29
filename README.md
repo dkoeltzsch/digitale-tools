@@ -80,14 +80,14 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="arbeitsblaetter-erstellen"></a>
 ## Arbeitsblätter erstellen
-* [Wizer.me](https://wizer.me)
+* [Wizer.me](https://wizer.me) Erstellen von online Arbeitsblättern 📱 💻
 * [Canva](https://www.canva.com/de_de/erstellen/arbeitsblaetter/) Mediendesign, viele schicke Vorlagen u.v.m., kostenloser EDU-Account 💻
-* [Tutory](https://www.tutory.de)
-* [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html)
-* [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de/arbeitsblatt-generator/)
-* [Lingofox](https://www.lingofox.de) 💰
-* [Worksheetcrafter](https://getschoolcraft.com/de/) 💰
-* [TeacherMade](https://teachermade.com/teachermade-features/)
+* [Tutory](https://www.tutory.de) Online Editor für Arbeitsblätter 💻
+* [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial und Arbeitsblätter für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
+* [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de/arbeitsblatt-generator/) Arbeitsblätter und Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
+* [Lingofox](https://www.lingofox.de) Software zur Erstellung von Arbeitsblättern für den Sprachunterricht 💰 💻
+* [Worksheetcrafter](https://getschoolcraft.com/de/) Programm zur Gestaltung von differenzierten Arbeitsblättern 💰 💻
+* [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 
 <a name="aufgabentools"></a>
 ## Aufgabentools
@@ -103,7 +103,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Wordwall](https://wordwall.net)
 * [Nearpod](https://nearpod.com) Alleskönner in Sachen formativem Unterricht 📱 💻
 * [Lumi](https://next.lumi.education)
-* [TeacherMade](https://teachermade.com/teachermade-features/)
+* [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 
 <a name="audioaufnahme"></a>
@@ -335,7 +335,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Materialguru](https://www.materialguru.de/deutsch/)
 * [Lehrerheld](https://lehrerheld.com) 💰
 * [Lehrerfreund](https://www.lehrerfreund.de)
-* [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de)
+* [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de) Arbeitsblätter und Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschul Material](https://www.grundschulmaterial.de)
 * [Referendar.de](http://referendar.de)
 * [Schulfuchs](http://schulfuchs.de)
@@ -345,11 +345,12 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) 💰
 * [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool ✔️ 📱 💻
 * [wisc-online](https://www.wisc-online.com)
-* [Wizer.me](https://wizer.me)
+* [Wizer.me](https://wizer.me) Sammlung von online Arbeitsblättern 📱 💻
 * [Planet Schule](https://www.planet-schule.de)
 * [bpb](https://www.bpb.de)
 * [Mundo](https://mundo.schule)
 * [wir-lernen-online.de](https://wirlernenonline.de)
+* [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial und Arbeitsblätter für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -558,7 +559,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Slowly](https://slowly.app/en/)
 * [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
-* [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen
+* [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
+* [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
