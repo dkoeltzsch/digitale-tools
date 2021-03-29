@@ -232,6 +232,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
+* [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten ✔️ 📱 💻 💰
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
 * [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
@@ -420,15 +421,15 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten 💰 ✔️ 📱 💻
-* [Quiz Academy](https://quizacademy.de)
+* [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
 * [Slido](https://www.sli.do) interaktive Q&A- und Abstimmungsplattform 📱 💻
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
 * [Xoyondo](https://xoyondo.com) Erstellung von Terminumfragen oder einfachen Online-Umfragen ✔️ 💻
 * [Socrative](https://www.socrative.com) Quiztool mit schnellen Umfrage- und Abschlussticketfunktion ✔️ 📱 💻
-* [Google Forms](https://www.google.com/intl/de/forms/about/)
+* [Google Forms](https://www.google.com/intl/de/forms/about/) Erstellen einer Umfrage mit Vorlagen und vers. Funktionen 💻
 * [Wooclap](https://www.wooclap.com/de/) Umfrage & Präsentationstool mit vielen Frageformaten 💻
-* [Tubequizard](http://tubequizard.com)
-* [Seterra](https://online.seterra.com/de)
+* [Tubequizard](http://tubequizard.com) Sammlung von YouTube-Videos mit Lückentext-Aufgaben ✔️ 💻
+* [Seterra](https://online.seterra.com/de) online Erdkunde-Quiz-Spiel ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 
@@ -504,6 +505,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com)
 * [ActivePresenter](https://atomisystems.com)
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
+* [Tubequizard](http://tubequizard.com) Sammlung von YouTube-Videos mit Lückentext-Aufgaben ✔️ 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
