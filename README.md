@@ -223,6 +223,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Tricider](https://www.tricider.com) Brainstorming- & Abstimmungsfunktion ✔️ 💻
 * [Feedbackr](https://www.feedbackr.io) gegenseitige Bewertung, Gruppendiskussion, Meinungsbild u.v.m. ✔️ 📱 💻
 * [invote](https://invote.de) Online-Tool für Live-Umfragen durch Abstimmung ✔️ 📱 💻
+* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 
 <a name="gamification"></a>
 ## Gamification
@@ -301,6 +302,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Numbers](https://www.apple.com/de/numbers/)
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
+* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 
 <a name="konferenztools"></a>
 ## Konferenztools
