@@ -175,6 +175,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Classroom](https://classroom.google.com/h) Lern- und Übungsaufgaben erstellen und verteilen 💻
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Moodle](https://moodle.org) kooperative Lehr- und Lernplattform 📱 💻
+* [Ilias](https://www.ilias.de) kooperative Lehr- und Lernplattform 📱 💻
 * [Gathertown](https://gather.town) immersiver Gruppen-Video-Chat 💻
 * [Wonder](https://www.wonder.me/) immersiver Gruppen-Video-Chat 💻
 * [Topia](http://topia.io) immersiver Gruppen-Video-Chat 💻
@@ -188,6 +189,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Visme](https://www.visme.co) Mediendesign, viele schicke Vorlagen u.v.m. 💻
 * [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE) Erstellen von Präsentationen u.v.m. 📱 💻
 * [Prezi](https://prezi.com) Erstellen von Präsentationen 📱 💻
+* [Keynote](https://www.apple.com/de/keynote/) Erstellen von Präsentationen 📱 💻
 * [thinglink](https://www.thinglink.com) Erstellen von interaktiven Bildern 📱 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
@@ -197,6 +199,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
+* [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
@@ -253,56 +256,33 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
+* [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
-* [Mindmeister](https://www.mindmeister.com/de)
-* [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1)
-* [Microsoft To Do](https://todo.microsoft.com/tasks/de-de)
-* [TickTick](https://www.ticktick.com)
-* [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=de&gl=US)
-* [Todoist](https://todoist.com/de)
-* [Mindomo](https://www.mindomo.com/de/)
-* [Oncoo](https://www.oncoo.de)
-* [Bitpaper](https://www.bitpaper.io)
-* [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
-* [Explain Everything](https://explaineverything.com)
-* [Zumpad](https://zumpad.zum.de)
-* [Etherpad](https://yopad.eu)
-* [Padlet](https://padlet.com)
-* [Book Creator](https://bookcreator.com)
-* [Meistertask](https://www.meistertask.com/de)
-* [Asana](https://asana.com/de)
-* [Monday](https://monday.com/pm-visual-t/aw-todo) 💰
-* [Microsoft Planner](https://tasks.office.com)
-* [Microsoft Project](https://www.microsoft.com/de-de/microsoft-365/project/project-management-software?market=de)
-* [Mural](https://www.mural.co) 💰
-* [Trello](https://trello.com )
-* [Cryptpad](https://cryptpad.fr)
-* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
-* [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
-* [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
-* [Board.net](https://board.net) ✔️
-* [Edupad](https://edupad.ch) ✔️
-* [JustPasteIt](https://justpaste.it) ✔️
-* [Ilias](https://www.ilias.de)
-* [Stormboard](https://stormboard.com)
-* [Flinga](https://ebildungslabor.de/blog/flinga/) ✔️
-* [CodiMD](https://hackmd.okfn.de)
-* [Conceptboard](https://app.conceptboard.com/login-redirect)
-* [Draw.Chat](https://draw.chat)
-* [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen, aber schicker
-* [Kialo](https://www.kialo-edu.com)
-* [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
-* [Twinery](https://twinery.org/2/#!/stories)
-* [Mindwendel](https://idea.kits.blog)
-* [Glogster](http://edu.glogster.com) 💰
+siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
+* [Oncoo](https://www.oncoo.de) Sammlung von Apps zum kollaborativen Lernen ✔️ 💻
+* [Asana](https://asana.com/de) Projektmanagement-Tool 📱 💻
+* [Stormboard](https://stormboard.com) Projektmanagement-Tool 📱 💻
+* [Monday](https://monday.com/pm-visual-t/aw-todo) Projektmanagement-Tool 📱 💻 💰
+* [Microsoft Project](https://www.microsoft.com/de-de/microsoft-365/project/project-management-software?market=de) Projektmanagement-Tool 💻 💰
+* [Trello](https://trello.com ) Projektmanagement-Tool 📱 💻
+* [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1) Onlinedienst zur privaten Terminverwaltung 📱 💻
+* [Todoist](https://todoist.com/de) Verwalten von To-Do Listen und Terminen 📱 💻
+* [Microsoft To Do](https://todo.microsoft.com/tasks/de-de) übersichtliches Führen von To-Do Listen (kooperativ möglich) 📱 💻
+* [TickTick](https://www.ticktick.com) To-Do Listen führen 📱 💻
+* [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=de&gl=US) To-Do Listen führen 📱 💻
+* [Meistertask](https://www.meistertask.com/de) Führen von To-Do Listen 📱 💻
+* [Microsoft Planner](https://tasks.office.com) Taskmanagement-Tool 📱 💻 💰
+* [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
+* [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen, aber schicker ✔️ 📱 💻
+* [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
-* [Pages](https://www.apple.com/de/pages/)
-* [Keynote](https://www.apple.com/de/keynote/)
-* [Numbers](https://www.apple.com/de/numbers/)
-* [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
-* [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
+* [JustPasteIt](https://justpaste.it) Text & Bilder hochladen und via Link verteilen ✔️ 📱 💻
+* [Kialo](https://www.kialo-edu.com) Visualisierung von Argumenten und Diskussionen, Erlernen von kritischem Denken 💻
+* [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
+* [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen (Text, Audio, Emojis) versehen ✔️ 💻
+* [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 
 <a name="konferenztools"></a>
@@ -360,7 +340,6 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="mindmaps"></a>
 ## Mindmaps
-* [Mindmeister](https://www.mindmeister.com/de)
 * [XMind](https://www.xmind.net/de/)
 * [Webgreat](https://webgreat.de/mindmap-erstellen-kostenlos-ohne-anmeldung) ✔️
 * [Excalidraw](https://excalidraw.com) ✔️
@@ -370,6 +349,9 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [MindMup](https://app.mindmup.com)
 * [Mindmapp](https://map.kits.blog/app)
 * [Coggle](https://coggle.it/#pricing) 💰
+* [Mindmeister](https://www.mindmeister.com/de) Online-Mindmapping-Tool ✔️ 📱 💻
+* [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
+* [Mindwendel](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
 
 <a name="mint"></a>
 ## MINT
@@ -410,6 +392,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Sharezone](https://sharezone.net/#/)
 * [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923)
 * [iDoceo](https://www.idoceo.net) 💰
+* [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -454,18 +437,21 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
-* [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg)
-* [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en)
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
-* [Bitpaper](https://www.bitpaper.io)
-* [Explain Everything](https://explaineverything.com)
 * [Padlet](https://padlet.com)
-* [Flinga](https://flinga.fi) interaktives Whiteboard
 * [Miro](https://miro.com) interaktives Whiteboard
 * [Cryptpad](https://cryptpad.fr)
 * [Keynote](https://www.apple.com/de/keynote/)
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
+* [Bitpaper](https://www.bitpaper.io) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
+* [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en) virtuelle, digitale Tafel, kooperativ zu bearbeiten 💻
+* [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg) interaktives Whiteboard für Kollaboration und Präsentationen ✔️ 📱 💻
+* [Explain Everything](https://explaineverything.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 📱 💻
+* [Flinga](https://ebildungslabor.de/blog/flinga/) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
+* [Conceptboard](https://app.conceptboard.com/login-redirect) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
+* [Draw.Chat](https://draw.chat) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
+* [Mural](https://www.mural.co) virtuelle Tafeln mit Post-Its bestücken 📱 💻 💰
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
@@ -473,9 +459,6 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) ✔️
 * [Telegraph](https://telegra.ph) ✔️
 * [Cabinet](https://www.cabinet.app)
-* [Etherpad](https://yopad.eu)
-* [Cryptpad](https://cryptpad.fr)
-* [Edupad](https://edupad.ch) ✔️
 * [Good Notes](https://www.goodnotes.com) 💰
 * [Notability](https://apps.apple.com/de/app/notability/id360593530) 💰
 * [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) 💰
@@ -486,9 +469,16 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Post-it](https://apps.apple.com/us/app/post-it/id920127738)
 * [Minibooks](https://www.minibooks.ch)
 * [Book Creator](https://bookcreator.com)
-* [Pages](https://www.apple.com/de/pages/)
+* [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
+* [Pages](https://www.apple.com/de/pages/) Textverarbeitungs-Software 📱 💻
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen
+* [Cryptpad](https://cryptpad.fr) kollaborativer Web-Editor inkl. Datenverschlüsselung ✔️ 💻
+* [Zumpad](https://zumpad.zum.de) Erstellen gemeinsamer Texte oder Teilen von Informationen, Wählen einer einfachen selbstgewählten Webadresse ✔️ 💻  
+* [Etherpad](https://yopad.eu) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
+* [Edupad](https://edupad.ch) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
+* [Board.net](https://board.net) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
+* [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 💻
 
 <a name="video"></a>
 ## Video
@@ -572,6 +562,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
 * [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
+* [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻 
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
