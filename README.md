@@ -252,6 +252,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [MakeAWordSearch](http://makeawordsearch.net/create.php) Erstellen von Wortsuchrätseln ✔️ 💻
 * [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
+* [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -393,15 +394,15 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="online-ueben"></a>
 ## Online Üben
 * [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
-* [Anki](https://apps.ankiweb.net)
-* [Phase6](http://phase-6.de)
-* [Alfons](https://alfons.westermann.de/alfons/#/information)
-* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
-* [Schlaukopf](https://www.schlaukopf.de)
-* [Study smarter](https://www.studysmarter.de/schule/)
-* [Scoyo](https://www.scoyo.de/faecher/englisch)
-* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
-* [Anton](https://anton.app/de/)
+* [Anki](https://apps.ankiweb.net) Lernkartei-Software mit speziellen Wiederholungsintervall 📱 💻
+* [Phase6](http://phase-6.de) Lernkartei-Software 📱 💻 💰
+* [Alfons](https://alfons.westermann.de/alfons/#/information) Online-Lernprogramm für die Fächer Deutsch, Mathematik und Englisch der Klassen 1-4 📱 💻 💰
+* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps) Sammlung kostenloser Lernapps 📱
+* [Schlaukopf](https://www.schlaukopf.de) interaktive Lerntests ✔️ 💻
+* [Study smarter](https://www.studysmarter.de/schule/) intelligente Lernapp 📱 💻
+* [Scoyo](https://www.scoyo.de/faecher/englisch) Online Lernplattform 📱 💻 💰
+* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version) spielerische Englischvokabel-App 📱
+* [Anton](https://anton.app/de/) Lernapp für die Klassen 1-10 📱 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -517,16 +518,16 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
 * [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
-* [Anki](https://apps.ankiweb.net)
-* [Phase6](http://phase-6.de) 💰
-* [Alfons](https://alfons.westermann.de/alfons/#/information)
-* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps)
-* [Schlaukopf](https://www.schlaukopf.de)
-* [Study smarter](https://www.studysmarter.de/schule/)
-* [Scoyo](https://www.scoyo.de/faecher/englisch)
-* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version)
-* [QuizAcademy](https://quizacademy.de)
-* [Skribbl](https://skribbl.io)
+* [Anki](https://apps.ankiweb.net) Lernkartei-Software mit speziellen Wiederholungsintervall 📱 💻
+* [Phase6](http://phase-6.de) Lernkartei-Software 📱 💻 💰
+* [Alfons](https://alfons.westermann.de/alfons/#/information) Online-Lernprogramm für die Fächer Deutsch, Mathematik und Englisch der Klassen 1-4 📱 💻 💰
+* [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps) Sammlung kostenloser Lernapps 📱
+* [Schlaukopf](https://www.schlaukopf.de) interaktive Lerntests ✔️ 💻
+* [Study smarter](https://www.studysmarter.de/schule/) intelligente Lernapp 📱 💻
+* [Scoyo](https://www.scoyo.de/faecher/englisch) Online Lernplattform 📱 💻 💰
+* [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version) spielerische Englischvokabel-App 📱
+* [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
+* [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 
 <a name="woerterbuecher,-lexika,-suchmaschine-o.ae."></a>
 ## Wörterbücher, Lexika, Suchmaschine o.Ä.
