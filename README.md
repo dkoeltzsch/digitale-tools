@@ -438,7 +438,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 <a name="tafelersatz"></a>
 ## Tafelersatz
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
-* [Padlet](https://padlet.com)
+* [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Miro](https://miro.com) interaktives Whiteboard
 * [Cryptpad](https://cryptpad.fr)
 * [Keynote](https://www.apple.com/de/keynote/)
