@@ -275,7 +275,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Meistertask](https://www.meistertask.com/de) Führen von To-Do Listen 📱 💻
 * [Microsoft Planner](https://tasks.office.com) Taskmanagement-Tool 📱 💻 💰
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
-* [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen, aber schicker ✔️ 📱 💻
+* [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen ✔️ 📱 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
 * [JustPasteIt](https://justpaste.it) Text & Bilder hochladen und via Link verteilen ✔️ 📱 💻
@@ -287,21 +287,19 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="konferenztools"></a>
 ## Konferenztools
-* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) (💰)
-* [Zoom](https://zoom.us)
-* [Google Meet](https://meet.google.com)
-* [Jitsi](https://meet.jit.si)
-* [Miro](https://miro.com)
+* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) Konferenz-Tool, inkl. Notizen, Aufgaben u.v.m. 📱 💻 (💰)
+* [Zoom](https://zoom.us) Videokonferenz-Tool ✔️ 📱 💻
+* [Google Meet](https://meet.google.com) Videokonferenz-Tool 📱 💻
+* [Jitsi](https://meet.jit.si) Videokonferenz-Tool ✔️ 📱 💻
 * [Cisco](https://www.cisco.com/c/de_de/index.html)
-* [Discord](https://discord.com)
-* [Eyeson](https://www.eyeson.com/?lang=de)
-* [GoTo Meeting](https://www.gotomeeting.com/de-de )
-* [Big Blue Button](https://bigbluebutton.org)
-* [Loom](https://www.loom.com)
-* [Meetzu](https://klassenzimmer.meetzi.de)
-* [Whereby](https://whereby.com) 💰
-* [Skype](https://www.skype.com/de/)
-* [Schoolfox](https://foxeducation.com/schoolfox/) 💰
+* [Discord](https://discord.com) Onlinedienst für Instant Messaging, Chat, Sprachkonferenzen und Videokonferenzen 📱 💻
+* [Eyeson](https://www.eyeson.com/?lang=de) Videokonferenz-Tool 📱 💻 💰
+* [GoTo Meeting](https://www.gotomeeting.com/de-de) Software für Online-Meetings, Video- und Webkonferenzen 📱 💻 💰
+* [Big Blue Button](https://bigbluebutton.org) Webkonferenzsystem ✔️ 💻
+* [Meetzi](https://klassenzimmer.meetzi.de) simples online Videokonferenzen mit bis zu 30 Personen ✔️ 💻
+* [Whereby](https://whereby.com) Videokonferenz-Tool ✔️ 💻 💰
+* [Skype](https://www.skype.com/de/) Onlinedienst für Instant Messaging, Chat, Sprachkonferenzen und Videokonferenzen 📱 💻
+* [Schoolfox](https://foxeducation.com/schoolfox/) virtuelle Form der Klassenkommunikation, DSGVO konform 📱 💻 💰
 
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
@@ -340,15 +338,14 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="mindmaps"></a>
 ## Mindmaps
-* [XMind](https://www.xmind.net/de/)
-* [Webgreat](https://webgreat.de/mindmap-erstellen-kostenlos-ohne-anmeldung) ✔️
-* [Excalidraw](https://excalidraw.com) ✔️
-* [Flinga](https://ebildungslabor.de/blog/flinga/) ✔️
-* [Popplet](https://www.popplet.com)
-* [Bubbl.us](https://bubbl.us)
-* [MindMup](https://app.mindmup.com)
-* [Mindmapp](https://map.kits.blog/app)
-* [Coggle](https://coggle.it/#pricing) 💰
+siehe auch: Tafelersatz
+* [XMind](https://www.xmind.net/de/) virtuelles Mindmapping-Tool 📱 💻
+* [Webgreat](https://webgreat.de/mindmap-erstellen-kostenlos-ohne-anmeldung) Mindmap Gratis ohne Anmeldung erstellen ✔️ 💻
+* [Popplet](https://www.popplet.com) kostenlose App zum Erstellen von Mindmaps und Storyboards 📱
+* [Bubbl.us](https://bubbl.us) virtuelles Mindmapping-Tool ✔️ 💻
+* [MindMup](https://app.mindmup.com) virtuelles Mindmapping-Tool 💻
+* [Mindmapp](https://map.kits.blog/app) virtuelles Mindmapping-Tool ✔️ 💻
+* [Coggle](https://coggle.it/#pricing) Erstellen von Mindmaps und Flowcharts ✔️ 💻
 * [Mindmeister](https://www.mindmeister.com/de) Online-Mindmapping-Tool ✔️ 📱 💻
 * [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
 * [Mindwendel](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
@@ -388,18 +385,18 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
-* [Klassenmappe](https://www.klassenmappe.de) 💰
-* [Sharezone](https://sharezone.net/#/)
-* [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923)
-* [iDoceo](https://www.idoceo.net) 💰
+* [Klassenmappe](https://www.klassenmappe.de) Organisation der täglichen Klassengeschäfte einer Lehrkraft 📱 💻 💰
+* [Sharezone](https://sharezone.net/#/) vernetzter Schulplaner, um sich gemeinsam zu organisieren 📱 💻
+* [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923) kostenlose Stundenplan-App für Schüler und Lehrer 📱
+* [iDoceo](https://www.idoceo.net) digitaler Lehrerassistent 📱 💻 💰
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
-* [mal-den-code](https://mal-den-code.de)
-* [QR Code Monkey](https://www.qrcode-monkey.com) ✔️
-* [QR Code Generator](http://goqr.me/de/) ✔️
-* [QR-Code-Generator](https://kits.blog/qr/)
+* [mal-den-code](https://mal-den-code.de) QR-Codes zum Ausmalen erstellen ✔️ 💻
+* [QR Code Monkey](https://www.qrcode-monkey.com) QR Codes mit Logo, Farbe und Design erstellen ✔️ 💻
+* [QR Code Generator](http://goqr.me/de/) QR-Codes erstellen ✔️ 💻
+* [QR-Code-Generator](https://kits.blog/qr/) QR-Codes erstellen ✔️ 💻
 
 <a name="quiz"></a>
 ## Quiz
@@ -437,21 +434,23 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
+siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
-* [Miro](https://miro.com) interaktives Whiteboard
-* [Cryptpad](https://cryptpad.fr)
-* [Keynote](https://www.apple.com/de/keynote/)
+* [Miro](https://miro.com) interaktives Whiteboard ✔️ 📱 💻
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
-* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Bitpaper](https://www.bitpaper.io) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en) virtuelle, digitale Tafel, kooperativ zu bearbeiten 💻
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg) interaktives Whiteboard für Kollaboration und Präsentationen ✔️ 📱 💻
 * [Explain Everything](https://explaineverything.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 📱 💻
+* [Excalidraw](https://excalidraw.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Flinga](https://ebildungslabor.de/blog/flinga/) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Conceptboard](https://app.conceptboard.com/login-redirect) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Draw.Chat](https://draw.chat) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Mural](https://www.mural.co) virtuelle Tafeln mit Post-Its bestücken 📱 💻 💰
+* [Cryptpad](https://cryptpad.fr) kollaborativer Web-Editor inkl. Datenverschlüsselung ✔️ 💻
+* [Keynote](https://www.apple.com/de/keynote/) Erstellen von Präsentationen 📱 💻
+* [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
@@ -482,7 +481,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="video"></a>
 ## Video
-* [Loom](https://www.loom.com)
+* [Loom](https://www.loom.com) Aufnehmen und Teilen von Videonachrichten 📱 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Plotagon](https://www.plotagon.com)
 * [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US)
