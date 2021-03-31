@@ -54,6 +54,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Quiz](#quiz)
 
+[Rätsel-Tools (z.B. für EDUBreakouts](raetsel-tools-(z.B.-fuer-edubreakouts)
+
 [Simulatoren (Social Media o.Ä.)](#simulatoren-(social-media-o.ae.))
 
 [Tafelersatz](#tafelersatz)
@@ -231,7 +233,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="gamification"></a>
 ## Gamification
-* [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
+siehe auch: Rätsel-Tools
 * [Biparcours](https://biparcours.de) Gestaltung digitaler Lernangebote zur Erschließung außerschulischer Lernorte, z.B. Schnitzeljagd 📱
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
 * [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
@@ -240,7 +242,6 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten ✔️ 📱 💻 💰
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
-* [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
 * [Wheel Decide](https://wheeldecide.com) Glücksrad Generator ✔️ 💻
 * [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738) interaktive, aktivitäts- und spielbasierte Diashows erstellen 📱 💻
 * [DeckToys](https://deck.toys) Rätselspiele erstellen, inkl. Einbetten von u.a. LearningsApps, Videos, Websites 💻
@@ -253,12 +254,9 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Google Expeditionen](https://edu.google.com/intl/de_de/products/vr-ar/expeditions/?modal_active=none) virtuelle Schulausflüge 📱
 * [GarticPhone](https://garticphone.com/de) Stille Post online ✔️ 💻
 * [Codenames](https://codenames.game) Brettpiel Codenames online ✔️ 💻
-* [MakeAWordSearch](http://makeawordsearch.net/create.php) Erstellen von Wortsuchrätseln ✔️ 💻
-* [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
-* [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
 
 <a name="kooperatives-arbeiten"></a>
@@ -277,6 +275,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=de&gl=US) To-Do Listen führen 📱 💻
 * [Meistertask](https://www.meistertask.com/de) Führen von To-Do Listen 📱 💻
 * [Microsoft Planner](https://tasks.office.com) Taskmanagement-Tool 📱 💻 💰
+* [Slice](https://slice.wbrain.me) gemeinsames Erstellen von Diskussionstafeln ✔️ 💻
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen ✔️ 📱 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
@@ -428,6 +427,15 @@ siehe auch: Tafelersatz
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 
+<a name="raetsel-tools-(z.B.-fuer-edubreakouts)"></a>
+## Rätsel-Tools (z.B. für EDUBreakouts)
+siehe auch: Gamification, Simulatoren
+* [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
+* [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
+* [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
+* [MakeAWordSearch](http://makeawordsearch.net/create.php) Erstellen von Wortsuchrätseln ✔️ 💻
+* [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
+
 <a name="simulatoren-(social-media-o.ae.)"></a>
 ## Simulatoren (Social Media o.Ä.)
 * [Zeoob](https://zeoob.com)
@@ -578,7 +586,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
 * Quick Guides/Anleitungen
-* Rätsel, Ideen für EDUBreakouts
 * ...
 
 Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration.
