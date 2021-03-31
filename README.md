@@ -428,7 +428,7 @@ siehe auch: Tafelersatz
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 
 <a name="raetsel-tools-(z.B.-fuer-edubreakouts))"></a>
-## Rätsel-Tools (z.B. für EDUBreakouts)
+## Rätsel Tools (z.B. für EDUBreakouts)
 siehe auch: Gamification, Simulatoren
 * [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
 * [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
