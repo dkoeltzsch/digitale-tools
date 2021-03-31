@@ -211,6 +211,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Feedback Master](https://feedback-master.de) Erstellen von Frage- und Bewertungsbögen, digitale Korrekturhilfe ✔️ 📱 💻
 * [Answer Garden](https://answergarden.ch) Web-Tool zum schnellen Sammeln von kurzen Antworten, Ideen und Rückmeldungen ✔️ 💻
 * [Edkimo](https://edkimo.com/de/) (Live-)Feedback von Gruppen einholen 📱 💻
+* [FeedbackSchule](http://wp.feedbackschule.de) Feedback von Gruppen einholen, Items selbst erstellen oder auf Vorlagen zurückgreifen 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten ✔️ 📱 💻
 * [Slido](https://www.sli.do) interaktive Q&A- und Abstimmungsplattform 📱 💻
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
@@ -257,6 +258,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
+* [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
+* [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -306,6 +309,11 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Newsela](https://newsela.com) Texte an verschiedene Schwierigkeitsstufen anpassen & mit Fragen/Medien versehen 📱 💻
 * [Readlang](https://readlang.com/en/dashboard) Übersetzungstool für Websiten mit späterer Abfrage der unbekannten Wörter 📱 💻
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen 💻
+* [Projekt Gutenberg](https://www.projekt-gutenberg.org) große kostenlose deutschsprachige Volltext- Literatursammlung ✔️ 💻
+* [Onilo](https://www.onilo.de) Boardstories, animierte Geschichten 📱 💻 💰
+* [LeseLudi](https://leseludi.de) Lernportal zum Lesetraining mit online Leseaufgaben 💻 💰
+* [KleineSchule](https://www.kleineschule.com.de/erstlesespiele.html) Erstlesetraining ✔️ 💻
+* [Plastischer Reader Onenote](https://www.onenote.com/learningtools) erweiterte Darstellung von Text zur besseren Lesbarkeit 📱 💻
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
@@ -335,6 +343,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Mundo](https://mundo.schule)
 * [wir-lernen-online.de](https://wirlernenonline.de)
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial und Arbeitsblätter für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
+* [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -382,6 +391,8 @@ siehe auch: Tafelersatz
 * [Scoyo](https://www.scoyo.de/faecher/englisch) Online Lernplattform 📱 💻 💰
 * [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version) spielerische Englischvokabel-App 📱
 * [Anton](https://anton.app/de/) Lernapp für die Klassen 1-10 📱 💻
+* [Lernrudi](https://lernrudi.de) Onlineübungen zur Sprachförderung von DaZ 💻 💰
+* [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -397,6 +408,7 @@ siehe auch: Tafelersatz
 * [QR Code Monkey](https://www.qrcode-monkey.com) QR Codes mit Logo, Farbe und Design erstellen ✔️ 💻
 * [QR Code Generator](http://goqr.me/de/) QR-Codes erstellen ✔️ 💻
 * [QR-Code-Generator](https://kits.blog/qr/) QR-Codes erstellen ✔️ 💻
+* [goqr.me](http://goqr.me) QR-Codes erstellen ✔️ 💻
 
 <a name="quiz"></a>
 ## Quiz
@@ -552,7 +564,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Kapopo](https://kapopo.de/?fbclid=IwAR2i6Du_bcxY9F_NCkjBSVurkYdzIXEtD5apT0obM30LhM5XRQc-2mZ-5vk…)
 * [Random Emoji Prompts](https://www.byrdseed.com/emoji2/)
 * [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039)
-* [Kunstmatrix](https://www.kunstmatrix.com/en)
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/)
 * [epals](https://www.epals.com/#/findPenPalsPage)
 * [Slowly](https://slowly.app/en/)
@@ -561,11 +572,13 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
 * [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
+* [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
 * [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻 
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
 * Quick Guides/Anleitungen
+* Rätsel, Ideen für EDUBreakouts
 * ...
 
 Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration.
