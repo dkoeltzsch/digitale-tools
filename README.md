@@ -54,7 +54,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Quiz](#quiz)
 
-[Rätsel-Tools (z.B. für EDUBreakouts)](raetsel-tools-(z.B.-fuer-edubreakouts))
+[Rätsel Tools](raetsel-tools)
 
 [Simulatoren (Social Media o.Ä.)](#simulatoren-(social-media-o.ae.))
 
@@ -427,8 +427,8 @@ siehe auch: Tafelersatz
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 
-<a name="raetsel-tools-(z.B.-fuer-edubreakouts))"></a>
-## Rätsel Tools (z.B. für EDUBreakouts)
+<a name="raetsel-tools"></a>
+## Rätsel Tools
 siehe auch: Gamification, Simulatoren
 * [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
 * [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
