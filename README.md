@@ -258,6 +258,7 @@ siehe auch: Rätsel-Tools
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
+* [Boardgames Arena](https://de.boardgamearena.com) Sammlung von Brettspielen zum digitalen Spielen mit Freunden ✔️ 📱 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
