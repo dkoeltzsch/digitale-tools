@@ -1,9 +1,9 @@
 # Digitale Tools für den Unterricht
-Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung digitaler Tools, um dein Leben in der Bildung zu erleichtern. 
+Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung digitaler Tools, um dein Leben in der Bildung zu erleichtern.
 
-Die Liste wird (durch deine Hilfe) ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal. 
+Die Liste wird (durch deine Hilfe) ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal.
 
-Ganz unten findest du Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen, dir digitale Tools zu einer neuen Kategorie wünschen oder allgemein Feedback und Verbesserungsvorschläge haben, schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com). 
+Ganz unten findest du Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen, dir digitale Tools zu einer neuen Kategorie wünschen oder allgemein Feedback und Verbesserungsvorschläge haben, schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com).
 
 Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to go far, go together.**
 
@@ -110,18 +110,19 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="audioaufnahme"></a>
 ## Audioaufnahme
-* [Vocaroo](https://vocaroo.com) sehr simple Sprachaufzeichnung, via Link & Download zu verschicken ✔️ 💻 
+* [Vocaroo](https://vocaroo.com) sehr simple Sprachaufzeichnung, via Link & Download zu verschicken ✔️ 💻
 * [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
 * [Audacity](https://www.audacity.de) Audioeditor und -rekorder 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Speakflow](https://www.speakflow.com) Teleprompter 💻
 * [Anchor](https://anchor.fm) Podcast erstellen & hochladen 📱 💻
-* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻 
+* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
 * [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426) Fotos sprechen lassen 📱
 * [Voki](https://www.voki.com) sprechende virtuelle Figuren 📱 💻
 * [Soundtrap](https://www.soundtrap.com/?lang=de) digitale Audio-Workstation zum Erstellen von Musik & Podcasts 💻 💰
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
 * [Text to Speech](https://ttsmp3.com) Umwandeln von Text in natürlich klingende Sprache ✔️ 💻
+* [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -131,7 +132,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="chat"></a>
 ## Chat
 * [tlk](https://tlk.io) simpler Webchat ✔️ 💻
-* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻 
+* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
 * [Tweedback](https://tweedback.de) web-basiertes Live-Feedback-System ✔️ 💻
 
 <a name="creative-commons"></a>
@@ -140,7 +141,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Pexels](https://www.pexels.com/de-de/) kostenlose Fotos & Videos ✔️ 💻
 * [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
-* [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻 
+* [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻
 * [Unsplash](https://unsplash.com) Bilder zur kostenlosen Verwendung ✔️ 💻
 * [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) kostenlose Texturen, Bilder und Fotos im Graffiti Stil ✔️ 💻
 * [Free Clip art library](http://clipart-library.com) kostenlose Clip-Arts ✔️ 💻
@@ -154,7 +155,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [freesound.org](https://freesound.org/browse/) lizenzfreie Musik & Sounds ✔️ 💻
 * [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
- 
+
 <a name="coding"></a>
 ## Coding
 * [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/) App, um die Programmiersprache Swift zu lernen 📱
@@ -223,7 +224,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Wooclap](https://www.wooclap.com/de/) Umfrage & Präsentationstool mit vielen Frageformaten 💻
 * [poll everywhere](https://www.polleverywhere.com) Umfragetool mit vielen Frageformaten ✔️ 📱 💻
 * [StrawPoll](https://strawpoll.com) Erstellen von Umfragen ✔️ 📱 💻
-* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻 
+* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
 * [Tweedback](https://tweedback.de) web-basiertes Live-Feedback-System ✔️ 💻
 * [Aula](https://aula-blog.website) Online-Plattform, um eigene Ideen einzustellen, zu diskutieren, auszuarbeiten und darüber abzustimmen 📱 💻 💰
 * [Tricider](https://www.tricider.com) Brainstorming- & Abstimmungsfunktion ✔️ 💻
@@ -245,7 +246,7 @@ siehe auch: Rätsel-Tools
 * [Wheel Decide](https://wheeldecide.com) Glücksrad Generator ✔️ 💻
 * [Make It](https://apps.apple.com/de/app/make-it-erstellen-sie-spiele/id1182354738) interaktive, aktivitäts- und spielbasierte Diashows erstellen 📱 💻
 * [DeckToys](https://deck.toys) Rätselspiele erstellen, inkl. Einbetten von u.a. LearningsApps, Videos, Websites 💻
-* [Educandy](https://www.educandy.com) simples Erstellen interaktiver Lernspiele ✔️ 📱 💻 
+* [Educandy](https://www.educandy.com) simples Erstellen interaktiver Lernspiele ✔️ 📱 💻
 * [Bitsboard](http://bitsboard.com) Sammlung und eigenes Erstellen von Lernspielen mit eigenen Bildern, Videos und Tönen 📱
 * [Stadt Land Fluss online](https://stadtlandflussonline.net/new-game.xhtml) multiplayer, kostenlos, online Variante des Spieleklassikers ✔️ 💻
 * [Quick Words](https://quickwords.net) virtuelles Wörterspiel ✔️ 💻
@@ -523,6 +524,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
+* [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -584,7 +586,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
 * [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
-* [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻 
+* [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
