@@ -408,6 +408,7 @@ siehe auch: Tafelersatz
 * [QR Code Generator](http://goqr.me/de/) QR-Codes erstellen ✔️ 💻
 * [QR-Code-Generator](https://kits.blog/qr/) QR-Codes erstellen ✔️ 💻
 * [goqr.me](http://goqr.me) QR-Codes erstellen ✔️ 💻
+* [QR app](https://www.qrapp.de) QR-Codes mit Logo, Farbe und Design erstellen ✔️ 💻
 
 <a name="quiz"></a>
 ## Quiz
