@@ -577,6 +577,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Slowly](https://slowly.app/en/)
 * [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
+* [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
 * [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
