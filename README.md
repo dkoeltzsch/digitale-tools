@@ -160,7 +160,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 ## Coding
 * [Swift Playgrounds](https://www.apple.com/de/swift/playgrounds/) App, um die Programmiersprache Swift zu lernen 📱
 * [Scratch](https://scratch.mit.edu) bildungsorientierte visuelle Programmiersprache für Kinder und Jugendliche ✔️ 💻 📱
-* [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 💻 seit 2020 als [HedgeDoc](https://hedgedoc.org) zu finden
+* [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown - seit 2020 als [HedgeDoc](https://hedgedoc.org) zu finden ✔️ 💻
 * [X-Ray Goggles](https://foundation.mozilla.org/en/artifacts/x-ray-goggles/) Browser-Erweiterung, um den Code hinter jeder Webseite anzusehen und anzupassen 💻
 * [Snap!](https://snap.berkeley.edu) Programmiersprache für Kinder und Erwachsene ✔️ 💻
 * [Code.org](https://code.org) Informatik lernen, Erfinder der Hour of Code 💻
