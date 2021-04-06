@@ -590,6 +590,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
 * [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
 * [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻
+* [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
