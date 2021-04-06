@@ -581,7 +581,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039)
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/)
 * [epals](https://www.epals.com/#/findPenPalsPage)
-* [Slowly](https://slowly.app/en/)
+* [Slowly](https://slowly.app/en/) digitale Brieffreundschaften in Echtzeit, d.h. so lange wie ein Brief brauchen würde 📱
 * [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
