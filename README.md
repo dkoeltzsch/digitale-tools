@@ -591,6 +591,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
 * [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻
 * [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
+* [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
