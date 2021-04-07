@@ -488,20 +488,20 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
-* [DocDroid](https://www.docdroid.net/de) ✔️
-* [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) ✔️
-* [Telegraph](https://telegra.ph) ✔️
-* [Cabinet](https://www.cabinet.app)
-* [Good Notes](https://www.goodnotes.com) 💰
-* [Notability](https://apps.apple.com/de/app/notability/id360593530) 💰
-* [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) 💰
-* [Evernote](https://evernote.com/intl/de/basic)
-* [Liquid Texts](https://www.liquidtext.net)
-* [Marginnote](https://www.marginnote.com)
-* [Twinery](https://twinery.org/2/#!/stories)
-* [Post-it](https://apps.apple.com/us/app/post-it/id920127738)
-* [Minibooks](https://www.minibooks.ch)
-* [Book Creator](https://bookcreator.com)
+* [DocDroid](https://www.docdroid.net/de) Dokumentkonverter ✔️ 💻
+* [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
+* [Telegraph](https://telegra.ph) simpler, kostenloser Blogging Dienst ✔️ 💻
+* [Cabinet](https://www.cabinet.app) Notizbuch in App Format 📱
+* [Good Notes](https://www.goodnotes.com) Notiz / Textbearbeitungsapp 📱 💰
+* [Notability](https://apps.apple.com/de/app/notability/id360593530) Notiz App 📱 💰
+* [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) Notiz App 📱 💻 💰 
+* [Evernote](https://evernote.com/intl/de/basic) Notiz App 📱 💻
+* [Liquid Texts](https://www.liquidtext.net) Notiz App mit Zusatzfunktionen, wie Organisation der Texte 📱 💻
+* [Marginnote](https://www.marginnote.com) Lese- und Annotationssoftware 📱 💻
+* [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
+* [Post-it](https://apps.apple.com/us/app/post-it/id920127738) virtuelle PostIts 📱
+* [Minibooks](https://www.minibooks.ch) Erstellen von online Büchern ✔️ 💻
+* [Book Creator](https://bookcreator.com) Erstellen von online Büchern 📱 💻
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
 * [Pages](https://www.apple.com/de/pages/) Textverarbeitungs-Software 📱 💻
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
