@@ -321,7 +321,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
-* [Lehrermarktplatz](https://lehrermarktplatz.de)
+* [Lehrermarktplatz](https://lehrermarktplatz.de) bald als eduki zu finden!
 * [Schulportal](https://schulportal.de)
 * [4teachers](https://www.4teachers.de)
 * [Unterricht.Schule](https://unterricht.schule)
@@ -348,6 +348,8 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [wir-lernen-online.de](https://wirlernenonline.de)
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial und Arbeitsblätter für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
+* [Ditch That Textbook](https://ditchthattextbook.com) englischsprachiges Material & Ideen für den Unterricht ✔️ 💻
+* [eBildungslabor](https://ebildungslabor.de) Sammlung digitaler Tools & Ideen für den Unterricht ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
