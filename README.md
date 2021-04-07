@@ -173,6 +173,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Knietzsches Werkstatt](https://apps.apple.com/de/app/knietzsches-werkstatt/id1156376762) Bildergeschichten gestalten und schreiben 📱
 * [MakeBeliefsComics](https://www.makebeliefscomix.com) Erstellen von Comic Strips 💻
 * [Comic Life](https://comiclife.eu/download.html) Bildergeschichten, Comics oder bebilderte Anleitungen erstellen 💻 💰
+* [Pixton](https://www.pixton.com) Erstellen von Comics 💻
 
 <a name="digitales-klassenzimmer"></a>
 ## Digitales Klassenzimmer
@@ -307,6 +308,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Whereby](https://whereby.com) Videokonferenz-Tool ✔️ 💻 💰
 * [Skype](https://www.skype.com/de/) Onlinedienst für Instant Messaging, Chat, Sprachkonferenzen und Videokonferenzen 📱 💻
 * [Schoolfox](https://foxeducation.com/schoolfox/) virtuelle Form der Klassenkommunikation, DSGVO konform 📱 💻 💰
+* [Jam](https://jam.systems) Audiokonferenz-Tool ✔️ 💻
 
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
