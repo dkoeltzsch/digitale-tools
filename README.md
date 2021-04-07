@@ -447,6 +447,8 @@ siehe auch: Gamification, Simulatoren
 * [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
 * [MakeAWordSearch](http://makeawordsearch.net/create.php) Erstellen von Wortsuchrätseln ✔️ 💻
 * [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
+* [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
+* [Kryptowissen Caesars Verschlüsselung](https://www.kryptowissen.de/caesar-chiffre-praxis.php) Tool zum Verschlüsseln von Text ✔️ 💻
 
 <a name="simulatoren-(social-media-o.ae.)"></a>
 ## Simulatoren (Social Media o.Ä.)
