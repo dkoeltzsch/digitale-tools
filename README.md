@@ -56,7 +56,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Rätsel](#raetsel)
 
-[Simulatoren (Social Media o.Ä.)](#simulatoren-(social-media-o.ae.))
+[Simulatoren (Social Media o.Ä.) & Generatoren](#simulatoren-(social-media-o.ae.)-&-generatoren)
 
 [Tafelersatz](#tafelersatz)
 
@@ -97,7 +97,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
-* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) interaktive, textbasierende Dialogsysteme ✔️
+* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen, meist textbasiert ✔️ 💻
 * [Classtime](https://www.classtime.com/de/) interaktive Lektionen gestalten, individuellen Lernfortschritt einsehen 💻 💰
 * [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
 * [Actionbound](https://de.actionbound.com) App für Multimedia-Guides, interaktive Schnitzeljagden und Handy-Rallyes 💻 📱
@@ -450,12 +450,11 @@ siehe auch: Gamification, Simulatoren
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Kryptowissen Caesars Verschlüsselung](https://www.kryptowissen.de/caesar-chiffre-praxis.php) Tool zum Verschlüsseln von Text ✔️ 💻
 
-<a name="simulatoren-(social-media-o.ae.)"></a>
-## Simulatoren (Social Media o.Ä.)
-* [Zeoob](https://zeoob.com)
-* [TextingStory](https://textingstory.com)
-* [Chat Story Maker](https://apps.apple.com/us/app/textingstory-chat-story-maker/id1083676922)
-* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks)
+<a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
+## Simulatoren (Social Media o.Ä.) & Generatoren
+* [Zeoob](https://zeoob.com) Simulator für soziale Medien, wie Facebook, Twitter etc. 💻
+* [TextingStory](https://textingstory.com) Simulator für Chatverläufe, auch in Videoformat 📱
+* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen ✔️ 💻
 * [Story Generator](https://www.plot-generator.org.uk/story/)
 * [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/)
 * [Maze Generator](http://www.mazegenerator.net)
