@@ -128,6 +128,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 ## Bildbearbeitung
 * [Let's Enhance](https://letsenhance.io) Bildauflösung ohne Qualitätsverlust zu erhöhen ✔️ 💻
 * [ImgBB](https://imgbb.com) kostensloses Bilder hochladen & teilen ✔️ 💻
+* [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
@@ -322,32 +323,30 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
-* [Lehrermarktplatz](https://lehrermarktplatz.de) bald als eduki zu finden!
-* [Schulportal](https://schulportal.de)
-* [4teachers](https://www.4teachers.de)
-* [Unterricht.Schule](https://unterricht.schule)
-* [Übungskönig](https://www.uebungskoenig.de)
+* [Lehrermarktplatz](https://lehrermarktplatz.de) Sammlung von Unterrichtsmaterialien, kostenlos & kostenpflichtig - bald als eduki zu finden! 💻
+* [Schulportal](https://schulportal.de) Sammlung von Unterrichtsmaterialien, Punkte-System 💻
+* [4teachers](https://www.4teachers.de) Sammlung von Unterrichtsmaterialien, kostenlos 💻
+* [Unterricht.Schule](https://unterricht.schule) Sammlung von Unterrichtsmaterialien, 1 kostenloser Download pro Tag ✔️ 💻
+* [Übungskönig](https://www.uebungskoenig.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Newsela](https://newsela.com) Texte an verschiedene Schwierigkeitsstufen anpassen & mit Fragen/Medien versehen 📱 💻
-* [Unterrichtsmaterial-Schule](https://www.unterrichtsmaterial-schule.de)
-* [Materialguru](https://www.materialguru.de/deutsch/)
-* [Lehrerheld](https://lehrerheld.com) 💰
-* [Lehrerfreund](https://www.lehrerfreund.de)
-* [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de) Arbeitsblätter und Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
-* [Grundschul Material](https://www.grundschulmaterial.de)
-* [Referendar.de](http://referendar.de)
-* [Schulfuchs](http://schulfuchs.de)
-* [Teachers Pay Teachers](https://www.teacherspayteachers.com)
-* [ZUM Unterrichten](https://unterrichten.zum.de/wiki)
-* [iSL COLLECTIVE](https://en.islcollective.com)
-* [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) 💰
-* [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool ✔️ 📱 💻
-* [wisc-online](https://www.wisc-online.com)
-* [Wizer.me](https://wizer.me) Sammlung von online Arbeitsblättern 📱 💻
-* [Planet Schule](https://www.planet-schule.de)
-* [bpb](https://www.bpb.de)
-* [Mundo](https://mundo.schule)
-* [wir-lernen-online.de](https://wirlernenonline.de)
-* [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial und Arbeitsblätter für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
+* [Unterrichtsmaterial-Schule](https://www.unterrichtsmaterial-schule.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [Materialguru](https://www.materialguru.de/deutsch/) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [Lehrerheld](https://lehrerheld.com) Sammlung von Unterrichtsmaterialien 💻 💰
+* [Lehrerfreund](https://www.lehrerfreund.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
+* [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
+* [Grundschul Material](https://www.grundschulmaterial.de) Unterrichtsmaterial für die Grundschule, Punkte-System/kostenpflichtig 💻
+* [Referendar.de](http://referendar.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [Schulfuchs](http://schulfuchs.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [Teachers Pay Teachers](https://www.teacherspayteachers.com) englischsprachige Website, Sammlung Unterrichtsmaterialien, kostenlos & kostenpflichtig 💻
+* [ZUM Unterrichten](https://unterrichten.zum.de/wiki) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [iSL COLLECTIVE](https://en.islcollective.com) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) Sammlung von Unterrichtsmaterialien 💻 💰
+* [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool inkl. Materialien ✔️ 📱 💻
+* [Planet Schule](https://www.planet-schule.de) Sammlung von Begleitmaterial ✔️ 💻
+* [bpb](https://www.bpb.de) Sammlung von Begleitmaterial ✔️ 💻
+* [Mundo](https://mundo.schule) offene Bildungsmediathek der Länder ✔️ 💻
+* [wir-lernen-online.de](https://wirlernenonline.de) Sammlung von Unterrichtsmaterialien, kostenlos 💻
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 * [Ditch That Textbook](https://ditchthattextbook.com) englischsprachiges Material & Ideen für den Unterricht ✔️ 💻
 * [eBildungslabor](https://ebildungslabor.de) Sammlung digitaler Tools & Ideen für den Unterricht ✔️ 💻
@@ -403,6 +402,7 @@ siehe auch: Tafelersatz
 * [Anton](https://anton.app/de/) Lernapp für die Klassen 1-10 📱 💻
 * [Lernrudi](https://lernrudi.de) Onlineübungen zur Sprachförderung von DaZ 💻 💰
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
+* [wisc-online](https://www.wisc-online.com) englischsprachige Onlineübungen zu vielen Fächern ✔️ 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -449,21 +449,22 @@ siehe auch: Gamification, Simulatoren
 * [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Kryptowissen Caesars Verschlüsselung](https://www.kryptowissen.de/caesar-chiffre-praxis.php) Tool zum Verschlüsseln von Text ✔️ 💻
+* [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 
 <a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
 ## Simulatoren (Social Media o.Ä.) & Generatoren
 * [Zeoob](https://zeoob.com) Simulator für soziale Medien, wie Facebook, Twitter etc. 💻
 * [TextingStory](https://textingstory.com) Simulator für Chatverläufe, auch in Videoformat 📱
 * [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen ✔️ 💻
-* [Story Generator](https://www.plot-generator.org.uk/story/)
-* [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/)
-* [Maze Generator](http://www.mazegenerator.net)
-* [Cyborg Web Apps Sammlung](https://appscyborg.com)
-* [FakeWhatsApp](https://www.fakewhats.com/generator) ✔️
-* [Penguin Classics Cover Generator](https://penguin.jos.ht) ✔️
-* [Wordcloud](https://www.wordclouds.com) ✔️
-* [Wortwolke](https://kits.blog/cloud/)
-* [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) ✔️
+* [Story Generator](https://www.plot-generator.org.uk/story/) Ideengenerator für Geschichten, Charaktere u.v.m. ✔️ 💻
+* [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/) Tool zur Autovervollständigen von Suchanfragen ✔️ 💻
+* [Maze Generator](http://www.mazegenerator.net) Labyrinthgenerierung ✔️ 💻
+* [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
+* [FakeWhatsApp](https://www.fakewhats.com/generator) WhatsApp Chat Simulator ✔️ 💻
+* [Penguin Classics Cover Generator](https://penguin.jos.ht) Erstellen von personifizierten Penguin Classics Buchcovern ✔️ 💻
+* [Wordcloud](https://www.wordclouds.com) Wordcloud-Generator ✔️ 💻
+* [Wortwolke](https://kits.blog/cloud/) Wordcloud-Generator ✔️ 💻
+* [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
