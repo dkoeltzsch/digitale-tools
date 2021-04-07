@@ -490,6 +490,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Textbearbeitung & Notizen
 * [DocDroid](https://www.docdroid.net/de) Dokumentkonverter ✔️ 💻
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
+* [Sejda](https://www.sejda.com/de/) PDF-Editor, online, kostenlos 💻 💰
 * [Telegraph](https://telegra.ph) simpler, kostenloser Blogging Dienst ✔️ 💻
 * [Cabinet](https://www.cabinet.app) Notizbuch in App Format 📱
 * [Good Notes](https://www.goodnotes.com) Notiz / Textbearbeitungsapp 📱 💰
