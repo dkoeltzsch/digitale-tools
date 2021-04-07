@@ -277,6 +277,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [TickTick](https://www.ticktick.com) To-Do Listen führen 📱 💻
 * [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=de&gl=US) To-Do Listen führen 📱 💻
 * [Meistertask](https://www.meistertask.com/de) Führen von To-Do Listen 📱 💻
+* [Checkvist](https://checkvist.com) Taskmanagement-Tool 💻 📱
 * [Microsoft Planner](https://tasks.office.com) Taskmanagement-Tool 📱 💻 💰
 * [Slice](https://slice.wbrain.me) gemeinsames Erstellen von Diskussionstafeln ✔️ 💻
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
@@ -360,6 +361,9 @@ siehe auch: Tafelersatz
 * [Bubbl.us](https://bubbl.us) virtuelles Mindmapping-Tool ✔️ 💻
 * [MindMup](https://app.mindmup.com) virtuelles Mindmapping-Tool 💻
 * [Mindmapp](https://map.kits.blog/app) virtuelles Mindmapping-Tool ✔️ 💻
+* [Ayoa](https://www.ayoa.com) virtuelles Mindmapping-Tool 💻
+* [Wisemapping](https://www.wisemapping.com) virtuelles Mindmapping-Tool ✔️ 💻
+* [Mind42](https://mind42.com) virtuelles Mindmapping-Tool ✔️ 💻
 * [Coggle](https://coggle.it/#pricing) Erstellen von Mindmaps und Flowcharts ✔️ 💻
 * [Mindmeister](https://www.mindmeister.com/de) Online-Mindmapping-Tool ✔️ 📱 💻
 * [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
