@@ -389,6 +389,7 @@ siehe auch: Tafelersatz
 * [Flora Incognita](https://apps.apple.com/de/app/flora-incognita/id1297860122)
 * [PhET](https://phet.colorado.edu/de/)
 * [Desmos](https://www.desmos.com/?lang=de) Grafiktaschenrechner & interaktives Mathetool, Anzeige des individuellen Lernfortschritts ✔️ 📱 💻
+* [PGLU](https://pglu.ch/) Lernmaterialien für Robotik basierend auf Arduino, auch für [Fortgeschrittene](https://workshop.pglu.ch) 💰
 
 <a name="online-ueben"></a>
 ## Online Üben
