@@ -90,6 +90,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Lingofox](https://www.lingofox.de) Software zur Erstellung von Arbeitsblättern für den Sprachunterricht 💻 💰
 * [Worksheetcrafter](https://getschoolcraft.com/de/) Programm zur Gestaltung von differenzierten Arbeitsblättern 💻 💰
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
+* [Live Worksheets](https://www.liveworksheets.com) Erstellen von interaktiven Arbeitsblättern 💻
 
 <a name="aufgabentools"></a>
 ## Aufgabentools
@@ -346,6 +347,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [ZUM Unterrichten](https://unterrichten.zum.de/wiki) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [iSL COLLECTIVE](https://en.islcollective.com) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Lehrerbüro](https://www.lehrerbuero.de/startseite.html) Sammlung von Unterrichtsmaterialien 💻 💰
+* [Live Worksheets](https://www.liveworksheets.com) Sammlung an Arbeitsblättern 💻
 * [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool inkl. Materialien ✔️ 📱 💻
 * [Planet Schule](https://www.planet-schule.de) Sammlung von Begleitmaterial ✔️ 💻
 * [bpb](https://www.bpb.de) Sammlung von Begleitmaterial ✔️ 💻
@@ -502,12 +504,13 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Notability](https://apps.apple.com/de/app/notability/id360593530) Notiz App 📱 💰
 * [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) Notiz App 📱 💻 💰 
 * [Evernote](https://evernote.com/intl/de/basic) Notiz App 📱 💻
-* [Liquid Texts](https://www.liquidtext.net) Notiz App mit Zusatzfunktionen, wie Organisation der Texte 📱 💻
+* [Liquid Text](https://www.liquidtext.net) Notiz App mit Zusatzfunktionen, wie Organisation der Texte 📱 💻
 * [Marginnote](https://www.marginnote.com) Lese- und Annotationssoftware 📱 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
 * [Post-it](https://apps.apple.com/us/app/post-it/id920127738) virtuelle PostIts 📱
 * [Minibooks](https://www.minibooks.ch) Erstellen von online Büchern ✔️ 💻
 * [Book Creator](https://bookcreator.com) Erstellen von online Büchern 📱 💻
+* [Storybird](https://storybird.com) visuelles Geschichten schreiben 💻
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
 * [Pages](https://www.apple.com/de/pages/) Textverarbeitungs-Software 📱 💻
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen versehen ✔️
