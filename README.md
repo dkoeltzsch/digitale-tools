@@ -206,6 +206,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
+* [Circly](https://circlyapp.com/index.html) Visual Organizer Tool 💻
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
@@ -273,6 +274,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Monday](https://monday.com/pm-visual-t/aw-todo) Projektmanagement-Tool 📱 💻 💰
 * [Microsoft Project](https://www.microsoft.com/de-de/microsoft-365/project/project-management-software?market=de) Projektmanagement-Tool 💻 💰
 * [Trello](https://trello.com ) Projektmanagement-Tool 📱 💻
+* [Circly](https://circlyapp.com/index.html) Visual Organizer Tool 💻
 * [Google Calendar](https://calendar.google.com/calendar/u/0/r?pli=1) Onlinedienst zur privaten Terminverwaltung 📱 💻
 * [Todoist](https://todoist.com/de) Verwalten von To-Do Listen und Terminen 📱 💻
 * [Microsoft To Do](https://todo.microsoft.com/tasks/de-de) übersichtliches Führen von To-Do Listen (kooperativ möglich) 📱 💻
