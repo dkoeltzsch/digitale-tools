@@ -134,6 +134,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Let's Enhance](https://letsenhance.io) Bildauflösung ohne Qualitätsverlust zu erhöhen ✔️ 💻
 * [ImgBB](https://imgbb.com) kostensloses Bilder hochladen & teilen ✔️ 💻
 * [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
+* [Snippyly](https://snippyly.com) Screenshort Tool, einfaches teilen & weitere Funktionen 💻
 
 <a name="chat"></a>
 ## Chat
@@ -294,6 +295,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen ✔️ 📱 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
+* [Seesaw](https://web.seesaw.me) e-Portfolios erstellen 📱 💻
 * [JustPasteIt](https://justpaste.it) Text & Bilder hochladen und via Link verteilen ✔️ 📱 💻
 * [Kialo](https://www.kialo-edu.com) Visualisierung von Argumenten und Diskussionen, Erlernen von kritischem Denken 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
@@ -462,6 +464,7 @@ siehe auch: Gamification, Simulatoren
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Kryptowissen Caesars Verschlüsselung](https://www.kryptowissen.de/caesar-chiffre-praxis.php) Tool zum Verschlüsseln von Text ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
+* [Picture to Puzzle](https://micetf.fr/picturetopuzzle/) Französisches Online-Tool, um Bilder in Puzzle zu verwandeln ✔️ 💻
 
 <a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
 ## Simulatoren (Social Media o.Ä.) & Generatoren
