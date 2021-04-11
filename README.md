@@ -617,6 +617,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻
 * [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
 * [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
+* [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
