@@ -7,7 +7,8 @@ Ganz unten findest du Kategorien, die im Aufbau sind. Solltest du deshalb selbst
 
 Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to go far, go together.**
 
-Kleiner Exkurs: Kreativität im Unterricht evaluieren? Geht das? Nimm einfach an dieser Forschungsstudie teil, teste die App Geistesblitz & finde es heraus! 
+Kleiner Exkurs: **Kreativität im Unterricht evaluieren?** Geht das? 
+Nimm einfach an dieser Forschungsstudie teil, **teste die App Geistesblitz** & finde es heraus! 
 Gesucht werden Englischlehrkräfte der Klassen 1-6 & Studierende (Englisch Lehramt), die 25-30min Zeit haben.
 PS: Für jede Testung der App wird 1€ für die Bildung von Kindern in Moria gespendet, also WIN-WIN für alle!
 Zur Anmeldung einfach [hier](https://forms.gle/fKu4aM5eTi8XVTeb9) entlang!
