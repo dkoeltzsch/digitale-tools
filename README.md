@@ -561,6 +561,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Anki](https://apps.ankiweb.net) Lernkartei-Software mit speziellen Wiederholungsintervall 📱 💻
 * [Phase6](http://phase-6.de) Lernkartei-Software 📱 💻 💰
+* [cabuu](https://www.cabuu.app) Online Lernplatform für Vokabeln in Englisch, Latein & Französisch 📱 💰
 * [Alfons](https://alfons.westermann.de/alfons/#/information) Online-Lernprogramm für die Fächer Deutsch, Mathematik und Englisch der Klassen 1-4 📱 💻 💰
 * [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps) Sammlung kostenloser Lernapps 📱
 * [Schlaukopf](https://www.schlaukopf.de) interaktive Lerntests ✔️ 💻
