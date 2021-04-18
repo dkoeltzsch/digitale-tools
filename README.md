@@ -425,6 +425,7 @@ siehe auch: Tafelersatz
 * [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923) kostenlose Stundenplan-App für Schüler und Lehrer 📱
 * [iDoceo](https://www.idoceo.net) digitaler Lehrerassistent 📱 💻 💰
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
+* [LeOnKa](https://le-on-ka.de) Online-Unterrichtsmanager für Termine und Planung, inkl. Tafelersatz 💻 💰
 
 <a name="qr-codes"></a>
 ## QR-Codes
