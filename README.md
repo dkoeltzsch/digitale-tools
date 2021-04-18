@@ -159,6 +159,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [audiohub](https://audiohub.de/kostenlose-gemafreie-musik) lizenzfreie Musik ✔️ 💻
 * [salamisound](https://www.salamisound.de) Geräusche und Sounds kostenlos downloaden ✔️ 💻
 * [hörspielbox](https://www.hoerspielbox.de) kostenlose Inhalte für Audioproduktionen ✔️ 💻
+* [Noises Online](https://noises.online) Online-Geräuschesammlung zum Entspannen ✔️ 💻
 * [freesound.org](https://freesound.org/browse/) lizenzfreie Musik & Sounds ✔️ 💻
 * [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
