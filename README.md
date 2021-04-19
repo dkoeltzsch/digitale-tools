@@ -622,6 +622,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
 * [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
 * [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
+* [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
