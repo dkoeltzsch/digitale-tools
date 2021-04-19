@@ -452,6 +452,7 @@ siehe auch: Tafelersatz
 * [Wooclap](https://www.wooclap.com/de/) Umfrage & Präsentationstool mit vielen Frageformaten 💻
 * [Tubequizard](http://tubequizard.com) Sammlung von YouTube-Videos mit Lückentext-Aufgaben ✔️ 💻
 * [Seterra](https://online.seterra.com/de) online Erdkunde-Quiz-Spiel ✔️ 💻
+* [Welt-Quiz Geografie](https://world-geography-games.com/de/index.html) online Erdkunde-Quiz-Spiel ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 
