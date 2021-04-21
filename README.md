@@ -18,7 +18,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Aufgabentools](#aufgabentools)
 
-[Audioaufnahme](#audioaufnahme)
+[Audio & Audioaufnahme](#audio-&-audioaufnahme)
 
 [Bildbearbeitung](#bildbearbeitung)
 
@@ -113,8 +113,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 
-<a name="audioaufnahme"></a>
-## Audioaufnahme
+<a name="audio-&-audioaufnahme"></a>
+## Audio & Audioaufnahme
 * [Vocaroo](https://vocaroo.com) sehr simple Sprachaufzeichnung, via Link & Download zu verschicken ✔️ 💻
 * [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
 * [Audacity](https://www.audacity.de) Audioeditor und -rekorder 💻
@@ -128,6 +128,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
 * [Text to Speech](https://ttsmp3.com) Umwandeln von Text in natürlich klingende Sprache ✔️ 💻
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
+* [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs) Youtube-Sammlung einfacher englischer Lieder ✔️ 💻
+* [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F) Liedtexte während des Musikvideos ergänzen ✔️ 📱 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -593,8 +595,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 <a name="sonstiges"></a>
 ## Sonstiges
-* [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs)
-* [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F)
 * [ClassTools](https://www.classtools.net) ✔️
 * [T1P](https://t1p.de) ✔️
 * [Tiny URL](https://tiny.cc) ✔️
