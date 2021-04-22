@@ -470,6 +470,7 @@ siehe auch: Gamification, Simulatoren
 * [Kryptowissen Caesars Verschlüsselung](https://www.kryptowissen.de/caesar-chiffre-praxis.php) Tool zum Verschlüsseln von Text ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 * [Picture to Puzzle](https://micetf.fr/picturetopuzzle/) Französisches Online-Tool, um Bilder in Puzzle zu verwandeln ✔️ 💻
+* [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
 
 <a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
 ## Simulatoren (Social Media o.Ä.) & Generatoren
@@ -485,6 +486,7 @@ siehe auch: Gamification, Simulatoren
 * [Wordcloud](https://www.wordclouds.com) Wordcloud-Generator ✔️ 💻
 * [Wortwolke](https://kits.blog/cloud/) Wordcloud-Generator ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
+* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
