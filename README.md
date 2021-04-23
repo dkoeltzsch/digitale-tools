@@ -334,7 +334,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [KleineSchule](https://www.kleineschule.com.de/erstlesespiele.html) Erstlesetraining ✔️ 💻
 * [Plastischer Reader Onenote](https://www.onenote.com/learningtools) erweiterte Darstellung von Text zur besseren Lesbarkeit 📱 💻
 * [Readfy](https://www.readfy.com/de/) Gratis eBook Sammlung 📱
-* [vorleser.net](https://www.vorleser.net) Sammlung von Hörbüchern, z.T. kostenlos ✔️ 💻
+* [vorleser.net](https://www.vorleser.net) Sammlung von Hörbüchern, z.T. kostenlos ✔️ 📱 💻
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
