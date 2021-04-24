@@ -320,7 +320,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Zoom](https://zoom.us) Videokonferenz-Tool ✔️ 📱 💻
 * [Google Meet](https://meet.google.com) Videokonferenz-Tool 📱 💻
 * [Jitsi](https://meet.jit.si) Videokonferenz-Tool ✔️ 📱 💻
-* [Cisco](https://www.cisco.com/c/de_de/index.html)
+* [Cisco](https://www.cisco.com/c/de_de/index.html) Videokonferenz-Tool 💻
 * [Discord](https://discord.com) Onlinedienst für Instant Messaging, Chat, Sprachkonferenzen und Videokonferenzen 📱 💻
 * [Eyeson](https://www.eyeson.com/?lang=de) Videokonferenz-Tool 📱 💻 💰
 * [GoTo Meeting](https://www.gotomeeting.com/de-de) Software für Online-Meetings, Video- und Webkonferenzen 📱 💻 💰
