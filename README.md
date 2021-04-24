@@ -243,6 +243,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Tweedback](https://tweedback.de) web-basiertes Live-Feedback-System ✔️ 💻
 * [Aula](https://aula-blog.website) Online-Plattform, um eigene Ideen einzustellen, zu diskutieren, auszuarbeiten und darüber abzustimmen 📱 💻 💰
 * [Tricider](https://www.tricider.com) Brainstorming- & Abstimmungsfunktion ✔️ 💻
+* [Dotstorming](https://dotstorming.com) Brainstorming- & Abstimmungsfunktion 💻
 * [Feedbackr](https://www.feedbackr.io) gegenseitige Bewertung, Gruppendiskussion, Meinungsbild u.v.m. ✔️ 📱 💻
 * [invote](https://invote.de) Online-Tool für Live-Umfragen durch Abstimmung ✔️ 📱 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
@@ -275,6 +276,7 @@ siehe auch: Rätsel-Tools
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
 * [Boardgames Arena](https://de.boardgamearena.com) Sammlung von Brettspielen zum digitalen Spielen mit Freunden ✔️ 📱 💻
+* [Blooket](https://www.blooket.com) Online Spielesammlung mit Bildungsinhalten 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -556,6 +558,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com)
 * [ActivePresenter](https://atomisystems.com)
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
+* [VideoAnt](https://ant.umn.edu) Videos mit Anmerkungen versehen, kollaborativ möglich 💻
 * [Tubequizard](http://tubequizard.com) Sammlung von YouTube-Videos mit Lückentext-Aufgaben ✔️ 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
