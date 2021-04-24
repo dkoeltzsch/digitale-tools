@@ -130,6 +130,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs) Youtube-Sammlung einfacher englischer Lieder ✔️ 💻
 * [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F) Liedtexte während des Musikvideos ergänzen ✔️ 📱 💻
+* [mote](https://www.justmote.me) Google Chrome Erweiterung, um Audio-Feedback zu verschicken ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
