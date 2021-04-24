@@ -307,7 +307,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen (Text, Audio, Emojis) versehen ✔️ 💻
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen 💻
-* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
+* [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
 
 <a name="konferenztools"></a>
 ## Konferenztools
@@ -432,6 +432,7 @@ siehe auch: Tafelersatz
 * [iDoceo](https://www.idoceo.net) digitaler Lehrerassistent 📱 💻 💰
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [LeOnKa](https://le-on-ka.de) Online-Unterrichtsmanager für Termine und Planung, inkl. Tafelersatz 💻 💰
+* [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -629,6 +630,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
 * [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
 * [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
+* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
