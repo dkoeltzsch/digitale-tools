@@ -64,6 +64,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Tafelersatz](#tafelersatz)
 
+[Technikhacks](#technikhacks)
+
 [Textbearbeitung & Notizen](#textbearbeitung-&-notizen)
 
 [Video](#video)
@@ -138,6 +140,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [ImgBB](https://imgbb.com) kostensloses Bilder hochladen & teilen ✔️ 💻
 * [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
 * [Snippyly](https://snippyly.com) Screenshort Tool, einfaches teilen & weitere Funktionen 💻
+* [Screenzy](https://screenzy.io) Screenshot Bearbeitung ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
@@ -166,6 +169,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [freesound.org](https://freesound.org/browse/) lizenzfreie Musik & Sounds ✔️ 💻
 * [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
+* [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382) Sammlung digitaler Videohintergründe ✔️ 💻
 * [Geräuschesammler](https://geräuschesammler.de) Sammlung kostenloser Geräusche ✔️ 💻
 
 <a name="coding"></a>
@@ -277,6 +281,7 @@ siehe auch: Rätsel-Tools
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
 * [Boardgames Arena](https://de.boardgamearena.com) Sammlung von Brettspielen zum digitalen Spielen mit Freunden ✔️ 📱 💻
 * [Blooket](https://www.blooket.com) Online Spielesammlung mit Bildungsinhalten 💻
+* [ClassTools](https://www.classtools.net) Sammlung von vers. digitalen Tools, vorwiegend spielerisch ✔️ 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -369,6 +374,10 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 * [Ditch That Textbook](https://ditchthattextbook.com) englischsprachiges Material & Ideen für den Unterricht ✔️ 💻
 * [eBildungslabor](https://ebildungslabor.de) Sammlung digitaler Tools & Ideen für den Unterricht ✔️ 💻
+* [Offene Geschichte](https://offene-geschichte.de) Lernplattform für Geschichte ✔️ 💻
+* [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
+* [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
+* [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -390,23 +399,23 @@ siehe auch: Tafelersatz
 <a name="mint"></a>
 ## MINT
 * [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool ✔️ 📱 💻
-* [Derive](https://derive.de.uptodown.com/windows)
-* [Mathcad](https://www.mathcad.com/de) 💰
-* [Maple](https://de.maplesoft.com) 💰
-* [Microsoft Mathematics](https://www.heise.de/download/product/microsoft-mathematics-math-61147)
-* [Photomath](https://photomath.app/de/)
+* [Derive](https://derive.de.uptodown.com/windows) leistungsstarkes Mathematik-Tool ✔️
+* [Mathcad](https://www.mathcad.com/de) Mathematiksoftware 💰
+* [Maple](https://de.maplesoft.com) Mathematiksoftware 💰
+* [Microsoft Mathematics](https://www.heise.de/download/product/microsoft-mathematics-math-61147) Mathetool inkl. Formel- und Gleichungsbibliothek zum Erlernen mathem. Begriffe & grafischen Taschenrechner ✔️
+* [Photomath](https://photomath.app/de/) Matheaufgaben scannen und lösen lassen 📱
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
-* [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml)
-* [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733)
-* [Toy Theater](https://toytheater.com/category/teacher-tools/virtual-manipulatives/?fbclid=IwAR0-yPkMVeEecQE1KX6OOMoEqfPgBD_O38sniqWAR2DK82s7_bIyj0193_A)
-* [Didax](https://www.didax.com/math/virtual-manipulatives.html?fbclid=IwAR2_IaUdOtoKiXM5Zwk0tmu4QSI-87OIMSj3QykxtYJiM-o0bb7mnS1_0D8)
-* [Shapes 3D](https://apps.apple.com/de/app/shapes-3d-create-geometry-ar/id1455777006)
-* [Bau ein Atom](https://phet.colorado.edu/de/simulation/build-an-atom)
-* [Chemix](https://chemix.org)
-* [Flora Incognita](https://apps.apple.com/de/app/flora-incognita/id1297860122)
-* [PhET](https://phet.colorado.edu/de/)
+* [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze erstellen 📱
+* [Toy Theater](https://toytheater.com/category/teacher-tools/virtual-manipulatives/?fbclid=IwAR0-yPkMVeEecQE1KX6OOMoEqfPgBD_O38sniqWAR2DK82s7_bIyj0193_A) Visualisierungen für Matheaufgaben ✔️ 💻
+* [Didax](https://www.didax.com/math/virtual-manipulatives.html?fbclid=IwAR2_IaUdOtoKiXM5Zwk0tmu4QSI-87OIMSj3QykxtYJiM-o0bb7mnS1_0D8) Visualisierungen für Matheaufgaben ✔️ 💻
+* [Shapes 3D](https://apps.apple.com/de/app/shapes-3d-create-geometry-ar/id1455777006) Geometrische Figuren im Virtual Reality Format erstellen 📱
+* [PhET](https://phet.colorado.edu/de/) Interaktive Simulationen für Physik, Chemie, Bio, Geo u.v.m. ✔️ 💻
+* [Chemix](https://chemix.org) Online-Editor zum Zeichnen von Labordiagrammen und Schulversuchsgeräten ✔️ 💻
+* [Flora Incognita](https://apps.apple.com/de/app/flora-incognita/id1297860122) Pflanzen bestimmen 📱
 * [Desmos](https://www.desmos.com/?lang=de) Grafiktaschenrechner & interaktives Mathetool, Anzeige des individuellen Lernfortschritts ✔️ 📱 💻
 * [PGLU](https://pglu.ch/) Lernmaterialien für Robotik basierend auf Arduino, auch für [Fortgeschrittene](https://workshop.pglu.ch) 💰
+* [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻
+* [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -423,6 +432,7 @@ siehe auch: Tafelersatz
 * [Lernrudi](https://lernrudi.de) Onlineübungen zur Sprachförderung von DaZ 💻 💰
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 * [wisc-online](https://www.wisc-online.com) englischsprachige Onlineübungen zu vielen Fächern ✔️ 💻
+* [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml) Sammlung von Matheaufgaben ✔️ 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -433,6 +443,7 @@ siehe auch: Tafelersatz
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [LeOnKa](https://le-on-ka.de) Online-Unterrichtsmanager für Termine und Planung, inkl. Tafelersatz 💻 💰
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
+* [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039) Unterrichtsorganisation für Sportlehrkräfte 📱
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -512,6 +523,16 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Keynote](https://www.apple.com/de/keynote/) Erstellen von Präsentationen 📱 💻
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 
+<a name="technikhacks"></a>
+## Technikhacks
+* [T1P](https://t1p.de) kostenlos Links verkürzen ✔️ 💻
+* [Tiny URL](https://tiny.cc) kostenlos Links verkürzen ✔️ 💻
+* [Linktree](https://linktr.ee) Sammlung erstellen und mit einem Link teilen ✔️ 💻
+* [Schicks Digital!](https://schicks.digital) DSGVO-konform Dateien versenden ✔️ 💻
+* [Snapdrop](https://snapdrop.net) Verschicken von Dateien mit Personen in Reichweite ✔️ 💻
+* [PDF Compressor](https://pdfcompressor.com/de/) Komprimieren von PDFs ✔️ 💻
+* [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
+
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
 * [DocDroid](https://www.docdroid.net/de) Dokumentkonverter ✔️ 💻
@@ -545,19 +566,18 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Video
 * [Loom](https://www.loom.com) Aufnehmen und Teilen von Videonachrichten 📱 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
-* [Plotagon](https://www.plotagon.com)
-* [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US)
-* [Touchcast](https://touchcast.com/studio)
+* [Plotagon](https://www.plotagon.com) animierte Videos, z.B. mit eigener Stimme erstellen 📱
+* [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US) Animationen erstellen 📱
+* [Touchcast](https://touchcast.com/studio) Videos bearbeiten, interaktiv gestalten u.v.m. 📱
 * [Speakflow](https://www.speakflow.com) Teleprompter 💻
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
-* [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382)
-* [share.it video](https://shareit.video)
-* [Screenzy](https://screenzy.io) ✔️
-* [Clips](https://www.apple.com/de/clips/)
-* [Stop Motion Studio](https://www.stopmotionstudio.com)
-* [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131)
-* [Screen-Cast-O-Matic](https://screencast-o-matic.com)
-* [ActivePresenter](https://atomisystems.com)
+* [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382) Sammlung digitaler Videohintergründe ✔️ 💻
+* [share.it video](https://shareit.video) Bildschirmaufnahmen teilen ✔️ 💻
+* [Clips](https://www.apple.com/de/clips/) simples Video Tool 📱
+* [Stop Motion Studio](https://www.stopmotionstudio.com) Stop Motion Filme erstellen 📱 💻 💰
+* [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131) Video Bearbeitung inkl. Green Screen Funktion 📱 💰
+* [Screen-Cast-O-Matic](https://screencast-o-matic.com) Videokonferenz-Tool & Bildschirmaufnahme 💻 💰
+* [ActivePresenter](https://atomisystems.com) Screencasting- und eLearning-Software, inkl. Quiz-Funktion 💻
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 * [VideoAnt](https://ant.umn.edu) Videos mit Anmerkungen versehen, kollaborativ möglich 💻
 * [Tubequizard](http://tubequizard.com) Sammlung von YouTube-Videos mit Lückentext-Aufgaben ✔️ 💻
@@ -585,51 +605,36 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 <a name="woerterbuecher,-lexika,-suchmaschine-o.ae."></a>
 ## Wörterbücher, Lexika, Suchmaschine o.Ä.
-* [LanguageTool](https://languagetool.org/de/)
-* [Deepl](https://www.deepl.com/translator)
-* [PONS Übersetzer](https://de.pons.com/text-übersetzung)
-* [Leo.org](https://www.leo.org/englisch-deutsch/)
-* [linguee](https://www.linguee.de)
-* [Klexikon](https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon)
-* [Brockhaus Jugendlexikon](https://brockhaus.at/info/jugendlexikon/)
-* [Blinde Kuh Suchmaschine](https://www.blinde-kuh.de/index.html)
-* [FragFinn](https://www.fragfinn.de)
-* [Helles Köpfchen](https://www.helles-koepfchen.de)
-* [Google Scholar](https://scholar.google.de)
-* [Qwant](https://www.qwant.com)
-* [Ecosia](https://www.ecosia.org)
-* [Metager](https://metager.de)
+* [LanguageTool](https://languagetool.org/de/) kostenlose Software zur Prüfung von Rechtschreibung, Grammatik und Stil 📱 💻
+* [Deepl](https://www.deepl.com/translator) Übersetzungssoftware ✔️ 💻
+* [PONS Übersetzer](https://de.pons.com/text-übersetzung) Übersetzungssoftware ✔️ 💻
+* [Leo.org](https://www.leo.org/englisch-deutsch/) Online Wörterbuch ✔️ 💻
+* [linguee](https://www.linguee.de) Online Wörterbuch ✔️ 💻
+* [Klexikon](https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon) Online-Lexikon für Kinder ✔️ 💻
+* [Brockhaus Jugendlexikon](https://brockhaus.at/info/jugendlexikon/) Online-Lexikon für Jugendliche ✔️ 💻
+* [Blinde Kuh Suchmaschine](https://www.blinde-kuh.de/index.html) Suchmaschine für Kinder ✔️ 💻
+* [FragFinn](https://www.fragfinn.de) Suchmaschine für Kinder ✔️ 💻
+* [Helles Köpfchen](https://www.helles-koepfchen.de) Suchmaschine für Kinder ✔️ 💻
+* [Google Scholar](https://scholar.google.de) Suchmaschine für wissenschaftliche Arbeiten ✔️ 💻
+* [Qwant](https://www.qwant.com) Suchmaschine inkl. Privatssphäre ✔️ 💻
+* [Ecosia](https://www.ecosia.org) umweltfreundliche Suchmaschine ✔️ 💻
+* [Metager](https://metager.de) Suchmaschine inkl. Privatssphäre ✔️ 💻
 
 <a name="sonstiges"></a>
 ## Sonstiges
-* [ClassTools](https://www.classtools.net) ✔️
-* [T1P](https://t1p.de) ✔️
-* [Tiny URL](https://tiny.cc) ✔️
-* [Linktree](https://linktr.ee)
-* [Snapdrop](https://snapdrop.net) ✔️
-* [PDF Compressor](https://pdfcompressor.com/de/)
-* [Schicks Digital!](https://schicks.digital)
-* [exam.net](https://exam.net)
-* [Offene Geschichte](https://offene-geschichte.de)
-* [pecha.flickr](https://pechaflickr.de)
-* [Kapopo](https://kapopo.de/?fbclid=IwAR2i6Du_bcxY9F_NCkjBSVurkYdzIXEtD5apT0obM30LhM5XRQc-2mZ-5vk…)
-* [Random Emoji Prompts](https://www.byrdseed.com/emoji2/)
-* [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039)
-* [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/)
-* [epals](https://www.epals.com/#/findPenPalsPage)
+* [exam.net](https://exam.net) Prüfungsplattform 💻 💰
+* [pecha.flickr](https://pechaflickr.de) Impro-Vortäge zu Zufallsbildern halten ✔️ 💻
+* [Kapopo](https://kapopo.de/?fbclid=IwAR2i6Du_bcxY9F_NCkjBSVurkYdzIXEtD5apT0obM30LhM5XRQc-2mZ-5vk…) Powerpoint Karaoke ✔️ 💻
+* [Random Emoji Prompts](https://www.byrdseed.com/emoji2/) Zufallsemoji für z.B. Sprech-/Schreibanlässe ✔️ 💻
+* [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/) Forscher:innen in das Klassenzimmer bringen 💻
+* [epals](https://www.epals.com/#/findPenPalsPage) digitale Brieffreundschaftenplattform 💻
 * [Slowly](https://slowly.app/en/) digitale Brieffreundschaften in Echtzeit, d.h. so lange wie ein Brief brauchen würde 📱
-* [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
-* [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
-* [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
-* [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
-* [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
+* [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
 * [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
-* [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻
-* [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
-* [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
-* [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
 * [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
+* [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
+* [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 
 ## Kategorien in Arbeit
