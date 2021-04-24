@@ -361,6 +361,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Grundschul Material](https://www.grundschulmaterial.de) Unterrichtsmaterial für die Grundschule, Punkte-System/kostenpflichtig 💻
 * [Referendar.de](http://referendar.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Schulfuchs](http://schulfuchs.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [45 Minuten](https://www.45minuten-unterricht.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Teachers Pay Teachers](https://www.teacherspayteachers.com) englischsprachige Website, Sammlung Unterrichtsmaterialien, kostenlos & kostenpflichtig 💻
 * [ZUM Unterrichten](https://unterrichten.zum.de/wiki) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [iSL COLLECTIVE](https://en.islcollective.com) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
