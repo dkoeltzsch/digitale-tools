@@ -411,6 +411,7 @@ siehe auch: Tafelersatz
 * [Didax](https://www.didax.com/math/virtual-manipulatives.html?fbclid=IwAR2_IaUdOtoKiXM5Zwk0tmu4QSI-87OIMSj3QykxtYJiM-o0bb7mnS1_0D8) Visualisierungen für Matheaufgaben ✔️ 💻
 * [Shapes 3D](https://apps.apple.com/de/app/shapes-3d-create-geometry-ar/id1455777006) Geometrische Figuren im Virtual Reality Format erstellen 📱
 * [PhET](https://phet.colorado.edu/de/) Interaktive Simulationen für Physik, Chemie, Bio, Geo u.v.m. ✔️ 💻
+* [Algoodo](http://www.algodoo.com) Simulationen für Physik, Chemie, Bio, Geo u.v.m. ✔️
 * [Chemix](https://chemix.org) Online-Editor zum Zeichnen von Labordiagrammen und Schulversuchsgeräten ✔️ 💻
 * [Flora Incognita](https://apps.apple.com/de/app/flora-incognita/id1297860122) Pflanzen bestimmen 📱
 * [Desmos](https://www.desmos.com/?lang=de) Grafiktaschenrechner & interaktives Mathetool, Anzeige des individuellen Lernfortschritts ✔️ 📱 💻
