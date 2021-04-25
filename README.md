@@ -313,6 +313,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen (Text, Audio, Emojis) versehen ✔️ 💻
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen 💻
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
+* [Nextcloud Hub](https://nextcloud.com/) selbst hostbare Cloud-Plattform für Dateiaustausch, kollaboratives Arbeiten, uvm.
 
 <a name="konferenztools"></a>
 ## Konferenztools
@@ -330,6 +331,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Skype](https://www.skype.com/de/) Onlinedienst für Instant Messaging, Chat, Sprachkonferenzen und Videokonferenzen 📱 💻
 * [Schoolfox](https://foxeducation.com/schoolfox/) virtuelle Form der Klassenkommunikation, DSGVO konform 📱 💻 💰
 * [Jam](https://jam.systems) Audiokonferenz-Tool ✔️ 💻
+* [Nextcloud Talk](https://nextcloud.com/de/talk/) Videokonferenz-Tool eingebettet in Nextcloud (für größere Gruppen ist ein zusätzlicher Serverdienst nötig) 📱 💻
 
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
@@ -396,6 +398,7 @@ siehe auch: Tafelersatz
 * [Mindmeister](https://www.mindmeister.com/de) Online-Mindmapping-Tool ✔️ 📱 💻
 * [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
 * [Mindwendel](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
+* [Nextcloud Mindmaps](https://apps.nextcloud.com/apps/files_mindmap) Mindmapping-Tool in Nextcloud 💻
 
 <a name="mint"></a>
 ## MINT
@@ -445,6 +448,7 @@ siehe auch: Tafelersatz
 * [LeOnKa](https://le-on-ka.de) Online-Unterrichtsmanager für Termine und Planung, inkl. Tafelersatz 💻 💰
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
 * [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039) Unterrichtsorganisation für Sportlehrkräfte 📱
+* [Nextcloud Deck](https://nextcloud.com/blog/nextcloud-deck-1-0-available-today-plus-deck-for-android/) Kanban-Anwendung innerhalb von Nextcloud 📱 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -562,6 +566,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Edupad](https://edupad.ch) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
 * [Board.net](https://board.net) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
 * [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 💻
+* [Collabora Office](https://nextcloud.com/de/collaboraonline/) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
+* [Online Office](https://www.onlyoffice.com/de/office-for-nextcloud.aspx) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 
 <a name="video"></a>
 ## Video
