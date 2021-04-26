@@ -361,6 +361,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschul Material](https://www.grundschulmaterial.de) Unterrichtsmaterial für die Grundschule, Punkte-System/kostenpflichtig 💻
+* [Lehrer24](https://www.lehrer24.de) Suchmaschine für Unterrichtsmaterialien, Schwerpunkt Grundschule ✔️ 💻
 * [Referendar.de](http://referendar.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Schulfuchs](http://schulfuchs.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [45 Minuten](https://www.45minuten-unterricht.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
@@ -374,6 +375,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [bpb](https://www.bpb.de) Sammlung von Begleitmaterial ✔️ 💻
 * [Mundo](https://mundo.schule) offene Bildungsmediathek der Länder ✔️ 💻
 * [wir-lernen-online.de](https://wirlernenonline.de) Sammlung von Unterrichtsmaterialien, kostenlos 💻
+* [LehrerLinks](https://www.lehrerlinks.net) Sammlung von Materialien und Unterrichtsanregungen für alle Schularten ✔️ 💻
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 * [Ditch That Textbook](https://ditchthattextbook.com) englischsprachiges Material & Ideen für den Unterricht ✔️ 💻
 * [eBildungslabor](https://ebildungslabor.de) Sammlung digitaler Tools & Ideen für den Unterricht ✔️ 💻
@@ -451,6 +453,7 @@ siehe auch: Tafelersatz
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
 * [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039) Unterrichtsorganisation für Sportlehrkräfte 📱
 * [Nextcloud Deck](https://nextcloud.com/blog/nextcloud-deck-1-0-available-today-plus-deck-for-android/) Kanban-Anwendung innerhalb von Nextcloud 📱 💻
+* [Notenschlüssel.net](https://www.notenschluessel.net) Online-Punkte-Noten-Rechner ✔️ 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -486,6 +489,8 @@ siehe auch: Gamification, Simulatoren
 * [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
 * [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
 * [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
+* [Schulrätsel](https://www.schulraetsel.de) Rätsel Generator ✔️ 💻
+* [Suchsel](https://www.suchsel.net) Suchsel Generator ✔️ 💻
 * [MakeAWordSearch](http://makeawordsearch.net/create.php) Erstellen von Wortsuchrätseln ✔️ 💻
 * [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
@@ -507,6 +512,7 @@ siehe auch: Gamification, Simulatoren
 * [Penguin Classics Cover Generator](https://penguin.jos.ht) Erstellen von personifizierten Penguin Classics Buchcovern ✔️ 💻
 * [Wordcloud](https://www.wordclouds.com) Wordcloud-Generator ✔️ 💻
 * [Wortwolke](https://kits.blog/cloud/) Wordcloud-Generator ✔️ 💻
+* [Wortwolke24](https://www.wortwolke24.de) Wordcloud-Generator ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 * [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
 
@@ -645,6 +651,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
+* [Chordfinder](https://www.stufentheorie.de) passenden Akkorde zur Tonart finden ✔️ 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
