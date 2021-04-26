@@ -441,6 +441,7 @@ siehe auch: Tafelersatz
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
+* [DieSchulApp](https://www.dieschulapp.de) Kommunikation (Elternbriefe, Termine, …), Organisation (Beurlaubungen, …) und Unterricht (Videokonferenz, LMS) 📱 💻 💰
 * [Klassenmappe](https://www.klassenmappe.de) Organisation der täglichen Klassengeschäfte einer Lehrkraft 📱 💻 💰
 * [Sharezone](https://sharezone.net/#/) vernetzter Schulplaner, um sich gemeinsam zu organisieren 📱 💻
 * [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923) kostenlose Stundenplan-App für Schüler und Lehrer 📱
