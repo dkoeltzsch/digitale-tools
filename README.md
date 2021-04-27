@@ -155,6 +155,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
 * [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻
+* [icon duck](https://iconduck.com) kostenlose Icons ✔️ 💻
 * [Unsplash](https://unsplash.com) Bilder zur kostenlosen Verwendung ✔️ 💻
 * [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) kostenlose Texturen, Bilder und Fotos im Graffiti Stil ✔️ 💻
 * [Free Clip art library](http://clipart-library.com) kostenlose Clip-Arts ✔️ 💻
@@ -170,6 +171,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
 * [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382) Sammlung digitaler Videohintergründe ✔️ 💻
+* [Social Media Templates](https://ditchthattextbook.com/social-media-templates/) Sammlung von Social Media Templates für Google Slides, Keynote etc. ✔️ 💻
 * [Geräuschesammler](https://geräuschesammler.de) Sammlung kostenloser Geräusche ✔️ 💻
 
 <a name="coding"></a>
