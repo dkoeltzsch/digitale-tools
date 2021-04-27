@@ -440,6 +440,7 @@ siehe auch: Tafelersatz
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 * [wisc-online](https://www.wisc-online.com) englischsprachige Onlineübungen zu vielen Fächern ✔️ 💻
 * [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml) Sammlung von Matheaufgaben ✔️ 💻
+* [EF Classes](https://class.ef.com) vollständige Lerneinheiten für alle Level und alle Kompetenzen für Englisch 📱 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -515,6 +516,7 @@ siehe auch: Gamification, Simulatoren
 * [Wortwolke24](https://www.wortwolke24.de) Wordcloud-Generator ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 * [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
+* [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
