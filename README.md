@@ -129,6 +129,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Soundtrap](https://www.soundtrap.com/?lang=de) digitale Audio-Workstation zum Erstellen von Musik & Podcasts 💻 💰
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
 * [Text to Speech](https://ttsmp3.com) Umwandeln von Text in natürlich klingende Sprache ✔️ 💻
+* [natural reader](https://www.naturalreaders.com/online/#:~:text=Natural%20Reader%20Online%20is%20a,to%20documents%20on%20the%20go) Umwandeln von Text in natürlich klingende Sprache 💻
+* [Read Speaker](https://www.readspeaker.com) Umwandeln von Text in natürlich klingende Sprache 💻
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs) Youtube-Sammlung einfacher englischer Lieder ✔️ 💻
 * [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F) Liedtexte während des Musikvideos ergänzen ✔️ 📱 💻
@@ -151,9 +153,11 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 <a name="creative-commons"></a>
 ## Creative Commons
 * [creativecommons.org](https://creativecommons.org/2020/08/04/nearly-500-cc-licensed-education-images-are-now-available/) kostenlose Videos, Bilder, Audios u.v.m. ✔️ 💻
+* [Motion Elements](https://www.motionelements.com/de/free/stock-footage) Sammlung lizenzfreier Videoclips 💻
 * [Pexels](https://www.pexels.com/de-de/) kostenlose Fotos & Videos ✔️ 💻
 * [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
+* [Vector Portal](https://www.vectorportal.com) kostenlose Vektoren ✔️ 💻
 * [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻
 * [icon duck](https://iconduck.com) kostenlose Icons ✔️ 💻
 * [Unsplash](https://unsplash.com) Bilder zur kostenlosen Verwendung ✔️ 💻
@@ -173,6 +177,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382) Sammlung digitaler Videohintergründe ✔️ 💻
 * [Social Media Templates](https://ditchthattextbook.com/social-media-templates/) Sammlung von Social Media Templates für Google Slides, Keynote etc. ✔️ 💻
 * [Geräuschesammler](https://geräuschesammler.de) Sammlung kostenloser Geräusche ✔️ 💻
+* [Soundcloud Tilo Hensel](https://soundcloud.com/tilohensel/sets/creative-commons-music) Musik mit CC-Lizenz ✔️ 💻
+* [Medienpädagogik Blog](https://www.medienpaedagogik-praxis.de/kostenlose-medien/freie-musik/) Sammlung freier Musik ✔️ 💻
 
 <a name="coding"></a>
 ## Coding
@@ -499,9 +505,16 @@ siehe auch: Gamification, Simulatoren
 * [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Kryptowissen Caesars Verschlüsselung](https://www.kryptowissen.de/caesar-chiffre-praxis.php) Tool zum Verschlüsseln von Text ✔️ 💻
+* [Kryptografie](http://kryptografie.de/kryptografie/) Verschlüsselungen aller Art ✔️ 💻
+* [Crpyti](https://cryptii.com/pipes/polybius-square) Verschlüsselungen aller Art ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
+* [Jigsaw Explorer](https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/) Bild in Puzzle verwandeln ✔️ 💻
 * [Picture to Puzzle](https://micetf.fr/picturetopuzzle/) Französisches Online-Tool, um Bilder in Puzzle zu verwandeln ✔️ 💻
 * [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
+* [Morse Code Converter](https://www.meridianoutpost.com/resources/etools/calculators/calculator-morse-code.php) Text in hörbaren Morse-Code verwandeln ✔️ 💻
+* [Topster Morse-Code](https://www.topster.de/text/morse.html) Text in geschriebenen Morse-Code verwandeln ✔️ 💻
+* [Topster Geheimer Satz](https://www.topster.de/text/geheimer_satz.html) Geheimen Satz im Text einbauen ✔️ 💻
+* [d-rhyme](https://www.d-rhyme.de) Reime, Wörterverdrehen, Wortgenerator u.v.m. ✔️ 💻
 
 <a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
 ## Simulatoren (Social Media o.Ä.) & Generatoren
@@ -520,6 +533,7 @@ siehe auch: Gamification, Simulatoren
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 * [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
 * [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
+* [fodey.com](https://www.fodey.com/generators/newspaper/snippet.asp) Sammlung witziger Generatoren, z.B. Zeitungsartikel ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -547,6 +561,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Tiny URL](https://tiny.cc) kostenlos Links verkürzen ✔️ 💻
 * [Linktree](https://linktr.ee) Sammlung erstellen und mit einem Link teilen ✔️ 💻
 * [Schicks Digital!](https://schicks.digital) DSGVO-konform Dateien versenden ✔️ 💻
+* [ShareX](https://getsharex.com) Bildschirmaufnahme, Dateien versenden
 * [Snapdrop](https://snapdrop.net) Verschicken von Dateien mit Personen in Reichweite ✔️ 💻
 * [PDF Compressor](https://pdfcompressor.com/de/) Komprimieren von PDFs ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
@@ -593,7 +608,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
 * [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382) Sammlung digitaler Videohintergründe ✔️ 💻
 * [share.it video](https://shareit.video) Bildschirmaufnahmen teilen ✔️ 💻
+* [ShareX](https://getsharex.com) Bildschirmaufnahme, Dateien versenden
 * [Clips](https://www.apple.com/de/clips/) simples Video Tool 📱
+* [FlexClip](https://www.flexclip.com/de/) Videobearbeitungstool
+* [Openshot Video Editor](https://www.openshot.org/de/) Videobearbeitungstool 💻 
 * [Stop Motion Studio](https://www.stopmotionstudio.com) Stop Motion Filme erstellen 📱 💻 💰
 * [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131) Video Bearbeitung inkl. Green Screen Funktion 📱 💰
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com) Videokonferenz-Tool & Bildschirmaufnahme 💻 💰
