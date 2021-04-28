@@ -570,12 +570,13 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [ShareX](https://getsharex.com) Bildschirmaufnahme, Dateien versenden
 * [Snapdrop](https://snapdrop.net) Verschicken von Dateien mit Personen in Reichweite ✔️ 💻
 * [PDF Compressor](https://pdfcompressor.com/de/) Komprimieren von PDFs ✔️ 💻
+* [pdf.io](https://pdf.io/de/) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
+* [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
 * [DocDroid](https://www.docdroid.net/de) Dokumentkonverter ✔️ 💻
-* [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [Sejda](https://www.sejda.com/de/) PDF-Editor, online, kostenlos 💻 💰
 * [Telegraph](https://telegra.ph) simpler, kostenloser Blogging Dienst ✔️ 💻
 * [Cabinet](https://www.cabinet.app) Notizbuch in App Format 📱
