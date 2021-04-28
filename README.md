@@ -218,6 +218,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Microsoft Sway](https://sway.office.com/?ui=de-DE&rs=DE) Erstellen von Präsentationen u.v.m. 📱 💻
 * [Prezi](https://prezi.com) Erstellen von Präsentationen 📱 💻
 * [Keynote](https://www.apple.com/de/keynote/) Erstellen von Präsentationen 📱 💻
+* [arcGIS Story Maps](https://storymaps-classic.arcgis.com/de/) Story Maps erstellen 💻
 * [Pitch](https://pitch.com) Erstellen von Präsentationen, auch kollaborativ möglich 💻
 * [thinglink](https://www.thinglink.com) Erstellen von interaktiven Bildern 📱 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
