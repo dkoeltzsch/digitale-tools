@@ -369,6 +369,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Materialguru](https://www.materialguru.de/deutsch/) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Lehrerheld](https://lehrerheld.com) Sammlung von Unterrichtsmaterialien 💻 💰
 * [Lehrerfreund](https://www.lehrerfreund.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [lehrer-online](https://www.lehrer-online.de) Sammlung von Unterrichtsmaterialien 💻 (💰)
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschul Material](https://www.grundschulmaterial.de) Unterrichtsmaterial für die Grundschule, Punkte-System/kostenpflichtig 💻
