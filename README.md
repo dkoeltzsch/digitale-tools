@@ -114,6 +114,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Lumi](https://next.lumi.education) Erstellen, Bearbeiten, Anzeigen und Freigeben von interaktiven Inhalten mit vers. Inhaltstypen 💻
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
+* [Boomcards](https://wow.boomlearning.com) Erstellen digitaler Übungen ✔️ 📱 💻 
 
 <a name="audio-&-audioaufnahme"></a>
 ## Audio & Audioaufnahme
@@ -222,6 +223,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Keynote](https://www.apple.com/de/keynote/) Erstellen von Präsentationen 📱 💻
 * [arcGIS Story Maps](https://storymaps-classic.arcgis.com/de/) Story Maps erstellen 💻
 * [Pitch](https://pitch.com) Erstellen von Präsentationen, auch kollaborativ möglich 💻
+* [PearDeck](https://www.peardeck.com/googleslides) interaktive Übungen in Google Slides integrieren ✔️ 💻
 * [thinglink](https://www.thinglink.com) Erstellen von interaktiven Bildern 📱 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
@@ -271,6 +273,8 @@ siehe auch: Rätsel-Tools
 * [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
+* [Blooket](https://www.blooket.com) interaktives Lernquiz 📱 💻
+* [Gimkit](https://www.gimkit.com/product/live) Quiztool mit gamifizierten Elementen 📱
 * [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
 * [Mentimeter](https://www.mentimeter.com) Umfrage & Präsentationstool mit vielen Frageformaten ✔️ 📱 💻 💰
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
@@ -301,6 +305,7 @@ siehe auch: Rätsel-Tools
 ## Kooperatives Arbeiten
 siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Oncoo](https://www.oncoo.de) Sammlung von Apps zum kollaborativen Lernen ✔️ 💻
+* [Spiral](https://spiral.ac) Sammlung von Apps zum kollaborativen Lernen ✔️ 💻
 * [Asana](https://asana.com/de) Projektmanagement-Tool 📱 💻
 * [Stormboard](https://stormboard.com) Projektmanagement-Tool 📱 💻
 * [Monday](https://monday.com/pm-visual-t/aw-todo) Projektmanagement-Tool 📱 💻 💰
@@ -325,9 +330,11 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Kialo](https://www.kialo-edu.com) Visualisierung von Argumenten und Diskussionen, Erlernen von kritischem Denken 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen (Text, Audio, Emojis) versehen ✔️ 💻
+* [Kami](https://www.kamiapp.com) Materialien mit Anmerkungen versehen/bearbeiten etc. 📱 💰
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen 💻
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
 * [Nextcloud Hub](https://nextcloud.com/) selbst hostbare Cloud-Plattform für Dateiaustausch, kollaboratives Arbeiten, uvm.
+* [Gimkit Ink](https://www.gimkit.com/ink) Publizier-Plattform für Lernende 📱 💻
 
 <a name="konferenztools"></a>
 ## Konferenztools
@@ -398,6 +405,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
 * [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
 * [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
+* [Flocabulary](https://www.flocabulary.com) Lernmaterialien im Hip-Hop Stil für viele Fächer 💻 💰
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -438,6 +446,7 @@ siehe auch: Tafelersatz
 * [PGLU](https://pglu.ch/) Lernmaterialien für Robotik basierend auf Arduino, auch für [Fortgeschrittene](https://workshop.pglu.ch) 💰
 * [Numbers](https://www.apple.com/de/numbers/) Tabellenkalkulationsprogramm 📱 💻
 * [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
+* [Studyflix](https://studyflix.de) Lernvideosammlung für Schüler:innen und Studierende ✔️ 📱 💻
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -455,6 +464,7 @@ siehe auch: Tafelersatz
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 * [wisc-online](https://www.wisc-online.com) englischsprachige Onlineübungen zu vielen Fächern ✔️ 💻
 * [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml) Sammlung von Matheaufgaben ✔️ 💻
+* [iXL](https://de.ixl.com) Sammlung von Matheaufgaben Klasse 1-6 ✔️ 💻
 * [EF Classes](https://class.ef.com) vollständige Lerneinheiten für alle Level und alle Kompetenzen für Englisch 📱 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 
@@ -499,6 +509,8 @@ siehe auch: Tafelersatz
 * [Welt-Quiz Geografie](https://world-geography-games.com/de/index.html) online Erdkunde-Quiz-Spiel ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
+* [Blooket](https://www.blooket.com) interaktives Lernquiz 📱 💻
+* [Gimkit](https://www.gimkit.com/product/live) Quiztool mit gamifizierten Elementen 📱
 
 <a name="raetsel"></a>
 ## Rätsel
@@ -554,6 +566,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Miro](https://miro.com) interaktives Whiteboard ✔️ 📱 💻
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
+* [Whiteboard.fi](https://whiteboard.fi) virtuelles Whiteboard, individuell für alle Lernende mit Übersicht aller für die Lehrkraft ✔️ 💻
 * [Bitpaper](https://www.bitpaper.io) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en) virtuelle, digitale Tafel, kooperativ zu bearbeiten 💻
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg) interaktives Whiteboard für Kollaboration und Präsentationen ✔️ 📱 💻
