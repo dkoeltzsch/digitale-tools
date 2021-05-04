@@ -335,6 +335,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
 * [Nextcloud Hub](https://nextcloud.com/) selbst hostbare Cloud-Plattform für Dateiaustausch, kollaboratives Arbeiten, uvm.
 * [Gimkit Ink](https://www.gimkit.com/ink) Publizier-Plattform für Lernende 📱 💻
+* [hypothes.is](https://web.hypothes.is) Websiten kollaborativ kommentieren 💻 
 
 <a name="konferenztools"></a>
 ## Konferenztools
