@@ -295,7 +295,6 @@ siehe auch: Rätsel-Tools
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
 * [Boardgames Arena](https://de.boardgamearena.com) Sammlung von Brettspielen zum digitalen Spielen mit Freunden ✔️ 📱 💻
-* [Blooket](https://www.blooket.com) Online Spielesammlung mit Bildungsinhalten 💻
 * [ClassTools](https://www.classtools.net) Sammlung von vers. digitalen Tools, vorwiegend spielerisch ✔️ 💻
 * [GB Studio](https://www.gbstudio.dev) Retro Video Games durch Drag and Drop selbst zusammenbauen
 * [Playfactile](https://www.playfactile.com) Online-Quizze im Jeopardy-Stil ✔️ 💻
