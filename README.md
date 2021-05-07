@@ -700,10 +700,11 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 * [Chordfinder](https://www.stufentheorie.de) passenden Akkorde zur Tonart finden ✔️ 💻
+* [Welche Sprache ist das?](https://edl.ecml.at/Games/Whichlanguageisit/tabid/3202/Default.aspx) Sprachenquiz & weitere Spielereien zum Thema ✔️ 💻
 
 ## Kategorien in Arbeit
 * Kreatives Arbeiten
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **517** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **518** Tools!
