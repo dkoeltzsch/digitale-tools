@@ -558,6 +558,7 @@ siehe auch: Gamification, Simulatoren
 * [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
 * [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
+* [Map Image](https://www.mapimage.de) Kartenbilder (inkl. Markierungen, Beschriftungen etc.) erstellen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -707,4 +708,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **518** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **519** Tools!
