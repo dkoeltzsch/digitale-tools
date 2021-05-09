@@ -235,6 +235,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 * [Circly](https://circlyapp.com/index.html) Visual Organizer Tool 💻
+* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
+* [Primolo] Website für Kinder erstellen 💻
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
@@ -257,13 +259,13 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [poll everywhere](https://www.polleverywhere.com) Umfragetool mit vielen Frageformaten ✔️ 📱 💻
 * [StrawPoll](https://strawpoll.com) Erstellen von Umfragen ✔️ 📱 💻
 * [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
+* [hyfee](https://hyfee.de) mutlimediales Feedback via Nextcloud verschicken ✔️ 📱
 * [Tweedback](https://tweedback.de) web-basiertes Live-Feedback-System ✔️ 💻
 * [Aula](https://aula-blog.website) Online-Plattform, um eigene Ideen einzustellen, zu diskutieren, auszuarbeiten und darüber abzustimmen 📱 💻 💰
 * [Tricider](https://www.tricider.com) Brainstorming- & Abstimmungsfunktion ✔️ 💻
 * [Dotstorming](https://dotstorming.com) Brainstorming- & Abstimmungsfunktion 💻
 * [Feedbackr](https://www.feedbackr.io) gegenseitige Bewertung, Gruppendiskussion, Meinungsbild u.v.m. ✔️ 📱 💻
 * [invote](https://invote.de) Online-Tool für Live-Umfragen durch Abstimmung ✔️ 📱 💻
-* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 
 <a name="gamification"></a>
 ## Gamification
@@ -424,6 +426,7 @@ siehe auch: Tafelersatz
 * [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
 * [Mindwendel](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
 * [Nextcloud Mindmaps](https://apps.nextcloud.com/apps/files_mindmap) Mindmapping-Tool in Nextcloud 💻
+* [The Brain](https://www.thebrain.com) 📱 💻
 
 <a name="mint"></a>
 ## MINT
@@ -432,6 +435,7 @@ siehe auch: Tafelersatz
 * [Mathcad](https://www.mathcad.com/de) Mathematiksoftware 💰
 * [Maple](https://de.maplesoft.com) Mathematiksoftware 💰
 * [Microsoft Mathematics](https://www.heise.de/download/product/microsoft-mathematics-math-61147) Mathetool inkl. Formel- und Gleichungsbibliothek zum Erlernen mathem. Begriffe & grafischen Taschenrechner ✔️
+* [Microsoft Mathsolves](https://mathsolver.microsoft.com/de) Matheaufgaben lösen, inkl. Anleitungen ✔️ 💻
 * [Photomath](https://photomath.app/de/) Matheaufgaben scannen und lösen lassen 📱
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze erstellen 📱
@@ -467,6 +471,7 @@ siehe auch: Tafelersatz
 * [iXL](https://de.ixl.com) Sammlung von Matheaufgaben Klasse 1-6 ✔️ 💻
 * [EF Classes](https://class.ef.com) vollständige Lerneinheiten für alle Level und alle Kompetenzen für Englisch 📱 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
+* [Typing Club](https://www.typingclub.com) Tastaturen Schreiben Lernen ✔️ 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -560,6 +565,7 @@ siehe auch: Gamification, Simulatoren
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Map Image](https://www.mapimage.de) Kartenbilder (inkl. Markierungen, Beschriftungen etc.) erstellen ✔️ 💻
 * [Worldmapgenerator](https://www.worldmapgenerator.com/de/) eigene, individuelle Weltkarte erstellen ✔️ 💻
+* [ReadyPlayerMe](https://readyplayer.me) eigene Avatare erstellen 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -709,4 +715,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **520** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **525** Tools!
