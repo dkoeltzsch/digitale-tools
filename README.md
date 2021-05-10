@@ -202,6 +202,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 <a name="digitales-klassenzimmer"></a>
 ## Digitales Klassenzimmer
+siehe auch: Konferenztools
 * [Classroom](https://classroom.google.com/h) Lern- und Übungsaufgaben erstellen und verteilen 💻
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Moodle](https://moodle.org) kooperative Lehr- und Lernplattform 📱 💻
@@ -212,6 +213,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Schabi](https://www.schabi.ch) virtuelle Lernumgebung 💻
 * [Kumospace](https://www.kumospace.com) immersiver Gruppen-Video-Chat 💻
 * [Trember](https://app.trember.com/de/) immersiver Gruppen-Video-Chat ✔️ 💻
+* [WorkAdventure](https://workadventu.re) immersiver Gruppen-Video-Chat ✔️ 💻 💰
 
 <a name="erstellen-von-infographiken-und-lernvideos-o.ae."></a>
 ## Erstellen von Infographiken und Lernvideos o.Ä.
@@ -340,6 +342,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 
 <a name="konferenztools"></a>
 ## Konferenztools
+siehe auch: Digitales Klassenzimmer
 * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) Konferenz-Tool, inkl. Notizen, Aufgaben u.v.m. 📱 💻 (💰)
 * [Zoom](https://zoom.us) Videokonferenz-Tool ✔️ 📱 💻
 * [Google Meet](https://meet.google.com) Videokonferenz-Tool 📱 💻
@@ -715,4 +718,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **525** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **526** Tools!
