@@ -145,6 +145,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Snippyly](https://snippyly.com) Screenshort Tool, einfaches teilen & weitere Funktionen 💻
 * [Screenzy](https://screenzy.io) Screenshot Bearbeitung ✔️ 💻
 * [ImageToSketch](http://imagetosketch.com/index.html) Bilder in Skizzen verwandeln ✔️ 💻
+* [ChatterPix](https://apps.apple.com/de/app/chatterpix/id734038526) Bilder mit Text & Ton versehen 📱
 
 <a name="chat"></a>
 ## Chat
