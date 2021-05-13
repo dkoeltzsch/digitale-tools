@@ -412,6 +412,7 @@ siehe auch: Digitales Klassenzimmer
 * [vertreten-dürfen.de](https://www.vertreten-duerfen.de) Ideensammlung für die Vertretungsstunde ✔️ 💻
 * [Buzzard](https://www.buzzard.org/?fbclid=IwAR1hDnEbKWp5y8I_7ylUhIrzb2_U34m86dl0kNN5mCEhmabQMuPRn7kqbS0) aktuelle Nachrichten aus unterschiedlichen Perspektiven 📱 💻
 * [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
+* [neal.fun](https://neal.fun) Sammlung an witzigen und hübschen Online-Spielen/-Darstellungen ✔️ 💻
 * [Flocabulary](https://www.flocabulary.com) Lernmaterialien im Hip-Hop Stil für viele Fächer 💻 💰
 
 <a name="mindmaps"></a>
@@ -721,4 +722,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **529** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **530** Tools!
