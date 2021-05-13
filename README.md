@@ -144,6 +144,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
 * [Snippyly](https://snippyly.com) Screenshort Tool, einfaches teilen & weitere Funktionen 💻
 * [Screenzy](https://screenzy.io) Screenshot Bearbeitung ✔️ 💻
+* [ImageToSketch](http://imagetosketch.com/index.html) Bilder in Skizzen verwandeln ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
@@ -718,4 +719,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **526** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **527** Tools!
