@@ -597,6 +597,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Technikhacks
 * [T1P](https://t1p.de) kostenlos Links verkürzen ✔️ 💻
 * [Tiny URL](https://tiny.cc) kostenlos Links verkürzen ✔️ 💻
+* [twlz.eu](http://twlz.eu) Links verkürzen, extra für das Twitterlehrerzimmer erstellt! ✔️ 💻
 * [Linktree](https://linktr.ee) Sammlung erstellen und mit einem Link teilen ✔️ 💻
 * [Schicks Digital!](https://schicks.digital) DSGVO-konform Dateien versenden ✔️ 💻
 * [ShareX](https://getsharex.com) Bildschirmaufnahme, Dateien versenden
