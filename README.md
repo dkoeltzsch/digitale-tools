@@ -478,6 +478,7 @@ siehe auch: Tafelersatz
 * [EF Classes](https://class.ef.com) vollständige Lerneinheiten für alle Level und alle Kompetenzen für Englisch 📱 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Typing Club](https://www.typingclub.com) Tastaturen Schreiben Lernen ✔️ 💻
+* [Andy Chatbot](https://andychatbot.com) Englisch lernen durch Chaten mit der KI 📱 💰
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -722,4 +723,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **530** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **531** Tools!
