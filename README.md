@@ -136,6 +136,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs) Youtube-Sammlung einfacher englischer Lieder ✔️ 💻
 * [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F) Liedtexte während des Musikvideos ergänzen ✔️ 📱 💻
 * [mote](https://www.justmote.me) Google Chrome Erweiterung, um Audio-Feedback zu verschicken ✔️ 💻
+* [Voice Changer](https://play.google.com/store/apps/details?id=com.androidrocker.voicechanger&hl=en_US&gl=US) Stimme via App verändern 📱
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -544,8 +545,10 @@ siehe auch: Gamification, Simulatoren
 * [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
 * [Morse Code Converter](https://www.meridianoutpost.com/resources/etools/calculators/calculator-morse-code.php) Text in hörbaren Morse-Code verwandeln ✔️ 💻
 * [Topster Morse-Code](https://www.topster.de/text/morse.html) Text in geschriebenen Morse-Code verwandeln ✔️ 💻
+* [Morse Code Translator](https://morsedecoder.com) Morse Code en- und dekodieren ✔️ 💻
 * [Topster Geheimer Satz](https://www.topster.de/text/geheimer_satz.html) Geheimen Satz im Text einbauen ✔️ 💻
 * [d-rhyme](https://www.d-rhyme.de) Reime, Wörterverdrehen, Wortgenerator u.v.m. ✔️ 💻
+* [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
 
 <a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
 ## Simulatoren (Social Media o.Ä.) & Generatoren
@@ -566,6 +569,8 @@ siehe auch: Gamification, Simulatoren
 * [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
 * [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
 * [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
+* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
 * [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
 * [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
@@ -573,6 +578,11 @@ siehe auch: Gamification, Simulatoren
 * [Map Image](https://www.mapimage.de) Kartenbilder (inkl. Markierungen, Beschriftungen etc.) erstellen ✔️ 💻
 * [Worldmapgenerator](https://www.worldmapgenerator.com/de/) eigene, individuelle Weltkarte erstellen ✔️ 💻
 * [ReadyPlayerMe](https://readyplayer.me) eigene Avatare erstellen 💻
+* [Bitmoji](https://www.bitmoji.com) eigene Avatare erstellen 📱
+* [Ransomizer](http://www.ransomizer.com) Erpresserbriefe generieren ✔️ 💻
+* [Fake Receipt](http://www.fakereceipt.us/sales_receipt.php) Kassenzettel generieren ✔️ 💻
+* [Fake Flight Tickets](https://www.fakeflighttickets.com) Flugtickets generieren ✔️ 💻
+* [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -600,6 +610,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [T1P](https://t1p.de) kostenlos Links verkürzen ✔️ 💻
 * [Tiny URL](https://tiny.cc) kostenlos Links verkürzen ✔️ 💻
 * [twlz.eu](http://twlz.eu) Links verkürzen, extra für das Twitterlehrerzimmer erstellt! ✔️ 💻
+* [Kurze Links](https://kurzelinks.de) Links verkürzen, mit Passwort schützen u.v.m. ✔️ 💻
 * [Linktree](https://linktr.ee) Sammlung erstellen und mit einem Link teilen ✔️ 💻
 * [Schicks Digital!](https://schicks.digital) DSGVO-konform Dateien versenden ✔️ 💻
 * [ShareX](https://getsharex.com) Bildschirmaufnahme, Dateien versenden
@@ -699,6 +710,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Qwant](https://www.qwant.com) Suchmaschine inkl. Privatssphäre ✔️ 💻
 * [Ecosia](https://www.ecosia.org) umweltfreundliche Suchmaschine ✔️ 💻
 * [Metager](https://metager.de) Suchmaschine inkl. Privatssphäre ✔️ 💻
+* [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) Wikipedia in einfacher Sprache ✔️ 💻
 
 <a name="sonstiges"></a>
 ## Sonstiges
@@ -723,4 +735,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **531** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **543** Tools!
