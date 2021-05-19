@@ -202,6 +202,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [MakeBeliefsComics](https://www.makebeliefscomix.com) Erstellen von Comic Strips 💻
 * [Comic Life](https://comiclife.eu/download.html) Bildergeschichten, Comics oder bebilderte Anleitungen erstellen 💻 💰
 * [Pixton](https://www.pixton.com) Erstellen von Comics 💻
+* [Storytool](https://app.storytool.co) Erstellen von Comics ✔️ 💻
 
 <a name="digitales-klassenzimmer"></a>
 ## Digitales Klassenzimmer
@@ -735,4 +736,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **543** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **544** Tools!
