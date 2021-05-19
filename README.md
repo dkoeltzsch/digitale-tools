@@ -550,6 +550,7 @@ siehe auch: Gamification, Simulatoren
 * [Topster Geheimer Satz](https://www.topster.de/text/geheimer_satz.html) Geheimen Satz im Text einbauen ✔️ 💻
 * [d-rhyme](https://www.d-rhyme.de) Reime, Wörterverdrehen, Wortgenerator u.v.m. ✔️ 💻
 * [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
+* [Lockee.fr](https://en.lockee.fr) Virtuelle Schlösser generieren 💻
 
 <a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
 ## Simulatoren (Social Media o.Ä.) & Generatoren
@@ -736,4 +737,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **544** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **545** Tools!
