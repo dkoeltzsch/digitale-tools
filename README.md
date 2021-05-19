@@ -498,6 +498,7 @@ siehe auch: Tafelersatz
 
 <a name="qr-codes"></a>
 ## QR-Codes
+* [QR-Lernhilfen](https://qr-lernhilfen.de) Differenzierung mit Hilfe von QR-Codes ✔️ 💻
 * [mal-den-code](https://mal-den-code.de) QR-Codes zum Ausmalen erstellen ✔️ 💻
 * [QR Code Monkey](https://www.qrcode-monkey.com) QR Codes mit Logo, Farbe und Design erstellen ✔️ 💻
 * [QR Code Generator](http://goqr.me/de/) QR-Codes erstellen ✔️ 💻
