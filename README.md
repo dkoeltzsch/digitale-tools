@@ -679,6 +679,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
+* [Video Mosaic](https://apps.apple.com/de/app/video-mosaic-app/id1185459031) App zum Bearbeiten (z.B. Verpixeln von Gesichtern) von Videos 📱
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -738,4 +739,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **546** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **547** Tools!
