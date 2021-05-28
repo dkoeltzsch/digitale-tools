@@ -362,6 +362,7 @@ siehe auch: Digitales Klassenzimmer
 * [Schoolfox](https://foxeducation.com/schoolfox/) virtuelle Form der Klassenkommunikation, DSGVO konform 📱 💻 💰
 * [Jam](https://jam.systems) Audiokonferenz-Tool ✔️ 💻
 * [Nextcloud Talk](https://nextcloud.com/de/talk/) Videokonferenz-Tool eingebettet in Nextcloud (für größere Gruppen ist ein zusätzlicher Serverdienst nötig) 📱 💻
+* [Team Viewer](https://www.teamviewer.com/de/) Videokonferenz-Tool mit Zugriffsmöglichkeit 💰
 
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
@@ -742,4 +743,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Quick Guides/Anleitungen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **550** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **551** Tools!
