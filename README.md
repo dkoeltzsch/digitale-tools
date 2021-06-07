@@ -745,9 +745,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Chordfinder](https://www.stufentheorie.de) passenden Akkorde zur Tonart finden ✔️ 💻
 * [Welche Sprache ist das?](https://edl.ecml.at/Games/Whichlanguageisit/tabid/3202/Default.aspx) Sprachenquiz & weitere Spielereien zum Thema ✔️ 💻
 * [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
+* [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **554** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **555** Tools, Tipps & Tricks!
