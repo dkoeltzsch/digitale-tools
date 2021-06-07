@@ -280,6 +280,7 @@ siehe auch: Konferenztools
 ## Fortbildungen
 * [fobizz](https://fobizz.com) Online Fortbildungen zum Thema digitale Medien im Unterricht
 * [Hopp Foundation](https://www.hopp-foundation.de) Workshop-Angebot für Lehrer und Schüler
+* [Webinar Radar](https://trello.com/b/awvx1TFG/webinar-radar-für-lehrerinnen) Trello Board mit toller Übersicht von Sebastian Staack ✔️ 📱 💻
 
 <a name="gamification"></a>
 ## Gamification
@@ -752,4 +753,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **556** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **557** Tools, Tipps & Tricks!
