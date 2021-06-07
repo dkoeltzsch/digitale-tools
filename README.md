@@ -36,6 +36,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Feedback & Umfragen](#feedback-&-umfragen)
 
+[Fortbildungen](#fortbildungen)
+
 [Gamification](#gamification)
 
 [Kooperatives Arbeiten](#kooperatives-arbeiten)
@@ -130,6 +132,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Soundtrap](https://www.soundtrap.com/?lang=de) digitale Audio-Workstation zum Erstellen von Musik & Podcasts 💻 💰
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
 * [Text to Speech](https://ttsmp3.com) Umwandeln von Text in natürlich klingende Sprache ✔️ 💻
+* [Let Us Listen](https://letuslisten.net) Umwandeln von Text in natürlich klingende Sprache ✔️ 📱
 * [natural reader](https://www.naturalreaders.com/online/#:~:text=Natural%20Reader%20Online%20is%20a,to%20documents%20on%20the%20go) Umwandeln von Text in natürlich klingende Sprache 💻
 * [Read Speaker](https://www.readspeaker.com) Umwandeln von Text in natürlich klingende Sprache 💻
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
@@ -272,6 +275,11 @@ siehe auch: Konferenztools
 * [Dotstorming](https://dotstorming.com) Brainstorming- & Abstimmungsfunktion 💻
 * [Feedbackr](https://www.feedbackr.io) gegenseitige Bewertung, Gruppendiskussion, Meinungsbild u.v.m. ✔️ 📱 💻
 * [invote](https://invote.de) Online-Tool für Live-Umfragen durch Abstimmung ✔️ 📱 💻
+
+<a name="fortbildungen"></a>
+## Fortbildungen
+* [fobizz](https://fobizz.com) Online Fortbildungen zum Thema digitale Medien im Unterricht
+* [Hopp Foundation](https://www.hopp-foundation.de) Workshop-Angebot für Lehrer und Schüler
 
 <a name="gamification"></a>
 ## Gamification
@@ -739,8 +747,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
 
 ## Kategorien in Arbeit
-* Kreatives Arbeiten
-* Quick Guides/Anleitungen
+* hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **551** Tools!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **554** Tools, Tipps & Tricks!
