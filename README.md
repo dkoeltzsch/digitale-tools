@@ -469,6 +469,7 @@ siehe auch: Tafelersatz
 * [Birdnet](https://apps.apple.com/de/app/birdnet/id1541842885) Automatisches Erkennen von Vogelstimmen 📱
 * [Studyflix](https://studyflix.de) Lernvideosammlung für Schüler:innen und Studierende ✔️ 📱 💻
 * [Graspable Math](https://graspablemath.com) digitale Algebra Aufgabe, inkl. Funktion, um Gleichungen frei umherzuschieben 💻
+* [Orinoco](https://klassenkarte.de/index.php/orinoco/) Erstellung und Auswertung von Datenflussdiagrammen ✔️ 💻
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -751,4 +752,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **555** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **556** Tools, Tipps & Tricks!
