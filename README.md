@@ -150,6 +150,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Screenzy](https://screenzy.io) Screenshot Bearbeitung ✔️ 💻
 * [ImageToSketch](http://imagetosketch.com/index.html) Bilder in Skizzen verwandeln ✔️ 💻
 * [ChatterPix](https://apps.apple.com/de/app/chatterpix/id734038526) Bilder mit Text & Ton versehen 📱
+* [Photopea](https://www.photopea.com) Kostenlose Bildbearbeitungssoftware direkt im Browser ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
@@ -753,4 +754,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **557** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **558** Tools, Tipps & Tricks!
