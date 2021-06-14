@@ -494,6 +494,7 @@ siehe auch: Tafelersatz
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Typing Club](https://www.typingclub.com) Tastaturen Schreiben Lernen ✔️ 💻
 * [Andy Chatbot](https://andychatbot.com) Englisch lernen durch Chaten mit der KI 📱 💰
+* [ELSA](https://elsaspeak.com/en/) Englisches Aussprachetraining (US-Akzent) via App 📱
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -749,9 +750,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Welche Sprache ist das?](https://edl.ecml.at/Games/Whichlanguageisit/tabid/3202/Default.aspx) Sprachenquiz & weitere Spielereien zum Thema ✔️ 💻
 * [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
 * [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
+* [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **558** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **560** Tools, Tipps & Tricks!
