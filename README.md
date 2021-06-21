@@ -198,6 +198,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Snap!](https://snap.berkeley.edu) Programmiersprache für Kinder und Erwachsene ✔️ 💻
 * [Code.org](https://code.org) Informatik lernen, Erfinder der Hour of Code 💻
 * [Tinkercad](https://www.tinkercad.com) simples Online-3D-Modellierungsprogramm 📱 💻
+* [Lernroboter im Unterricht](https://www.uni-muenster.de/Lernroboter/) Unterrichtsmaterialien für die Lernroboter Bluebot, Ozobot und Thymio ✔️ 💻
 
 <a name="comics"></a>
 ## Comics
@@ -756,4 +757,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **560** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **561** Tools, Tipps & Tricks!
