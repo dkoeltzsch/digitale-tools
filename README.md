@@ -318,6 +318,7 @@ siehe auch: Rätsel-Tools
 * [GB Studio](https://www.gbstudio.dev) Retro Video Games durch Drag and Drop selbst zusammenbauen
 * [Playfactile](https://www.playfactile.com) Online-Quizze im Jeopardy-Stil ✔️ 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
+* [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -675,6 +676,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Plotagon](https://www.plotagon.com) animierte Videos, z.B. mit eigener Stimme erstellen 📱
 * [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US) Animationen erstellen 📱
+* [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 * [Touchcast](https://touchcast.com/studio) Videos bearbeiten, interaktiv gestalten u.v.m. 📱
 * [Speakflow](https://www.speakflow.com) Teleprompter 💻
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
@@ -757,4 +759,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **561** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **562** Tools, Tipps & Tricks!
