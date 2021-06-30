@@ -188,6 +188,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Geräuschesammler](https://geräuschesammler.de) Sammlung kostenloser Geräusche ✔️ 💻
 * [Soundcloud Tilo Hensel](https://soundcloud.com/tilohensel/sets/creative-commons-music) Musik mit CC-Lizenz ✔️ 💻
 * [Medienpädagogik Blog](https://www.medienpaedagogik-praxis.de/kostenlose-medien/freie-musik/) Sammlung freier Musik ✔️ 💻
+* [Videvo](https://www.videvo.net/de/) kostenlose Videos, Soundeffekte u.v.m. 💻
 
 <a name="coding"></a>
 ## Coding
@@ -759,4 +760,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **562** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **563** Tools, Tipps & Tricks!
