@@ -237,6 +237,7 @@ siehe auch: Konferenztools
 * [Pitch](https://pitch.com) Erstellen von Präsentationen, auch kollaborativ möglich 💻
 * [PearDeck](https://www.peardeck.com/googleslides) interaktive Übungen in Google Slides integrieren ✔️ 💻
 * [thinglink](https://www.thinglink.com) Erstellen von interaktiven Bildern 📱 💻
+* [Piktochart](https://piktochart.com) Erstellen von interaktiven Infographiken, Präsentation etc. 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
@@ -760,4 +761,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **563** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **564** Tools, Tipps & Tricks!
