@@ -3,7 +3,7 @@ Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung digit
 
 Die Liste wird (durch deine Hilfe) ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal.
 
-Ganz unten findest du Kategorien, die im Aufbau sind. Solltest du deshalb selbst weitere digitale Tools kennen, dir digitale Tools zu einer neuen Kategorie wünschen oder allgemein Feedback und Verbesserungsvorschläge haben, schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com).
+Solltest du selbst weitere digitale Tools kennen, dir digitale Tools zu einer neuen Kategorie wünschen oder allgemein Feedback und Verbesserungsvorschläge haben, schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com).
 
 Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to go far, go together.**
 
