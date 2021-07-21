@@ -339,6 +339,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Microsoft Planner](https://tasks.office.com) Taskmanagement-Tool 📱 💻 💰
 * [Slice](https://slice.wbrain.me) gemeinsames Erstellen von Diskussionstafeln ✔️ 💻
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
+* [Taskcards](https://www.taskcards.de) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. DSGVO-konform ✔️ 📱 💻
 * [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen ✔️ 📱 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
@@ -757,4 +758,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **564** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **565** Tools, Tipps & Tricks!
