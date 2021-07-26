@@ -169,6 +169,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Graffiti Free Textures](https://freestocktextures.com/photos-graffiti/) kostenlose Texturen, Bilder und Fotos im Graffiti Stil ✔️ 💻
 * [Free Clip art library](http://clipart-library.com) kostenlose Clip-Arts ✔️ 💻
 * [Openclipart](https://openclipart.org/share) kostenlose Clip-Arts ✔️ 💻
+* [3D Bay](https://clouddevs.com/3dbay/) 3D Bildmaterial ✔️ 💻
 * [CC0 Textures](https://cc0textures.com) kostenloses PBR Material ✔️ 💻
 * [Free Music Archive](https://freemusicarchive.org) lizenzfreie Musik ✔️ 💻
 * [digccmixter](http://dig.ccmixter.org) lizenzfreie Musik zum direkten Weiterverarbeiten ✔️ 💻
@@ -758,4 +759,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **565** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **566** Tools, Tipps & Tricks!
