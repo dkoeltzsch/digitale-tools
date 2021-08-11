@@ -311,6 +311,7 @@ siehe auch: Rätsel-Tools
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
+* [Favelio](https://www.favelio.com/home) Erzählen leicht interaktiver, nicht-linearer Geschichten 📱 💻
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
 * [Boardgames Arena](https://de.boardgamearena.com) Sammlung von Brettspielen zum digitalen Spielen mit Freunden ✔️ 📱 💻
 * [ClassTools](https://www.classtools.net) Sammlung von vers. digitalen Tools, vorwiegend spielerisch ✔️ 💻
@@ -653,6 +654,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Liquid Text](https://www.liquidtext.net) Notiz App mit Zusatzfunktionen, wie Organisation der Texte 📱 💻
 * [Marginnote](https://www.marginnote.com) Lese- und Annotationssoftware 📱 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
+* [Favelio](https://www.favelio.com/home) Erzählen leicht interaktiver, nicht-linearer Geschichten 📱 💻
 * [Post-it](https://apps.apple.com/us/app/post-it/id920127738) virtuelle PostIts 📱
 * [Minibooks](https://www.minibooks.ch) Erstellen von online Büchern ✔️ 💻
 * [Book Creator](https://bookcreator.com) Erstellen von online Büchern 📱 💻
@@ -759,4 +761,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **566** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **567** Tools, Tipps & Tricks!
