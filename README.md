@@ -178,6 +178,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [hörspielbox](https://www.hoerspielbox.de) kostenlose Inhalte für Audioproduktionen ✔️ 💻
 * [Noises Online](https://noises.online) Online-Geräuschesammlung zum Entspannen ✔️ 💻
 * [freesound.org](https://freesound.org/browse/) lizenzfreie Musik & Sounds ✔️ 💻
+* [Bensounds](https://www.bensound.com) kostenlose Musiksammlung für multimediale Projekte ✔️ 💻
 * [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
 * [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382) Sammlung digitaler Videohintergründe ✔️ 💻
@@ -761,4 +762,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **567** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **568** Tools, Tipps & Tricks!
