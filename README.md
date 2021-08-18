@@ -113,6 +113,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 * [Boomcards](https://wow.boomlearning.com) Erstellen digitaler Übungen ✔️ 📱 💻 
+* [Lernpfad](https://lernpfad.ch/?) Strukturierung von Arbeitsaufträgen und Lernpfaden ✔️ 💻
 
 <a name="audio-&-audioaufnahme"></a>
 ## Audio & Audioaufnahme
@@ -397,6 +398,7 @@ siehe auch: Digitales Klassenzimmer
 * [Schulportal](https://schulportal.de) Sammlung von Unterrichtsmaterialien, Punkte-System 💻
 * [4teachers](https://www.4teachers.de) Sammlung von Unterrichtsmaterialien, kostenlos 💻
 * [Unterricht.Schule](https://unterricht.schule) Sammlung von Unterrichtsmaterialien, 1 kostenloser Download pro Tag ✔️ 💻
+* [zebis](https://www.zebis.ch/unterrichtsmaterial) Sammlung von Unterrichtsmaterialien (v.a. Videos) allerdings nur in der Schweiz abrufbar ✔️ 💻
 * [Übungskönig](https://www.uebungskoenig.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Newsela](https://newsela.com) Texte an verschiedene Schwierigkeitsstufen anpassen & mit Fragen/Medien versehen 📱 💻
 * [Unterrichtsmaterial-Schule](https://www.unterrichtsmaterial-schule.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
@@ -762,4 +764,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **568** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **570** Tools, Tipps & Tricks!
