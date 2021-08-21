@@ -223,6 +223,7 @@ siehe auch: Konferenztools
 * [Kumospace](https://www.kumospace.com) immersiver Gruppen-Video-Chat 💻
 * [Trember](https://app.trember.com/de/) immersiver Gruppen-Video-Chat ✔️ 💻
 * [WorkAdventure](https://workadventu.re) immersiver Gruppen-Video-Chat ✔️ 💻 💰
+* [flat.social](https://flat.social) immersiver Gruppen-Video-Chat ✔️ 💻
 
 <a name="erstellen-von-infographiken-und-lernvideos-o.ae."></a>
 ## Erstellen von Infographiken und Lernvideos o.Ä.
