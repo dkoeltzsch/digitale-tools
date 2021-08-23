@@ -249,7 +249,7 @@ siehe auch: Konferenztools
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 * [Circly](https://circlyapp.com/index.html) Visual Organizer Tool 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
-* [Primolo] Website für Kinder erstellen 💻
+* [Primolo](https://www.primolo.de) Website für Kinder erstellen 💻
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
