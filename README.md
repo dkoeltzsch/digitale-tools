@@ -114,6 +114,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 * [Boomcards](https://wow.boomlearning.com) Erstellen digitaler Übungen ✔️ 📱 💻 
 * [Lernpfad](https://lernpfad.ch/?) Strukturierung von Arbeitsaufträgen und Lernpfaden ✔️ 💻
+* [LearnHip](https://learnhip.com) Sammlung an interaktiven und digitalen Aufgaben zum selbst erstellen ✔️ 💻
 
 <a name="audio-&-audioaufnahme"></a>
 ## Audio & Audioaufnahme
@@ -765,4 +766,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **571** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **572** Tools, Tipps & Tricks!
