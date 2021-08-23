@@ -435,6 +435,7 @@ siehe auch: Digitales Klassenzimmer
 * [internetquatsch.de](https://internetquatsch.de) Sammlung von Kuriositäten für den Unterricht und zum Zeitvertreib ✔️ 💻
 * [neal.fun](https://neal.fun) Sammlung an witzigen und hübschen Online-Spielen/-Darstellungen ✔️ 💻
 * [Flocabulary](https://www.flocabulary.com) Lernmaterialien im Hip-Hop Stil für viele Fächer 💻 💰
+* [AppCamps](https://appcamps.de) Kostenloses Unterrichtsmaterial zu Programmierung und digitalen Themen 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -766,4 +767,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **572** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **573** Tools, Tipps & Tricks!
