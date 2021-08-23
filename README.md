@@ -453,7 +453,7 @@ siehe auch: Tafelersatz
 * [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
 * [Mindwendel](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
 * [Nextcloud Mindmaps](https://apps.nextcloud.com/apps/files_mindmap) Mindmapping-Tool in Nextcloud 💻
-* [The Brain](https://www.thebrain.com) 📱 💻
+* [The Brain](https://www.thebrain.com) Notizen & Mindmapping-Tool 📱 💻
 
 <a name="mint"></a>
 ## MINT
