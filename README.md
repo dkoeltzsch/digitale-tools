@@ -162,6 +162,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Motion Elements](https://www.motionelements.com/de/free/stock-footage) Sammlung lizenzfreier Videoclips 💻
 * [Pexels](https://www.pexels.com/de-de/) kostenlose Fotos & Videos ✔️ 💻
 * [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
+* [Sammlung Johannes Schirge](https://docs.google.com/document/d/14ahmnEl8IJCpVy-ilPOn__kiMhUAKPXZujHUalgULWQ/edit) Sammlung von Websites mit “freien” Bildern von Johannes Schirge ✔️ 💻
 * [undraw](https://undraw.co) Opensource Sammlung an Bildern, farblich anzupassen an das eigene Projekt ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
 * [Vector Portal](https://www.vectorportal.com) kostenlose Vektoren ✔️ 💻
@@ -505,6 +506,7 @@ siehe auch: Tafelersatz
 * [Typing Club](https://www.typingclub.com) Tastaturen Schreiben Lernen ✔️ 💻
 * [Andy Chatbot](https://andychatbot.com) Englisch lernen durch Chaten mit der KI 📱 💰
 * [ELSA](https://elsaspeak.com/en/) Englisches Aussprachetraining (US-Akzent) via App 📱
+* [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- und Rechtschreibleistung von LRS-Kindern 📱
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -678,6 +680,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 💻
 * [Collabora Office](https://nextcloud.com/de/collaboraonline/) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 * [Online Office](https://www.onlyoffice.com/de/office-for-nextcloud.aspx) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
+* [Transkribieren mit Word](https://support.microsoft.com/de-de/office/transkribieren-ihrer-aufzeichnungen-7fc2efec-245e-45f0-b053-2a97531ecf57) kleiner Trick um Audioaufnahmen direkt in Word automatisch transkribieren zu lassen ✔️ 💻
 
 <a name="video"></a>
 ## Video
@@ -768,4 +771,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **574** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **577** Tools, Tipps & Tricks!
