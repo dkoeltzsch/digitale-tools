@@ -362,6 +362,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Nextcloud Hub](https://nextcloud.com/) selbst hostbare Cloud-Plattform für Dateiaustausch, kollaboratives Arbeiten, uvm.
 * [Gimkit Ink](https://www.gimkit.com/ink) Publizier-Plattform für Lernende 📱 💻
 * [hypothes.is](https://web.hypothes.is) Websiten kollaborativ kommentieren 💻 
+* [Showbie](https://www.showbie.com) Cloudbasierte Lösung zum Aufgaben verteilen, Dokumente teilen uvm. 📱
 
 <a name="konferenztools"></a>
 ## Konferenztools
@@ -771,4 +772,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **577** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **578** Tools, Tipps & Tricks!
