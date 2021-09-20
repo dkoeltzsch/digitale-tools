@@ -462,6 +462,7 @@ siehe auch: Tafelersatz
 <a name="mint"></a>
 ## MINT
 * [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool ✔️ 📱 💻
+* [Geogebra Classroom](https://www.geogebra.org/m/vexj65n9) Arbeitsblätter erstellen und via Code Zugang erteilen, inkl. Forschrittsansicht
 * [Derive](https://derive.de.uptodown.com/windows) leistungsstarkes Mathematik-Tool ✔️
 * [Mathcad](https://www.mathcad.com/de) Mathematiksoftware 💰
 * [Maple](https://de.maplesoft.com) Mathematiksoftware 💰
@@ -484,6 +485,7 @@ siehe auch: Tafelersatz
 * [Studyflix](https://studyflix.de) Lernvideosammlung für Schüler:innen und Studierende ✔️ 📱 💻
 * [Graspable Math](https://graspablemath.com) digitale Algebra Aufgabe, inkl. Funktion, um Gleichungen frei umherzuschieben 💻
 * [Orinoco](https://klassenkarte.de/index.php/orinoco/) Erstellung und Auswertung von Datenflussdiagrammen ✔️ 💻
+* [RealMath](https://www.realmath.de) interaktive Übungsaufgaben und Beweise ✔️ 💻
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -772,4 +774,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **578** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **580** Tools, Tipps & Tricks!
