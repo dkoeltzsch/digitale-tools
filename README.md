@@ -202,6 +202,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Tinkercad](https://www.tinkercad.com) simples Online-3D-Modellierungsprogramm 📱 💻
 * [Lernroboter im Unterricht](https://www.uni-muenster.de/Lernroboter/) Unterrichtsmaterialien für die Lernroboter Bluebot, Ozobot und Thymio ✔️ 💻
 * [Code Combat](https://codecombat.com) spielerischer Lernansatz zum Erlernen von Programmieren 💻
+* [Code it!](https://code-it-studio.de) Onlinekurse zum Thema Coding ab 9 Jahren ✔️ 💻
+* [Kodu Game Lab](http://www.kodugamelab.com) Coding erlernen 
 
 <a name="comics"></a>
 ## Comics
@@ -774,4 +776,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **580** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **582** Tools, Tipps & Tricks!
