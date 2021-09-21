@@ -111,7 +111,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Nearpod](https://nearpod.com) Alleskönner in Sachen formativem Unterricht 📱 💻
 * [Lumi](https://next.lumi.education) Erstellen, Bearbeiten, Anzeigen und Freigeben von interaktiven Inhalten mit vers. Inhaltstypen 💻
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
-* [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
+* [Edpuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 * [Boomcards](https://wow.boomlearning.com) Erstellen digitaler Übungen ✔️ 📱 💻 
 * [Lernpfad](https://lernpfad.ch/?) Strukturierung von Arbeitsaufträgen und Lernpfaden ✔️ 💻
 * [LearnHip](https://learnhip.com) Sammlung an interaktiven und digitalen Aufgaben zum selbst erstellen ✔️ 💻
@@ -705,7 +705,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131) Video Bearbeitung inkl. Green Screen Funktion 📱 💰
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com) Videokonferenz-Tool & Bildschirmaufnahme 💻 💰
 * [ActivePresenter](https://atomisystems.com) Screencasting- und eLearning-Software, inkl. Quiz-Funktion 💻
-* [Edupuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
+* [Edpuzzle](https://edpuzzle.com) Videos mit Fragen versehen 📱 💻
 * [VideoAnt](https://ant.umn.edu) Videos mit Anmerkungen versehen, kollaborativ möglich 💻
 * [Tubequizard](http://tubequizard.com) Sammlung von YouTube-Videos mit Lückentext-Aufgaben ✔️ 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
