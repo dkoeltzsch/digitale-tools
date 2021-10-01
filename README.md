@@ -686,6 +686,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Collabora Office](https://nextcloud.com/de/collaboraonline/) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 * [Online Office](https://www.onlyoffice.com/de/office-for-nextcloud.aspx) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 * [Transkribieren mit Word](https://support.microsoft.com/de-de/office/transkribieren-ihrer-aufzeichnungen-7fc2efec-245e-45f0-b053-2a97531ecf57) kleiner Trick um Audioaufnahmen direkt in Word automatisch transkribieren zu lassen ✔️ 💻
+* [TelescopicText](https://www.telescopictext.org/write/) Teleskop Texte sehr simpel erstellen und teilen (be Registrierung) (✔️) 💻
 
 <a name="video"></a>
 ## Video
@@ -776,4 +777,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * ...
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **582** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **583** Tools, Tipps & Tricks!
