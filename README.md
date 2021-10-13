@@ -618,6 +618,7 @@ siehe auch: Gamification, Simulatoren
 * [Fake Receipt](http://www.fakereceipt.us/sales_receipt.php) Kassenzettel generieren ✔️ 💻
 * [Fake Flight Tickets](https://www.fakeflighttickets.com) Flugtickets generieren ✔️ 💻
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
+* [HoloBuilder](https://www.holobuilder.com) 360° Touren selbst anlegen 💻 (💰)
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -716,6 +717,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
 * [Video Mosaic](https://apps.apple.com/de/app/video-mosaic-app/id1185459031) App zum Bearbeiten (z.B. Verpixeln von Gesichtern) von Videos 📱
+* [Language Reactor](https://www.languagereactor.com) Erweiterung für zweisprachige Untertitel, Popup-Wörterbücher o.Ä. direkt in Netflix, Youtube & Co 💻
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -775,6 +777,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
-* ...
+* implizites Lernen
+* Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **583** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **585** Tools, Tipps & Tricks!
