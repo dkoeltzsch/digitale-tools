@@ -126,6 +126,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Anchor](https://anchor.fm) Podcast erstellen & hochladen 📱 💻
 * [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
 * [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426) Fotos sprechen lassen 📱
+* [Talkr](https://talkrapp.com) Fotos sprechen lassen 📱
 * [Voki](https://www.voki.com) sprechende virtuelle Figuren 📱 💻
 * [Soundtrap](https://www.soundtrap.com/?lang=de) digitale Audio-Workstation zum Erstellen von Musik & Podcasts 💻 💰
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
@@ -780,4 +781,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **585** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **586** Tools, Tipps & Tricks!
