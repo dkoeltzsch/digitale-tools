@@ -141,6 +141,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F) Liedtexte während des Musikvideos ergänzen ✔️ 📱 💻
 * [mote](https://www.justmote.me) Google Chrome Erweiterung, um Audio-Feedback zu verschicken ✔️ 💻
 * [Voice Changer](https://play.google.com/store/apps/details?id=com.androidrocker.voicechanger&hl=en_US&gl=US) Stimme via App verändern 📱
+* [ListenWise](https://listenwise.com) Podcasts kombiniert mit Quizzes und Transkripten 📱 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -208,6 +209,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Code Combat](https://codecombat.com) spielerischer Lernansatz zum Erlernen von Programmieren 💻
 * [Code it!](https://code-it-studio.de) Onlinekurse zum Thema Coding ab 9 Jahren ✔️ 💻
 * [Kodu Game Lab](http://www.kodugamelab.com) Coding erlernen 
+* [Tynker](https://www.tynker.com) Coding erlernen ✔️ 📱 💻 💰
 
 <a name="comics"></a>
 ## Comics
@@ -354,6 +356,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Slice](https://slice.wbrain.me) gemeinsames Erstellen von Diskussionstafeln ✔️ 💻
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Taskcards](https://www.taskcards.de) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. DSGVO-konform ✔️ 📱 💻
+* [Pinup](https://pinup.com/wnmP_mV0a) virtuelle Notizzettel anlegen ✔️ 📱 💻
 * [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen ✔️ 📱 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
@@ -402,6 +405,7 @@ siehe auch: Digitales Klassenzimmer
 * [Plastischer Reader Onenote](https://www.onenote.com/learningtools) erweiterte Darstellung von Text zur besseren Lesbarkeit 📱 💻
 * [Readfy](https://www.readfy.com/de/) Gratis eBook Sammlung 📱
 * [vorleser.net](https://www.vorleser.net) Sammlung von Hörbüchern, z.T. kostenlos ✔️ 📱 💻
+* [Common Lit](https://www.commonlit.org/?__cf_chl_jschl_tk__=pmd_NXjqRxMzJHChUXGxU1C82KF4wrGmlbdayDXTaQXVW7I-1634719527-0-gqNtZGzNAiWjcnBszQd9) Sammlung an Lesematerial 💻
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
@@ -445,6 +449,7 @@ siehe auch: Digitales Klassenzimmer
 * [neal.fun](https://neal.fun) Sammlung an witzigen und hübschen Online-Spielen/-Darstellungen ✔️ 💻
 * [Flocabulary](https://www.flocabulary.com) Lernmaterialien im Hip-Hop Stil für viele Fächer 💻 💰
 * [AppCamps](https://appcamps.de) Kostenloses Unterrichtsmaterial zu Programmierung und digitalen Themen 💻
+* [Once Upon A Picture](https://www.onceuponapicture.co.uk) Bildmaterial für Schreib-/Sprechanlässe o.Ä. ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -462,6 +467,7 @@ siehe auch: Tafelersatz
 * [Mindmeister](https://www.mindmeister.com/de) Online-Mindmapping-Tool ✔️ 📱 💻
 * [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
 * [Mindwendel](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
+* [iBrainstorm](http://www.ibrainstormapp.com) virtuelles Brainstorming Tool ✔️ 📱
 * [Nextcloud Mindmaps](https://apps.nextcloud.com/apps/files_mindmap) Mindmapping-Tool in Nextcloud 💻
 * [The Brain](https://www.thebrain.com) Notizen & Mindmapping-Tool 📱 💻
 
@@ -492,6 +498,8 @@ siehe auch: Tafelersatz
 * [Graspable Math](https://graspablemath.com) digitale Algebra Aufgabe, inkl. Funktion, um Gleichungen frei umherzuschieben 💻
 * [Orinoco](https://klassenkarte.de/index.php/orinoco/) Erstellung und Auswertung von Datenflussdiagrammen ✔️ 💻
 * [RealMath](https://www.realmath.de) interaktive Übungsaufgaben und Beweise ✔️ 💻
+* [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, die es Lernenden ermöglicht, digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
+* [Biorender](https://biorender.com) professionelle wissenschaftliche Figuren erstellen 💻
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -516,6 +524,9 @@ siehe auch: Tafelersatz
 * [Andy Chatbot](https://andychatbot.com) Englisch lernen durch Chaten mit der KI 📱 💰
 * [ELSA](https://elsaspeak.com/en/) Englisches Aussprachetraining (US-Akzent) via App 📱
 * [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- und Rechtschreibleistung von LRS-Kindern 📱
+* [Orthografie Trainer](https://orthografietrainer.net/index.php) kostenlose Übungssätze ab ca. 5. Klasse ✔️ 💻
+* [Road to Grammar](http://www.roadtogrammar.com) Englische Grammatik online üben ✔️ 💻
+* [Quill](https://www.quill.org) freie Schreib- und Grammatikübungen für Englisch 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -530,6 +541,7 @@ siehe auch: Tafelersatz
 * [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039) Unterrichtsorganisation für Sportlehrkräfte 📱
 * [Nextcloud Deck](https://nextcloud.com/blog/nextcloud-deck-1-0-available-today-plus-deck-for-android/) Kanban-Anwendung innerhalb von Nextcloud 📱 💻
 * [Notenschlüssel.net](https://www.notenschluessel.net) Online-Punkte-Noten-Rechner ✔️ 💻
+* [LearningView](https://learningview.org) Werkzeug zur Planung, Dokumentation & Reflexion des Lernprozesses 📱 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -591,6 +603,7 @@ siehe auch: Gamification, Simulatoren
 
 <a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
 ## Simulatoren (Social Media o.Ä.) & Generatoren
+siehe auch: Virtual & Augmented Reality
 * [Zeoob](https://zeoob.com) Simulator für soziale Medien, wie Facebook, Twitter etc. 💻
 * [TextingStory](https://textingstory.com) Simulator für Chatverläufe, auch in Videoformat 📱
 * [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen ✔️ 💻
@@ -621,6 +634,7 @@ siehe auch: Gamification, Simulatoren
 * [Fake Receipt](http://www.fakereceipt.us/sales_receipt.php) Kassenzettel generieren ✔️ 💻
 * [Fake Flight Tickets](https://www.fakeflighttickets.com) Flugtickets generieren ✔️ 💻
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
+* [Tweetgen](https://www.tweetgen.com) Twitterposts generieren ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -642,6 +656,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Cryptpad](https://cryptpad.fr) kollaborativer Web-Editor inkl. Datenverschlüsselung ✔️ 💻
 * [Keynote](https://www.apple.com/de/keynote/) Erstellen von Präsentationen 📱 💻
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
+* [Stage](https://apps.apple.com/de/app/stage-by-belkin/id584574701) 📱
 
 <a name="technikhacks"></a>
 ## Technikhacks
@@ -651,6 +666,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Kurze Links](https://kurzelinks.de) Links verkürzen, mit Passwort schützen u.v.m. ✔️ 💻
 * [Linktree](https://linktr.ee) Sammlung erstellen und mit einem Link teilen ✔️ 💻
 * [Schicks Digital!](https://schicks.digital) DSGVO-konform Dateien versenden ✔️ 💻
+* [edudocs](https://get.edudocs.org/de/) DSGVO-konform Dateien versenden 💻 💰
 * [ShareX](https://getsharex.com) Bildschirmaufnahme, Dateien versenden
 * [Snapdrop](https://snapdrop.net) Verschicken von Dateien mit Personen in Reichweite ✔️ 💻
 * [PDF Compressor](https://pdfcompressor.com/de/) Komprimieren von PDFs ✔️ 💻
@@ -690,6 +706,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Online Office](https://www.onlyoffice.com/de/office-for-nextcloud.aspx) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 * [Transkribieren mit Word](https://support.microsoft.com/de-de/office/transkribieren-ihrer-aufzeichnungen-7fc2efec-245e-45f0-b053-2a97531ecf57) kleiner Trick um Audioaufnahmen direkt in Word automatisch transkribieren zu lassen ✔️ 💻
 * [TelescopicText](https://www.telescopictext.org/write/) Teleskop Texte sehr simpel erstellen und teilen (be Registrierung) (✔️) 💻
+* [Voyant](https://voyant-tools.org) webbasierte Lese- und Analyseumgebung für digitale Texte ✔️ 💻
+* [Wortliga](https://wortliga.de/textanalyse/) prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
+* [Blablabmeter](http://www.blablameter.de) prüft Texte ✔️ 💻
+* [Summarize This](https://summarizethis.com) automatisierte Zusammenfassung von Texten ✔️ 💻
 
 <a name="video"></a>
 ## Video
@@ -752,6 +772,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Vocabicar](https://www.westermann.de/artikel/WEB-14-127052/VocabiCar-App-Android-Version) spielerische Englischvokabel-App 📱
 * [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
+* [Vocab Kitchen](https://www.vocabkitchen.com/home) Texte in Vokabelübungen umwandeln 💻
 
 <a name="woerterbuecher,-lexika,-suchmaschine-o.ae."></a>
 ## Wörterbücher, Lexika, Suchmaschine o.Ä.
@@ -775,6 +796,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Sonstiges
 * [exam.net](https://exam.net) Prüfungsplattform 💻 💰
 * [pecha.flickr](https://pechaflickr.de) Impro-Vortäge zu Zufallsbildern halten ✔️ 💻
+* [On the Spot](https://onthespot.offbook-edu.com) Impro-Vorträge halten ✔️ 💻
 * [Kapopo](https://kapopo.de/?fbclid=IwAR2i6Du_bcxY9F_NCkjBSVurkYdzIXEtD5apT0obM30LhM5XRQc-2mZ-5vk…) Powerpoint Karaoke ✔️ 💻
 * [Random Emoji Prompts](https://www.byrdseed.com/emoji2/) Zufallsemoji für z.B. Sprech-/Schreibanlässe ✔️ 💻
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/) Forscher:innen in das Klassenzimmer bringen 💻
@@ -791,10 +813,12 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
 * [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
 * [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
+* [tscheck.in](https://tscheck.in) gemeinsame Fragen zu Beginn/Ende von Meetings beantworten ✔️ 💻
+* [Story Generator](https://rpg.nathanhare.net/storygen/) Sprech-/Schreibanlässe o.Ä. mittels visueller Würfel ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **596** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **618** Tools, Tipps & Tricks!
