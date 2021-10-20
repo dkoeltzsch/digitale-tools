@@ -36,6 +36,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Gamification](#gamification)
 
+[Gruppeneinteilung](#gruppeneinteilung)
+
 [Kooperatives Arbeiten](#kooperatives-arbeiten)
 
 [Konferenztools](#konferenztools)
@@ -249,6 +251,7 @@ siehe auch: Konferenztools
 * [PearDeck](https://www.peardeck.com/googleslides) interaktive Übungen in Google Slides integrieren ✔️ 💻
 * [thinglink](https://www.thinglink.com) Erstellen von interaktiven Bildern 📱 💻
 * [Piktochart](https://piktochart.com) Erstellen von interaktiven Infographiken, Präsentation etc. 💻
+* [Easelly](https://www.easel.ly) Erstellen von interaktiven Infographiken 💻 💰
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
@@ -277,6 +280,7 @@ siehe auch: Konferenztools
 * [Slido](https://www.sli.do) interaktive Q&A- und Abstimmungsplattform 📱 💻
 * [Plickers](https://get.plickers.com) interaktiver Quiz/Umfrage 📱 💻
 * [Doodle](https://doodle.com/de/) Erstellung von Terminumfragen oder einfachen Online-Umfragen ✔️ 📱 💻
+* [nuudel](https://nuudel.digitalcourage.de) Erstellung von Terminumfragen oder einfachen Online-Umfragen ✔️ 📱 💻
 * [Xoyondo](https://xoyondo.com) Erstellung von Terminumfragen oder einfachen Online-Umfragen ✔️ 💻
 * [Socrative](https://www.socrative.com) Quiztool mit schnellen Umfrage- und Abschlussticketfunktion ✔️ 📱 💻
 * [Wooclap](https://www.wooclap.com/de/) Umfrage & Präsentationstool mit vielen Frageformaten 💻
@@ -334,6 +338,13 @@ siehe auch: Rätsel-Tools
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 
+<a name="gruppeneinteilung"></a>
+## Gruppeneinteilung
+* [TeamShake](https://apps.apple.com/de/app/team-shake/id390812953#?platform=ipad) digitale Gruppeneinteilung ✔️ 📱 💰
+* [Chooser!](https://apps.apple.com/de/app/chooser/id1275945156#?platform=ipad) eine Person wird ausgewählt ✔️ 📱
+* [Decide Now!](https://apps.apple.com/de/app/decide-now/id383718755#?platform=ipad) Entscheidungsrad ✔️ 📱 💰
+* [Tap Roulette](https://apps.apple.com/de/app/tap-roulette-make-decisions-with-friends/id430254631) eine Person wird ausgewählt ✔️ 📱 💰
+
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
 siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
@@ -365,6 +376,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Kialo](https://www.kialo-edu.com) Visualisierung von Argumenten und Diskussionen, Erlernen von kritischem Denken 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [EdjiNotes](https://edji.it/#/home) Texte mit Anmerkungen (Text, Audio, Emojis) versehen ✔️ 💻
+* [ethermap](https://getethermap.org) Kartenmaterial mit Anmerkungen versehen ✔️ 💻
 * [Kami](https://www.kamiapp.com) Materialien mit Anmerkungen versehen/bearbeiten etc. 📱 💰
 * [ActivelyLearn](https://www.activelylearn.com) vorhandene Texte mit Fragen/Videos versehen 💻
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
@@ -470,6 +482,7 @@ siehe auch: Tafelersatz
 * [iBrainstorm](http://www.ibrainstormapp.com) virtuelles Brainstorming Tool ✔️ 📱
 * [Nextcloud Mindmaps](https://apps.nextcloud.com/apps/files_mindmap) Mindmapping-Tool in Nextcloud 💻
 * [The Brain](https://www.thebrain.com) Notizen & Mindmapping-Tool 📱 💻
+* [simplemind](https://simplemind.eu) Mindmapping-Tool 📱 💻 (💰)
 
 <a name="mint"></a>
 ## MINT
@@ -500,6 +513,7 @@ siehe auch: Tafelersatz
 * [RealMath](https://www.realmath.de) interaktive Übungsaufgaben und Beweise ✔️ 💻
 * [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, die es Lernenden ermöglicht, digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
 * [Biorender](https://biorender.com) professionelle wissenschaftliche Figuren erstellen 💻
+* [MathCityMap](https://mathcitymap.eu/de/) App mit mathematischen Wanderpfaden 📱
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -542,6 +556,7 @@ siehe auch: Tafelersatz
 * [Nextcloud Deck](https://nextcloud.com/blog/nextcloud-deck-1-0-available-today-plus-deck-for-android/) Kanban-Anwendung innerhalb von Nextcloud 📱 💻
 * [Notenschlüssel.net](https://www.notenschluessel.net) Online-Punkte-Noten-Rechner ✔️ 💻
 * [LearningView](https://learningview.org) Werkzeug zur Planung, Dokumentation & Reflexion des Lernprozesses 📱 💻
+* [Sitzplangenerator](http://www.sitzplangenerator.de) digitalen Sitzplan erstellen ✔️ 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -673,6 +688,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [pdf.io](https://pdf.io/de/) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
+* [Lizenzhinweisgenerator](https://lizenzhinweisgenerator.de) automatische Erklärungen zu den Lizenzen von Material auf Websites ✔️ 💻
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
@@ -688,6 +704,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Marginnote](https://www.marginnote.com) Lese- und Annotationssoftware 📱 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
 * [Favelio](https://www.favelio.com/home) Erzählen leicht interaktiver, nicht-linearer Geschichten 📱 💻
+* [Elementari](https://elementari.com) Schreiben und programmieren von interaktiven Geschichten (💰)
 * [Post-it](https://apps.apple.com/us/app/post-it/id920127738) virtuelle PostIts 📱
 * [Minibooks](https://www.minibooks.ch) Erstellen von online Büchern ✔️ 💻
 * [Book Creator](https://bookcreator.com) Erstellen von online Büchern 📱 💻
@@ -728,6 +745,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [FlexClip](https://www.flexclip.com/de/) Videobearbeitungstool
 * [Openshot Video Editor](https://www.openshot.org/de/) Videobearbeitungstool 💻 
 * [Stop Motion Studio](https://www.stopmotionstudio.com) Stop Motion Filme erstellen 📱 💻 💰
+* [Puppet Pals](https://apps.apple.com/de/app/puppet-pals-hd/id342076546) animierte Filme selbst erstellen inkl. fertiger Charaktere ✔️ 📱
 * [Green Screen by Do Ink](https://apps.apple.com/us/app/green-screen-by-do-ink/id730091131) Video Bearbeitung inkl. Green Screen Funktion 📱 💰
 * [Screen-Cast-O-Matic](https://screencast-o-matic.com) Videokonferenz-Tool & Bildschirmaufnahme 💻 💰
 * [ActivePresenter](https://atomisystems.com) Screencasting- und eLearning-Software, inkl. Quiz-Funktion 💻
@@ -740,6 +758,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
 * [Video Mosaic](https://apps.apple.com/de/app/video-mosaic-app/id1185459031) App zum Bearbeiten (z.B. Verpixeln von Gesichtern) von Videos 📱
 * [Language Reactor](https://www.languagereactor.com) Erweiterung für zweisprachige Untertitel, Popup-Wörterbücher o.Ä. direkt in Netflix, Youtube & Co 💻
+* [Topshot](https://apps.apple.com/de/app/topshot/id1312753919) Einstieg in filmische Mittel ✔️ 📱
+* [BaM Video Delay](https://apps.apple.com/de/app/bam-video-delay/id517673842#?platform=ipad) App zur Videoanalyse 📱 💰
 
 <a name="virtual-&-augmented-reality"></a>
 ## Virtual & Augmented Reality
@@ -755,6 +775,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Tour Creator](https://arvr.google.com/tourcreator/) 360° Touren gestalten
 * [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
 * [360° Cities](https://www.360cities.net) Sammlung von 360° Bildern und Videos ✔️ 💻
+* [Insight Heart](https://animares.com/portfolio/insight-heart) VR Animation des menschlichen Herzens ✔️ 📱 💰
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -798,6 +819,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [pecha.flickr](https://pechaflickr.de) Impro-Vortäge zu Zufallsbildern halten ✔️ 💻
 * [On the Spot](https://onthespot.offbook-edu.com) Impro-Vorträge halten ✔️ 💻
 * [Kapopo](https://kapopo.de/?fbclid=IwAR2i6Du_bcxY9F_NCkjBSVurkYdzIXEtD5apT0obM30LhM5XRQc-2mZ-5vk…) Powerpoint Karaoke ✔️ 💻
+* [Slidefest](http://slidefest.com) Powerpoint Karaoke ✔️ 💻
 * [Random Emoji Prompts](https://www.byrdseed.com/emoji2/) Zufallsemoji für z.B. Sprech-/Schreibanlässe ✔️ 💻
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/) Forscher:innen in das Klassenzimmer bringen 💻
 * [epals](https://www.epals.com/#/findPenPalsPage) digitale Brieffreundschaftenplattform 💻
@@ -815,10 +837,13 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
 * [tscheck.in](https://tscheck.in) gemeinsame Fragen zu Beginn/Ende von Meetings beantworten ✔️ 💻
 * [Story Generator](https://rpg.nathanhare.net/storygen/) Sprech-/Schreibanlässe o.Ä. mittels visueller Würfel ✔️ 💻
+* [Phyphox](https://phyphox.org) Smartphone für Experimente nutzen ✔️ 📱
+* [Intervall Timer](https://www.intervaltimer.com) Intervall-Timer-App für hochintensives Intervalltraining (HIIT) o.Ä. ✔️ 📱 💻
+* [iMuscle](https://3d4medical.com/apps/imuscle-2) Muskeln identifizieren und passende Übungen suchen ✔️ 📱 💰
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **618** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **638** Tools, Tipps & Tricks!
