@@ -606,7 +606,6 @@ siehe auch: Gamification, Simulatoren
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 * [fodey.com](https://www.fodey.com/generators/newspaper/snippet.asp) Sammlung witziger Generatoren, z.B. Zeitungsartikel ✔️ 💻
 * [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
-* [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
 * [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
 * [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
 * [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
@@ -622,7 +621,6 @@ siehe auch: Gamification, Simulatoren
 * [Fake Receipt](http://www.fakereceipt.us/sales_receipt.php) Kassenzettel generieren ✔️ 💻
 * [Fake Flight Tickets](https://www.fakeflighttickets.com) Flugtickets generieren ✔️ 💻
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
-* [HoloBuilder](https://www.holobuilder.com) 360° Touren selbst anlegen 💻 (💰)
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -725,7 +723,18 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 <a name="virtual-&-augmented-reality"></a>
 ## Virtual & Augmented Reality
-*
+* [Blippar](https://www.blippar.com) Erstellung und Veröffentlichung von Augmented Reality-Inhalten für Smartphone Web 💻 💰
+* [CoSpaces](https://cospaces.io/edu/) VR-Plattform, mit der per Browser oder App durch Drag and Drop kleine 3D-Welten erstellt werden können 💻 📱
+* [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, die es Lernenden ermöglicht, digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
+* [Areeka](https://areeka.net) Plattform für Augmented Reality Inhalte in der Bildung 💻 💰
+* [Qlone](https://www.qlone.pro) alles-in-einem Werkzeug für 3D-Scannen und AR ✔️ 📱
+* [QuiverVision](https://quivervision.com) ausgemalte Bilder zum virtuellen Leben erwecken ✔️ 📱
+* [Tiltbrush](https://www.tiltbrush.com) in Virtueller Realität zeichnen & malen
+* [WDR AR 1933-1945](https://apps.apple.com/de/app/wdr-ar-1933-1945/id1446878251) Zeitzeugenberichte zum 2. Weltkrieg in AR ✔️ 📱
+* [HoloBuilder](https://www.holobuilder.com) 360° Touren selbst anlegen 💻 (💰)
+* [Tour Creator](https://arvr.google.com/tourcreator/) 360° Touren gestalten
+* [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
+* [360° Cities](https://www.360cities.net) Sammlung von 360° Bildern und Videos ✔️ 💻
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -788,4 +797,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **586** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **596** Tools, Tipps & Tricks!
