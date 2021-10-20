@@ -68,6 +68,8 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
 [Video](#video)
 
+[Virtual & Augmented Reality](#virtual-&-augmented-reality)
+
 [Vokabeln Lernen](#vokabeln-lernen)
 
 [Wörterbücher, Lexika, Suchmaschine o.Ä.](#woerterbuecher,-lexika,-suchmaschine-o.ae.)
@@ -720,6 +722,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
 * [Video Mosaic](https://apps.apple.com/de/app/video-mosaic-app/id1185459031) App zum Bearbeiten (z.B. Verpixeln von Gesichtern) von Videos 📱
 * [Language Reactor](https://www.languagereactor.com) Erweiterung für zweisprachige Untertitel, Popup-Wörterbücher o.Ä. direkt in Netflix, Youtube & Co 💻
+
+<a name="virtual-&-augmented-reality"></a>
+## Virtual & Augmented Reality
+*
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
