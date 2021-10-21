@@ -337,6 +337,7 @@ siehe auch: Rätsel-Tools
 * [Playfactile](https://www.playfactile.com) Online-Quizze im Jeopardy-Stil ✔️ 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
+* [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -777,6 +778,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [360° Cities](https://www.360cities.net) Sammlung von 360° Bildern und Videos ✔️ 💻
 * [Insight Heart](https://animares.com/portfolio/insight-heart) VR Animation des menschlichen Herzens ✔️ 📱 💰
 * [Shakespeare's Globe 360](https://apps.apple.com/de/app/shakespeares-globe-360/id959985371) 3D-Globe-Theater in virtueller Realität ✔️ 📱
+* [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
+* [Google Earth VR](https://arvr.google.com/earth/) virtuell Orte in der ganzen Welt erkunden ✔️ 💻
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -847,4 +850,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **639** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **641** Tools, Tipps & Tricks!
