@@ -776,6 +776,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
 * [360° Cities](https://www.360cities.net) Sammlung von 360° Bildern und Videos ✔️ 💻
 * [Insight Heart](https://animares.com/portfolio/insight-heart) VR Animation des menschlichen Herzens ✔️ 📱 💰
+* [Shakespeare's Globe 360](https://apps.apple.com/de/app/shakespeares-globe-360/id959985371) 3D-Globe-Theater in virtueller Realität ✔️ 📱
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -846,4 +847,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **638** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **639** Tools, Tipps & Tricks!
