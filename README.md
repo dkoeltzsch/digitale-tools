@@ -780,6 +780,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Shakespeare's Globe 360](https://apps.apple.com/de/app/shakespeares-globe-360/id959985371) 3D-Globe-Theater in virtueller Realität ✔️ 📱
 * [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
 * [Google Earth VR](https://arvr.google.com/earth/) virtuell Orte in der ganzen Welt erkunden ✔️ 💻
+* [3DBEAR](https://www.3dbear.io) AR schnell & leicht in der App erstellen, Bilder & Filme davon teilen ✔️ 📱
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -850,4 +851,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **641** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **642** Tools, Tipps & Tricks!
