@@ -138,6 +138,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Let Us Listen](https://letuslisten.net) Umwandeln von Text in natürlich klingende Sprache ✔️ 📱
 * [natural reader](https://www.naturalreaders.com/online/#:~:text=Natural%20Reader%20Online%20is%20a,to%20documents%20on%20the%20go) Umwandeln von Text in natürlich klingende Sprache 💻
 * [Read Speaker](https://www.readspeaker.com) Umwandeln von Text in natürlich klingende Sprache 💻
+* [Voicespice](https://voicespice.com/Default.aspx) Umwandeln von Text in natürlich klingende Sprache & Verändern der eigenen Stimme ✔️ 💻
 * [Open Broadcaster Software/OBS Studio](https://obsproject.com/) Open Source Software zum erstellen von Video-, und Audioaufnahmen und Livestreams 💻
 * [Super Simple Songs](https://www.youtube.com/user/SuperSimpleSongs) Youtube-Sammlung einfacher englischer Lieder ✔️ 💻
 * [lyricstraining](https://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https%3A%2F%2Flyricstraining.com%2F) Liedtexte während des Musikvideos ergänzen ✔️ 📱 💻
@@ -781,6 +782,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
 * [Google Earth VR](https://arvr.google.com/earth/) virtuell Orte in der ganzen Welt erkunden ✔️ 💻
 * [3DBEAR](https://www.3dbear.io) AR schnell & leicht in der App erstellen, Bilder & Filme davon teilen ✔️ 📱
+* [GamesLab VR Sammlung](https://medien-und-bildung.lvr.de/de/unser_angebot/medienzentrum_duesseldorf/medialab/computerspiele_2/im_lab/vr_im_gameslab/vr_im_gameslab.html) ausgewählte Empfehlungen für VR des GamesLab ✔️ 💻
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -851,4 +853,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **642** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **644** Tools, Tipps & Tricks!
