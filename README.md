@@ -11,7 +11,7 @@ Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to
 ### Inhaltsverzeichnis der Kategorien
 Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 
-Suchst du etwas bestimmtes? Dann verwende am besten die Tastenkombination strg+f / cmd+f und suche ganz gezielt.
+Suchst du etwas Bestimmtes? Dann verwende am besten die Tastenkombination strg+f / cmd+f und suche ganz gezielt.
 
 [Arbeitsblätter erstellen](#arbeitsblaetter-erstellen)
 
