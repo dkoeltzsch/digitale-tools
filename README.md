@@ -145,6 +145,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [mote](https://www.justmote.me) Google Chrome Erweiterung, um Audio-Feedback zu verschicken ✔️ 💻
 * [Voice Changer](https://play.google.com/store/apps/details?id=com.androidrocker.voicechanger&hl=en_US&gl=US) Stimme via App verändern 📱
 * [ListenWise](https://listenwise.com) Podcasts kombiniert mit Quizzes und Transkripten 📱 💻
+* [Musyc](https://apps.apple.com/de/app/musyc/id489836689) Musik-App, die Berührungen in Musik verwandelt ✔️ 📱
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -342,6 +343,7 @@ siehe auch: Rätsel-Tools
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
+* [Teamshufflr](https://teamshufflr.com/de/) Random Team Generator ✔️ 💻
 * [TeamShake](https://apps.apple.com/de/app/team-shake/id390812953#?platform=ipad) digitale Gruppeneinteilung ✔️ 📱 💰
 * [Chooser!](https://apps.apple.com/de/app/chooser/id1275945156#?platform=ipad) eine Person wird ausgewählt ✔️ 📱
 * [Decide Now!](https://apps.apple.com/de/app/decide-now/id383718755#?platform=ipad) Entscheidungsrad ✔️ 📱 💰
@@ -559,6 +561,7 @@ siehe auch: Tafelersatz
 * [Notenschlüssel.net](https://www.notenschluessel.net) Online-Punkte-Noten-Rechner ✔️ 💻
 * [LearningView](https://learningview.org) Werkzeug zur Planung, Dokumentation & Reflexion des Lernprozesses 📱 💻
 * [Sitzplangenerator](http://www.sitzplangenerator.de) digitalen Sitzplan erstellen ✔️ 💻
+* [Schoolwork](https://apps.apple.com/de/app/schoolwork/id1355112526) Materialien teilen, Feedback, Fortschritt u.v.m. 📱
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -847,10 +850,11 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Phyphox](https://phyphox.org) Smartphone für Experimente nutzen ✔️ 📱
 * [Intervall Timer](https://www.intervaltimer.com) Intervall-Timer-App für hochintensives Intervalltraining (HIIT) o.Ä. ✔️ 📱 💻
 * [iMuscle](https://3d4medical.com/apps/imuscle-2) Muskeln identifizieren und passende Übungen suchen ✔️ 📱 💰
+* [Gedichtgrube](https://www.falschegefuehle.de) von KI geschriebene Gedichte ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 * Inklusion
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **644** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **648** Tools, Tipps & Tricks!
