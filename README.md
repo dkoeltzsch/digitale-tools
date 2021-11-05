@@ -1,4 +1,5 @@
-# Digitale Tools & Werkzeuge für den Unterricht
+# Digitale Tools für den Unterricht
+## Apps, Tipps und Tricks für digitalen Unterricht
 Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung digitaler Tools, um dein Leben in der Bildung zu erleichtern.
 
 Die Liste wird (durch deine Hilfe) ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal.
