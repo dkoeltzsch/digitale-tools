@@ -146,6 +146,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Voice Changer](https://play.google.com/store/apps/details?id=com.androidrocker.voicechanger&hl=en_US&gl=US) Stimme via App verändern 📱
 * [ListenWise](https://listenwise.com) Podcasts kombiniert mit Quizzes und Transkripten 📱 💻
 * [Musyc](https://apps.apple.com/de/app/musyc/id489836689) Musik-App, die Berührungen in Musik verwandelt ✔️ 📱
+* [Ohrka](https://www.ohrka.de) Hörspiele für Kinder ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -170,6 +171,7 @@ Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
 * [Motion Elements](https://www.motionelements.com/de/free/stock-footage) Sammlung lizenzfreier Videoclips 💻
 * [Pexels](https://www.pexels.com/de-de/) kostenlose Fotos & Videos ✔️ 💻
 * [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
+* [Wunderstock](https://wunderstock.com) kostenlose Bilder ✔️ 💻
 * [Sammlung Johannes Schirge](https://docs.google.com/document/d/14ahmnEl8IJCpVy-ilPOn__kiMhUAKPXZujHUalgULWQ/edit) Sammlung von Websites mit “freien” Bildern von Johannes Schirge ✔️ 💻
 * [undraw](https://undraw.co) Opensource Sammlung an Bildern, farblich anzupassen an das eigene Projekt ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
@@ -254,6 +256,7 @@ siehe auch: Konferenztools
 * [thinglink](https://www.thinglink.com) Erstellen von interaktiven Bildern 📱 💻
 * [Piktochart](https://piktochart.com) Erstellen von interaktiven Infographiken, Präsentation etc. 💻
 * [Easelly](https://www.easel.ly) Erstellen von interaktiven Infographiken 💻 💰
+* [Postereditor](https://www.postereditor.de) Poster online bearbeiten ✔️ 💻
 * [MySimpleShow](https://www.mysimpleshow.com/de/) Erstellen von Videos 💻
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
@@ -340,6 +343,10 @@ siehe auch: Rätsel-Tools
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 * [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
+* [Games to learn English](https://www.gamestolearnenglish.com) virtuelle Englischspiele ✔️ 💻
+* [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
+* [Sheppard Software](https://www.sheppardsoftware.com) spielerische Wissensvermittlung ✔️ 💻
+* [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -465,7 +472,7 @@ siehe auch: Digitales Klassenzimmer
 * [neal.fun](https://neal.fun) Sammlung an witzigen und hübschen Online-Spielen/-Darstellungen ✔️ 💻
 * [Flocabulary](https://www.flocabulary.com) Lernmaterialien im Hip-Hop Stil für viele Fächer 💻 💰
 * [AppCamps](https://appcamps.de) Kostenloses Unterrichtsmaterial zu Programmierung und digitalen Themen 💻
-* [Once Upon A Picture](https://www.onceuponapicture.co.uk) Bildmaterial für Schreib-/Sprechanlässe o.Ä. ✔️ 💻
+* [easy4me](https://www.easy4me.info) Material für den Informatikunterricht ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -534,7 +541,7 @@ siehe auch: Tafelersatz
 * [Lernrudi](https://lernrudi.de) Onlineübungen zur Sprachförderung von DaZ 💻 💰
 * [Allgemeinbildung](https://allgemeinbildung.ch/cms/pages/home.php) Unterrichtsmaterialien & Übungen ✔️ 💻
 * [wisc-online](https://www.wisc-online.com) englischsprachige Onlineübungen zu vielen Fächern ✔️ 💻
-* [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/bruch/teilbarkeit.shtml) Sammlung von Matheaufgaben ✔️ 💻
+* [Aufgabenfuchs](https://aufgabenfuchs.de) Sammlung von Aufgaben zu verschiedenen Fächern ✔️ 💻
 * [iXL](https://de.ixl.com) Sammlung von Matheaufgaben Klasse 1-6 ✔️ 💻
 * [EF Classes](https://class.ef.com) vollständige Lerneinheiten für alle Level und alle Kompetenzen für Englisch 📱 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
@@ -545,6 +552,8 @@ siehe auch: Tafelersatz
 * [Orthografie Trainer](https://orthografietrainer.net/index.php) kostenlose Übungssätze ab ca. 5. Klasse ✔️ 💻
 * [Road to Grammar](http://www.roadtogrammar.com) Englische Grammatik online üben ✔️ 💻
 * [Quill](https://www.quill.org) freie Schreib- und Grammatikübungen für Englisch 💻
+* [Mauswiesel](https://mauswiesel.bildung.hessen.de) Übungen für verschiedene Fächer, eher Primar- und Unterstufe ✔️ 💻
+* [Cool Lama](https://coollama.de) Spiele und Übungen für Mathe ✔️ 💻
 
 <a name="organisieren-&-verwalten"></a>
 ## Organisieren & Verwalten
@@ -645,6 +654,7 @@ siehe auch: Virtual & Augmented Reality
 * [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
 * [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
 * [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
+* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Map Image](https://www.mapimage.de) Kartenbilder (inkl. Markierungen, Beschriftungen etc.) erstellen ✔️ 💻
 * [Worldmapgenerator](https://www.worldmapgenerator.com/de/) eigene, individuelle Weltkarte erstellen ✔️ 💻
@@ -655,6 +665,12 @@ siehe auch: Virtual & Augmented Reality
 * [Fake Flight Tickets](https://www.fakeflighttickets.com) Flugtickets generieren ✔️ 💻
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
 * [Tweetgen](https://www.tweetgen.com) Twitterposts generieren ✔️ 💻
+* [Iceman Photoscan](http://www.icemanphotoscan.eu) fotografische Dokumentation von Ötzi ✔️ 💻
+* [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
+* [Every Last Drop](http://everylastdrop.co.uk) Wasserverbrauch anschaulich erklärt auf Englisch ✔️ 💻
+* [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
+* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
+* [The True Size](https://thetruesize.com) Ländergrößen direkt vergleichen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -822,6 +838,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Ecosia](https://www.ecosia.org) umweltfreundliche Suchmaschine ✔️ 💻
 * [Metager](https://metager.de) Suchmaschine inkl. Privatssphäre ✔️ 💻
 * [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) Wikipedia in einfacher Sprache ✔️ 💻
+* [Find das Bild](http://www.find-das-bild.de) Bildersuche für Kinder ✔️ 💻
 
 <a name="sonstiges"></a>
 ## Sonstiges
@@ -831,11 +848,15 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Kapopo](https://kapopo.de/?fbclid=IwAR2i6Du_bcxY9F_NCkjBSVurkYdzIXEtD5apT0obM30LhM5XRQc-2mZ-5vk…) Powerpoint Karaoke ✔️ 💻
 * [Slidefest](http://slidefest.com) Powerpoint Karaoke ✔️ 💻
 * [Random Emoji Prompts](https://www.byrdseed.com/emoji2/) Zufallsemoji für z.B. Sprech-/Schreibanlässe ✔️ 💻
+* [Once Upon A Picture](https://www.onceuponapicture.co.uk) Bildmaterial für Schreib-/Sprechanlässe o.Ä. ✔️ 💻
+* [Pobble 365](https://www.pobble365.com) Bilder für Schreibanlässe 💻
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/) Forscher:innen in das Klassenzimmer bringen 💻
 * [epals](https://www.epals.com/#/findPenPalsPage) digitale Brieffreundschaftenplattform 💻
 * [Slowly](https://slowly.app/en/) digitale Brieffreundschaften in Echtzeit, d.h. so lange wie ein Brief brauchen würde 📱
 * [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
 * [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
+* [Brush Ninja](https://brush.ninja) digitales Zeichnen, Gifs erstellen, Daumenkinos etc. ✔️ 💻
+* [Kritzel Klub](https://www.kritzel-klub.de) online Zeichentool ✔️ 💻
 * [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
@@ -850,11 +871,15 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Phyphox](https://phyphox.org) Smartphone für Experimente nutzen ✔️ 📱
 * [Intervall Timer](https://www.intervaltimer.com) Intervall-Timer-App für hochintensives Intervalltraining (HIIT) o.Ä. ✔️ 📱 💻
 * [iMuscle](https://3d4medical.com/apps/imuscle-2) Muskeln identifizieren und passende Übungen suchen ✔️ 📱 💰
+* [Unser Körper](http://unserkoerper.de) Informationen, Materialien, Spiele zum menschlichen Körper ✔️ 💻
 * [Gedichtgrube](https://www.falschegefuehle.de) von KI geschriebene Gedichte ✔️ 💻
+* [This X Does Not Exist](https://thisxdoesnotexist.com) Fake Bilder von Personen, Tieren, Wohnungen etc. ✔️ 💻
+* [Tholman Texter](https://tholman.com/texter/) Bilder aus Texten erstellen ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 * Inklusion
+* Klima, Geographie
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **648** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **671** Tools, Tipps & Tricks!
