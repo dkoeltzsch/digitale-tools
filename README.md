@@ -73,6 +73,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Textbearbeitung & Notizen](#textbearbeitung-&-notizen)
 
+[Umwelt & Klima](#umwelt-&-klima)
+
 [Video](#video)
 
 [Virtual & Augmented Reality](#virtual-&-augmented-reality)
@@ -304,6 +306,7 @@ siehe auch: Konferenztools
 * [Dotstorming](https://dotstorming.com) Brainstorming- & Abstimmungsfunktion 💻
 * [Feedbackr](https://www.feedbackr.io) gegenseitige Bewertung, Gruppendiskussion, Meinungsbild u.v.m. ✔️ 📱 💻
 * [invote](https://invote.de) Online-Tool für Live-Umfragen durch Abstimmung ✔️ 📱 💻
+* [tscheck.in](https://tscheck.in) gemeinsame Fragen zu Beginn/Ende von Meetings beantworten ✔️ 💻
 
 <a name="fortbildungen"></a>
 ## Fortbildungen
@@ -667,7 +670,6 @@ siehe auch: Virtual & Augmented Reality
 * [Fake Flight Tickets](https://www.fakeflighttickets.com) Flugtickets generieren ✔️ 💻
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
 * [Tweetgen](https://www.tweetgen.com) Twitterposts generieren ✔️ 💻
-* [Iceman Photoscan](http://www.icemanphotoscan.eu) fotografische Dokumentation von Ötzi ✔️ 💻
 * [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
 * [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
 * [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
@@ -678,10 +680,8 @@ siehe auch: Virtual & Augmented Reality
 * [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
-* [Every Last Drop](http://everylastdrop.co.uk) Wasserverbrauch anschaulich erklärt auf Englisch ✔️ 💻
 * [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
 * [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
-* [The True Size](https://thetruesize.com) Ländergrößen direkt vergleichen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -761,6 +761,23 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Wortliga](https://wortliga.de/textanalyse/) prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
 * [Blablabmeter](http://www.blablameter.de) prüft Texte ✔️ 💻
 * [Summarize This](https://summarizethis.com) automatisierte Zusammenfassung von Texten ✔️ 💻
+
+<a name="umwelt-&-klima"></a>
+## Umwelt & Klima
+* [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
+* [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
+* [The True Size](https://thetruesize.com) Ländergrößen direkt vergleichen ✔️ 💻
+* [Every Last Drop](http://everylastdrop.co.uk) Wasserverbrauch anschaulich erklärt auf Englisch ✔️ 💻
+* [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
+* [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
+* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
+* [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
+* [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
+* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
+* [Iceman Photoscan](http://www.icemanphotoscan.eu) fotografische Dokumentation von Ötzi ✔️ 💻
+* [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
+* [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
+* [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 
 <a name="video"></a>
 ## Video
@@ -871,14 +888,12 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
 * [Brush Ninja](https://brush.ninja) digitales Zeichnen, Gifs erstellen, Daumenkinos etc. ✔️ 💻
 * [Kritzel Klub](https://www.kritzel-klub.de) online Zeichentool ✔️ 💻
-* [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 * [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
 * [Chordfinder](https://www.stufentheorie.de) passenden Akkorde zur Tonart finden ✔️ 💻
 * [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
-* [tscheck.in](https://tscheck.in) gemeinsame Fragen zu Beginn/Ende von Meetings beantworten ✔️ 💻
 * [Phyphox](https://phyphox.org) Smartphone für Experimente nutzen ✔️ 📱
 * [Intervall Timer](https://www.intervaltimer.com) Intervall-Timer-App für hochintensives Intervalltraining (HIIT) o.Ä. ✔️ 📱 💻
 * [iMuscle](https://3d4medical.com/apps/imuscle-2) Muskeln identifizieren und passende Übungen suchen ✔️ 📱 💰
@@ -890,6 +905,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
-* Klima, Geographie
+* Klima & Umwelt
 
 Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **672** Tools, Tipps & Tricks!
