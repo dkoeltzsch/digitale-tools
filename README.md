@@ -63,7 +63,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Rätsel](#raetsel)
 
-[Simulatoren (Social Media o.Ä.) & Generatoren](#simulatoren-(social-media-o.ae.)-&-generatoren)
+[Simulatoren & Generatoren](#simulatoren-&-generatoren)
 
 [Tafelersatz](#tafelersatz)
 
@@ -633,32 +633,22 @@ siehe auch: Gamification, Simulatoren
 * [Lockee.fr](https://en.lockee.fr) Virtuelle Schlösser generieren 💻
 * [KeepMe](https://keepme.io/#/) Geheime Botschaften durch Passwörter virtuell absichern ✔️ 💻
 
-<a name="simulatoren-(social-media-o.ae.)-&-generatoren"></a>
-## Simulatoren (Social Media o.Ä.) & Generatoren
+<a name="simulatoren-&-generatoren"></a>
+## Simulatoren & Generatoren
 siehe auch: Virtual & Augmented Reality
 * [Zeoob](https://zeoob.com) Simulator für soziale Medien, wie Facebook, Twitter etc. 💻
 * [TextingStory](https://textingstory.com) Simulator für Chatverläufe, auch in Videoformat 📱
-* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen ✔️ 💻
+* [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen in Chat Verläufen ✔️ 💻
+* [FakeWhatsApp](https://www.fakewhats.com/generator) WhatsApp Chat Simulator ✔️ 💻
 * [Story Generator](https://www.plot-generator.org.uk/story/) Ideengenerator für Geschichten, Charaktere u.v.m. ✔️ 💻
-* [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/) Tool zur Autovervollständigen von Suchanfragen ✔️ 💻
 * [Maze Generator](http://www.mazegenerator.net) Labyrinthgenerierung ✔️ 💻
 * [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
-* [FakeWhatsApp](https://www.fakewhats.com/generator) WhatsApp Chat Simulator ✔️ 💻
 * [Penguin Classics Cover Generator](https://penguin.jos.ht) Erstellen von personifizierten Penguin Classics Buchcovern ✔️ 💻
 * [Wordcloud](https://www.wordclouds.com) Wordcloud-Generator ✔️ 💻
 * [Wortwolke](https://kits.blog/cloud/) Wordcloud-Generator ✔️ 💻
 * [Wortwolke24](https://www.wortwolke24.de) Wordcloud-Generator ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 * [fodey.com](https://www.fodey.com/generators/newspaper/snippet.asp) Sammlung witziger Generatoren, z.B. Zeitungsartikel ✔️ 💻
-* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
-* [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
-* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
-* [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
-* [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
-* [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
-* [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
-* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
-* [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Map Image](https://www.mapimage.de) Kartenbilder (inkl. Markierungen, Beschriftungen etc.) erstellen ✔️ 💻
 * [Worldmapgenerator](https://www.worldmapgenerator.com/de/) eigene, individuelle Weltkarte erstellen ✔️ 💻
 * [ReadyPlayerMe](https://readyplayer.me) eigene Avatare erstellen 💻
@@ -669,6 +659,15 @@ siehe auch: Virtual & Augmented Reality
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
 * [Tweetgen](https://www.tweetgen.com) Twitterposts generieren ✔️ 💻
 * [Iceman Photoscan](http://www.icemanphotoscan.eu) fotografische Dokumentation von Ötzi ✔️ 💻
+* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
+* [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
+* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
+* [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
+* [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
+* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
+* [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
 * [Every Last Drop](http://everylastdrop.co.uk) Wasserverbrauch anschaulich erklärt auf Englisch ✔️ 💻
 * [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
@@ -713,6 +712,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
 * [Lizenzhinweisgenerator](https://lizenzhinweisgenerator.de) automatische Erklärungen zu den Lizenzen von Material auf Websites ✔️ 💻
+* [Clean Up Pictures](https://cleanup.pictures) Texte und Gegenstände aus Bildern entfernen ✔️ 💻
+* [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/) Tool zur Autovervollständigen von Suchanfragen ✔️ 💻
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
@@ -885,4 +886,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * Inklusion
 * Klima, Geographie
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **671** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **672** Tools, Tipps & Tricks!
