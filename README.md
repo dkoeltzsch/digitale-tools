@@ -41,6 +41,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Gruppeneinteilung](#gruppeneinteilung)
 
+[Inklusion](#inklusion)
+
 [Kooperatives Arbeiten](#kooperatives-arbeiten)
 
 [Konferenztools](#konferenztools)
@@ -359,6 +361,11 @@ siehe auch: Rätsel-Tools
 * [Decide Now!](https://apps.apple.com/de/app/decide-now/id383718755#?platform=ipad) Entscheidungsrad ✔️ 📱 💰
 * [Tap Roulette](https://apps.apple.com/de/app/tap-roulette-make-decisions-with-friends/id430254631) eine Person wird ausgewählt ✔️ 📱 💰
 
+<a name="inklusion"></a>
+## Inklusion
+* [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
+* [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- und Rechtschreibleistung von LRS-Kindern 📱
+
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
 siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
@@ -476,6 +483,7 @@ siehe auch: Digitales Klassenzimmer
 * [Flocabulary](https://www.flocabulary.com) Lernmaterialien im Hip-Hop Stil für viele Fächer 💻 💰
 * [AppCamps](https://appcamps.de) Kostenloses Unterrichtsmaterial zu Programmierung und digitalen Themen 💻
 * [easy4me](https://www.easy4me.info) Material für den Informatikunterricht ✔️ 💻
+* [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -605,6 +613,7 @@ siehe auch: Tafelersatz
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten
 * [Blooket](https://www.blooket.com) interaktives Lernquiz 📱 💻
 * [Gimkit](https://www.gimkit.com/product/live) Quiztool mit gamifizierten Elementen 📱
+* [Welche Sprache ist das?](https://edl.ecml.at/Games/Whichlanguageisit/tabid/3202/Default.aspx) Sprachenquiz & weitere Spielereien zum Thema ✔️ 💻
 
 <a name="raetsel"></a>
 ## Rätsel
@@ -853,6 +862,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Slidefest](http://slidefest.com) Powerpoint Karaoke ✔️ 💻
 * [Random Emoji Prompts](https://www.byrdseed.com/emoji2/) Zufallsemoji für z.B. Sprech-/Schreibanlässe ✔️ 💻
 * [Once Upon A Picture](https://www.onceuponapicture.co.uk) Bildmaterial für Schreib-/Sprechanlässe o.Ä. ✔️ 💻
+* [Story Generator](https://rpg.nathanhare.net/storygen/) Sprech-/Schreibanlässe o.Ä. mittels visueller Würfel ✔️ 💻
 * [Pobble 365](https://www.pobble365.com) Bilder für Schreibanlässe 💻
 * [Ring A Scientist](https://www.ring-a-scientist.org/modx/de/) Forscher:innen in das Klassenzimmer bringen 💻
 * [epals](https://www.epals.com/#/findPenPalsPage) digitale Brieffreundschaftenplattform 💻
@@ -865,13 +875,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
-* [Chordfinder](https://www.stufentheorie.de) passenden Akkorde zur Tonart finden ✔️ 💻
-* [Welche Sprache ist das?](https://edl.ecml.at/Games/Whichlanguageisit/tabid/3202/Default.aspx) Sprachenquiz & weitere Spielereien zum Thema ✔️ 💻
-* [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
-* [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
 * [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
+* [Chordfinder](https://www.stufentheorie.de) passenden Akkorde zur Tonart finden ✔️ 💻
+* [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
 * [tscheck.in](https://tscheck.in) gemeinsame Fragen zu Beginn/Ende von Meetings beantworten ✔️ 💻
-* [Story Generator](https://rpg.nathanhare.net/storygen/) Sprech-/Schreibanlässe o.Ä. mittels visueller Würfel ✔️ 💻
 * [Phyphox](https://phyphox.org) Smartphone für Experimente nutzen ✔️ 📱
 * [Intervall Timer](https://www.intervaltimer.com) Intervall-Timer-App für hochintensives Intervalltraining (HIIT) o.Ä. ✔️ 📱 💻
 * [iMuscle](https://3d4medical.com/apps/imuscle-2) Muskeln identifizieren und passende Übungen suchen ✔️ 📱 💰
@@ -883,7 +890,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
-* Inklusion
 * Klima, Geographie
 
 Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **672** Tools, Tipps & Tricks!
