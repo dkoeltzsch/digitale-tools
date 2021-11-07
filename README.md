@@ -39,6 +39,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Gamification](#gamification)
 
+[Geographisches](#geographisches)
+
 [Gruppeneinteilung](#gruppeneinteilung)
 
 [Inklusion](#inklusion)
@@ -72,8 +74,6 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 [Technikhacks](#technikhacks)
 
 [Textbearbeitung & Notizen](#textbearbeitung-&-notizen)
-
-[Umwelt & Klima](#umwelt-&-klima)
 
 [Video](#video)
 
@@ -355,6 +355,23 @@ siehe auch: Rätsel-Tools
 * [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
 * [Sheppard Software](https://www.sheppardsoftware.com) spielerische Wissensvermittlung ✔️ 💻
 * [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
+
+<a name="geographisches"></a>
+## Geographisches
+* [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
+* [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
+* [The True Size](https://thetruesize.com) Ländergrößen direkt vergleichen ✔️ 💻
+* [Every Last Drop](http://everylastdrop.co.uk) Wasserverbrauch anschaulich erklärt auf Englisch ✔️ 💻
+* [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
+* [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
+* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
+* [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
+* [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
+* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
+* [Iceman Photoscan](http://www.icemanphotoscan.eu) fotografische Dokumentation von Ötzi ✔️ 💻
+* [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
+* [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
+* [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -761,23 +778,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Wortliga](https://wortliga.de/textanalyse/) prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
 * [Blablabmeter](http://www.blablameter.de) prüft Texte ✔️ 💻
 * [Summarize This](https://summarizethis.com) automatisierte Zusammenfassung von Texten ✔️ 💻
-
-<a name="umwelt-&-klima"></a>
-## Umwelt & Klima
-* [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
-* [Google Earth](https://earth.google.com/web/) Google-Timelapse Videos mit Satelitenbildern zum Thema Klimawandel, Wälder ✔️ 💻
-* [The True Size](https://thetruesize.com) Ländergrößen direkt vergleichen ✔️ 💻
-* [Every Last Drop](http://everylastdrop.co.uk) Wasserverbrauch anschaulich erklärt auf Englisch ✔️ 💻
-* [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
-* [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
-* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
-* [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
-* [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
-* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
-* [Iceman Photoscan](http://www.icemanphotoscan.eu) fotografische Dokumentation von Ötzi ✔️ 💻
-* [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
-* [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
-* [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 
 <a name="video"></a>
 ## Video
