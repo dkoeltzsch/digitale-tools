@@ -384,7 +384,7 @@ siehe auch: Rätsel-Tools
 <a name="inklusion"></a>
 ## Inklusion
 * [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
-* [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- und Rechtschreibleistung von LRS-Kindern 📱
+* [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- & Rechtschreibleistung von LRS-Kindern 📱
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
