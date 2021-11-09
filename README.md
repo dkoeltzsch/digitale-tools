@@ -558,7 +558,7 @@ siehe auch: Tafelersatz
 * [Graspable Math](https://graspablemath.com) digitale Algebra Aufgabe, inkl. Funktion, um Gleichungen frei umherzuschieben 💻
 * [Orinoco](https://klassenkarte.de/index.php/orinoco/) Erstellung und Auswertung von Datenflussdiagrammen ✔️ 💻
 * [RealMath](https://www.realmath.de) interaktive Übungsaufgaben und Beweise ✔️ 💻
-* [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, die es Lernenden ermöglicht, digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
+* [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, um digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
 * [Biorender](https://biorender.com) professionelle wissenschaftliche Figuren erstellen 💻
 * [MathCityMap](https://mathcitymap.eu/de/) App mit mathematischen Wanderpfaden 📱
 * [PearUp](https://www.pearup.de) Lern- und Übungsaufgaben erstellen und verteilen mit MINT Fokus 💻 (💰)
@@ -822,7 +822,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 ## Virtual & Augmented Reality
 * [Blippar](https://www.blippar.com) Erstellung und Veröffentlichung von Augmented Reality-Inhalten für Smartphone Web 💻 💰
 * [CoSpaces](https://cospaces.io/edu/) VR-Plattform, mit der per Browser oder App durch Drag and Drop kleine 3D-Welten erstellt werden können 💻 📱
-* [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, die es Lernenden ermöglicht, digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
+* [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, um digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
+* [Moment AR](https://apps.apple.com/us/app/moment-ar/id1448116339) Erweiterung von mergeEDU, Emotionen in AR erleben 📱
 * [Areeka](https://areeka.net) Plattform für Augmented Reality Inhalte in der Bildung 💻 💰
 * [Qlone](https://www.qlone.pro) alles-in-einem Werkzeug für 3D-Scannen und AR ✔️ 📱
 * [QuiverVision](https://quivervision.com) ausgemalte Bilder zum virtuellen Leben erwecken ✔️ 📱
@@ -915,4 +916,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **678** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **679** Tools, Tipps & Tricks!
