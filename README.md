@@ -223,6 +223,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Code it!](https://code-it-studio.de) Onlinekurse zum Thema Coding ab 9 Jahren ✔️ 💻
 * [Kodu Game Lab](http://www.kodugamelab.com) Coding erlernen 
 * [Tynker](https://www.tynker.com) Coding erlernen ✔️ 📱 💻 💰
+* [PearUp](https://www.pearup.de) Bildungsplattform inklusive Coding Aufgaben 💻 (💰)
 
 <a name="comics"></a>
 ## Comics
@@ -238,6 +239,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 siehe auch: Konferenztools
 * [Classroom](https://classroom.google.com/h) Lern- und Übungsaufgaben erstellen und verteilen 💻
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
+* [PearUp](https://www.pearup.de) Lern- und Übungsaufgaben erstellen und verteilen 💻 (💰)
 * [Moodle](https://moodle.org) kooperative Lehr- und Lernplattform 📱 💻
 * [Ilias](https://www.ilias.de) kooperative Lehr- und Lernplattform 📱 💻
 * [Gathertown](https://gather.town) immersiver Gruppen-Video-Chat ✔️ 💻
@@ -476,6 +478,7 @@ siehe auch: Digitales Klassenzimmer
 * [Lehrerheld](https://lehrerheld.com) Sammlung von Unterrichtsmaterialien 💻 💰
 * [Lehrerfreund](https://www.lehrerfreund.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [lehrer-online](https://www.lehrer-online.de) Sammlung von Unterrichtsmaterialien 💻 (💰)
+* [PearUp](https://www.pearup.de) Bildungsplattform mit vielen vorgefertigten Materialien 💻 (💰)
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschul Material](https://www.grundschulmaterial.de) Unterrichtsmaterial für die Grundschule, Punkte-System/kostenpflichtig 💻
@@ -558,6 +561,7 @@ siehe auch: Tafelersatz
 * [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, die es Lernenden ermöglicht, digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
 * [Biorender](https://biorender.com) professionelle wissenschaftliche Figuren erstellen 💻
 * [MathCityMap](https://mathcitymap.eu/de/) App mit mathematischen Wanderpfaden 📱
+* [PearUp](https://www.pearup.de) Lern- und Übungsaufgaben erstellen und verteilen mit MINT Fokus 💻 (💰)
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -911,4 +915,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **677** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **678** Tools, Tipps & Tricks!
