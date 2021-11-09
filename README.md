@@ -385,6 +385,7 @@ siehe auch: Rätsel-Tools
 ## Inklusion
 * [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
 * [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- & Rechtschreibleistung bei LRS 📱
+* [EiS](https://www.eis-app.de) Wörterbuch für die Hosentasche, mit dem man Gebärden lernen kann 📱
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -906,4 +907,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **672** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **673** Tools, Tipps & Tricks!
