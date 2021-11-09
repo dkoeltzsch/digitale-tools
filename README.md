@@ -310,6 +310,7 @@ siehe auch: Konferenztools
 
 <a name="fortbildungen"></a>
 ## Fortbildungen
+* [mobile schule](https://mobile.schule) verschiedene Fortbildungsangebote für den Unterricht
 * [fobizz](https://fobizz.com) Online Fortbildungen zum Thema digitale Medien im Unterricht
 * [Hopp Foundation](https://www.hopp-foundation.de) Workshop-Angebot für Lehrer und Schüler
 * [Webinar Radar](https://trello.com/b/awvx1TFG/webinar-radar-für-lehrerinnen) Trello Board mit toller Übersicht von Sebastian Staack ✔️ 📱 💻
@@ -910,4 +911,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **676** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **677** Tools, Tipps & Tricks!
