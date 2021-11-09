@@ -833,6 +833,9 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Google Earth VR](https://arvr.google.com/earth/) virtuell Orte in der ganzen Welt erkunden ✔️ 💻
 * [3DBEAR](https://www.3dbear.io) AR schnell & leicht in der App erstellen, Bilder & Filme davon teilen ✔️ 📱
 * [GamesLab VR Sammlung](https://medien-und-bildung.lvr.de/de/unser_angebot/medienzentrum_duesseldorf/medialab/computerspiele_2/im_lab/vr_im_gameslab/vr_im_gameslab.html) ausgewählte Empfehlungen für VR des GamesLab ✔️ 💻
+* [Statue of Liberty](https://apps.apple.com/de/app/statue-of-liberty/id1457506359) Freiheitsstatue in NYC virtuell erleben ✔️ 📱
+* [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
+* [Bookful](https://bookful.app) Bücher lesen inkl. Augmented Reality 📱 (💰)
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -907,4 +910,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **673** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **676** Tools, Tipps & Tricks!
