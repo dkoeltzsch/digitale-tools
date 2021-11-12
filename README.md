@@ -182,6 +182,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Sammlung Johannes Schirge](https://docs.google.com/document/d/14ahmnEl8IJCpVy-ilPOn__kiMhUAKPXZujHUalgULWQ/edit) Sammlung von Websites mit “freien” Bildern von Johannes Schirge ✔️ 💻
 * [undraw](https://undraw.co) Opensource Sammlung an Bildern, farblich anzupassen an das eigene Projekt ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
+* [Noun Project](https://thenounproject.com/) Icons und Photos unter CC und Public Domain ✔️ 💻
+* [OpenMoji](https://openmoji.org/) Freie Emoji Sammlung unter CC Lizenz (als SVG, PNG und TTF) ✔️ 💻
 * [Vector Portal](https://www.vectorportal.com) kostenlose Vektoren ✔️ 💻
 * [flaticon](https://www.flaticon.com) kostenlose Vector-Icons ✔️ 💻
 * [icon duck](https://iconduck.com) kostenlose Icons ✔️ 💻
@@ -916,4 +918,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **679** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **681** Tools, Tipps & Tricks!
