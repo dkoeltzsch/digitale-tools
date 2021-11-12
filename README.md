@@ -511,6 +511,7 @@ siehe auch: Digitales Klassenzimmer
 * [AppCamps](https://appcamps.de) Kostenloses Unterrichtsmaterial zu Programmierung und digitalen Themen 💻
 * [easy4me](https://www.easy4me.info) Material für den Informatikunterricht ✔️ 💻
 * [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
+* [Course Hero Infographics](https://www.coursehero.com/infographics/) Literatur aller Art in Infografiken visualisiert ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -918,4 +919,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **681** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **682** Tools, Tipps & Tricks!
