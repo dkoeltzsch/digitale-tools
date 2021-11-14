@@ -83,6 +83,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Wörterbücher, Lexika, Suchmaschine o.Ä.](#woerterbuecher,-lexika,-suchmaschine-o.ae.)
 
+[Zeichnen](#zeichnen)
+
 [Sonstiges](#sonstiges)
 
 ### Kleine Legende
@@ -193,6 +195,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Openclipart](https://openclipart.org/share) kostenlose Clip-Arts ✔️ 💻
 * [3D Bay](https://clouddevs.com/3dbay/) 3D Bildmaterial ✔️ 💻
 * [CC0 Textures](https://cc0textures.com) kostenloses PBR Material ✔️ 💻
+* [Wimmelbilder von Schule.at](https://thema.schule.at/thema/detail/-8159dc9840.html) Sammlung an Wimmel- und Situationsbildern ✔️ 💻
 * [Free Music Archive](https://freemusicarchive.org) lizenzfreie Musik ✔️ 💻
 * [digccmixter](http://dig.ccmixter.org) lizenzfreie Musik zum direkten Weiterverarbeiten ✔️ 💻
 * [audiohub](https://audiohub.de/kostenlose-gemafreie-musik) lizenzfreie Musik ✔️ 💻
@@ -346,6 +349,7 @@ siehe auch: Rätsel-Tools
 * [Codenames](https://codenames.game) Brettpiel Codenames online ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
+* [Exquis App](https://exquis.app/) gemeinsames Zeichnen bei dem jede/r einen Teil des Bildes gestaltet ✔️ 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
 * [Favelio](https://www.favelio.com/home) Erzählen leicht interaktiver, nicht-linearer Geschichten 📱 💻
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
@@ -883,6 +887,14 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) Wikipedia in einfacher Sprache ✔️ 💻
 * [Find das Bild](http://www.find-das-bild.de) Bildersuche für Kinder ✔️ 💻
 
+<a name="Zeichnen"></a>
+## Zeichnen
+* [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
+* [Brush Ninja](https://brush.ninja) digitales Zeichnen, Gifs erstellen, Daumenkinos etc. ✔️ 💻
+* [Kritzel Klub](https://www.kritzel-klub.de) online Zeichentool ✔️ 💻
+* [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
+* [Exquis App](https://exquis.app/) gemeinsames Zeichnen bei dem jede/r einen Teil des Bildes gestaltet ✔️ 💻
+
 <a name="sonstiges"></a>
 ## Sonstiges
 * [exam.net](https://exam.net) Prüfungsplattform 💻 💰
@@ -898,9 +910,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [epals](https://www.epals.com/#/findPenPalsPage) digitale Brieffreundschaftenplattform 💻
 * [Slowly](https://slowly.app/en/) digitale Brieffreundschaften in Echtzeit, d.h. so lange wie ein Brief brauchen würde 📱
 * [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
-* [Autodraw](https://www.autodraw.com) virtuelles Zeichnen inkl. Erkennen und Ersetzen des Bildes durch digitale Bilddatei ✔️ 📱 💻
-* [Brush Ninja](https://brush.ninja) digitales Zeichnen, Gifs erstellen, Daumenkinos etc. ✔️ 💻
-* [Kritzel Klub](https://www.kritzel-klub.de) online Zeichentool ✔️ 💻
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
@@ -919,4 +928,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **682** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **684** Tools, Tipps & Tricks!
