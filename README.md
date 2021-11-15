@@ -521,6 +521,7 @@ siehe auch: Digitales Klassenzimmer
 * [easy4me](https://www.easy4me.info) Material für den Informatikunterricht ✔️ 💻
 * [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
 * [Course Hero Infographics](https://www.coursehero.com/infographics/) Literatur aller Art in Infografiken visualisiert ✔️ 💻
+* [Adventskalenderanleitung von GrundschulTeacher](https://www.grundschulteacher.de/der-digitale-adventskalender/) Anleitung für einen digitalen Adventskalender ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -943,9 +944,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Gedichtgrube](https://www.falschegefuehle.de) von KI geschriebene Gedichte ✔️ 💻
 * [This X Does Not Exist](https://thisxdoesnotexist.com) Fake Bilder von Personen, Tieren, Wohnungen etc. ✔️ 💻
 * [Tholman Texter](https://tholman.com/texter/) Bilder aus Texten erstellen ✔️ 💻
+* [Türchen](https://tuerchen.com/de/) digitalen Adventskalender erstellen ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **703** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **705** Tools, Tipps & Tricks!
