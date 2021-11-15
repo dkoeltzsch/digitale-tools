@@ -364,6 +364,7 @@ siehe auch: Rätsel-Tools
 * [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
 * [Sheppard Software](https://www.sheppardsoftware.com) spielerische Wissensvermittlung ✔️ 💻
 * [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
+* [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
 
 <a name="geographisches"></a>
 ## Geographisches
@@ -654,18 +655,22 @@ siehe auch: Gamification, Simulatoren
 * [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
 * [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
 * [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
+* [Puzzel.org](https://puzzel.org/de/) Rästel Generator, u.a. Kreuzworträtsel, Memory, Puzzle ✔️ 💻 (💰)
 * [Schulrätsel](https://www.schulraetsel.de) Rätsel Generator ✔️ 💻
+* [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
+* [Jigsaw Explorer](https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/) Bild in Puzzle verwandeln ✔️ 💻
+* [Picture to Puzzle](https://micetf.fr/picturetopuzzle/) Französisches Online-Tool, um Bilder in Puzzle zu verwandeln ✔️ 💻
 * [Suchsel](https://www.suchsel.net) Suchsel Generator ✔️ 💻
 * [MakeAWordSearch](http://makeawordsearch.net/create.php) Erstellen von Wortsuchrätseln ✔️ 💻
 * [MazeBrite](http://mazebrite.com) benutzerdefinierter Labyrinth-Generator, Lösungsweg zeigt personalisierte, versteckte Nachricht ✔️ 💻
+* [Mazes](https://mazes.angelika.me) benutzerdefinierter Labyrinth-Generator ✔️ 💻
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Kryptowissen Caesars Verschlüsselung](https://www.kryptowissen.de/caesar-chiffre-praxis.php) Tool zum Verschlüsseln von Text ✔️ 💻
 * [Kryptografie](http://kryptografie.de/kryptografie/) Verschlüsselungen aller Art ✔️ 💻
 * [Crpyti](https://cryptii.com/pipes/polybius-square) Verschlüsselungen aller Art ✔️ 💻
-* [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
-* [Jigsaw Explorer](https://www.jigsawexplorer.com/create-a-custom-jigsaw-puzzle/) Bild in Puzzle verwandeln ✔️ 💻
-* [Picture to Puzzle](https://micetf.fr/picturetopuzzle/) Französisches Online-Tool, um Bilder in Puzzle zu verwandeln ✔️ 💻
-* [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
+* [Linz2](https://www.linz2.at/index.php?site=geheimschrift.php) Verschlüsselungen aller Art ✔️ 💻
+* [Fleißner Geheimcode](https://projects.404-net.de/fleissner/de/) Fleißner-Schablonen-Generator ✔️ 💻
+* [The Matrixer](http://www.thematrixer.com/binary.php) Text in Binärcode verwandeln ✔️ 💻
 * [Morse Code Converter](https://www.meridianoutpost.com/resources/etools/calculators/calculator-morse-code.php) Text in hörbaren Morse-Code verwandeln ✔️ 💻
 * [Topster Morse-Code](https://www.topster.de/text/morse.html) Text in geschriebenen Morse-Code verwandeln ✔️ 💻
 * [Morse Code Translator](https://morsedecoder.com) Morse Code en- und dekodieren ✔️ 💻
@@ -674,6 +679,9 @@ siehe auch: Gamification, Simulatoren
 * [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
 * [Lockee.fr](https://en.lockee.fr) Virtuelle Schlösser generieren 💻
 * [KeepMe](https://keepme.io/#/) Geheime Botschaften durch Passwörter virtuell absichern ✔️ 💻
+* [PennMuseum](https://www.penn.museum/cgi/hieroglyphsreal.php?name=Max+Mustermann&inscribe=insrcibe) Wörter in Hieroglyphen schreiben ✔️ 💻
+* [Alphabet Photography](https://www.alphabetphotography.com) Wörter in Fotos umwandeln ✔️ 💻
+* [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
 
 <a name="simulatoren-&-generatoren"></a>
 ## Simulatoren & Generatoren
@@ -682,6 +690,9 @@ siehe auch: Virtual & Augmented Reality
 * [TextingStory](https://textingstory.com) Simulator für Chatverläufe, auch in Videoformat 📱
 * [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen in Chat Verläufen ✔️ 💻
 * [FakeWhatsApp](https://www.fakewhats.com/generator) WhatsApp Chat Simulator ✔️ 💻
+* [Tweetgen](https://www.tweetgen.com) Twitterposts generieren ✔️ 💻
+* [PrankMeNot](https://www.prankmenot.com) Facebook, Twitter & Co generieren ✔️ 💻
+* [GenerateStatus](https://generatestatus.com) Social Media Posts generieren ✔️ 💻
 * [Story Generator](https://www.plot-generator.org.uk/story/) Ideengenerator für Geschichten, Charaktere u.v.m. ✔️ 💻
 * [Maze Generator](http://www.mazegenerator.net) Labyrinthgenerierung ✔️ 💻
 * [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
@@ -698,8 +709,10 @@ siehe auch: Virtual & Augmented Reality
 * [Ransomizer](http://www.ransomizer.com) Erpresserbriefe generieren ✔️ 💻
 * [Fake Receipt](http://www.fakereceipt.us/sales_receipt.php) Kassenzettel generieren ✔️ 💻
 * [Fake Flight Tickets](https://www.fakeflighttickets.com) Flugtickets generieren ✔️ 💻
+* [MusicAirport](http://omatic.musicairport.com) Flugtickets generieren ✔️ 💻
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
-* [Tweetgen](https://www.tweetgen.com) Twitterposts generieren ✔️ 💻
+* [Break Your Own News](https://breakyourownnews.com) Nachrichten generieren ✔️ 💻
+* [AddLetters](http://www.addletters.com) Schilder, Nachrichten u.v.m. generieren ✔️ 💻
 * [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
 * [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
 * [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
@@ -712,6 +725,9 @@ siehe auch: Virtual & Augmented Reality
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
 * [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
 * [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
+* [Carte à gratter](https://zanorg.net/carteagratter/?h=61921aed97c12) digitales Rubbellos erstellen ✔️ 💻
+* [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
+* [Eyechart Maker](http://www.eyechartmaker.com) Sehtest-Tafel erstellen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -928,4 +944,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **684** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **700** Tools, Tipps & Tricks!
