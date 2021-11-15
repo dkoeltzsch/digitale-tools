@@ -156,6 +156,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [ListenWise](https://listenwise.com) Podcasts kombiniert mit Quizzes und Transkripten 📱 💻
 * [Musyc](https://apps.apple.com/de/app/musyc/id489836689) Musik-App, die Berührungen in Musik verwandelt ✔️ 📱
 * [Ohrka](https://www.ohrka.de) Hörspiele für Kinder ✔️ 💻
+* [Xylo](https://playxylo.com) virtuelles Xylophon spielen ✔️ 💻
+* [Virtual Piano](https://www.apronus.com/music/flashpiano.htm) virtuelles Piano spielen ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -182,6 +184,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Pixabay](https://pixabay.com/de/) kostenlose Bilder ✔️ 💻
 * [Wunderstock](https://wunderstock.com) kostenlose Bilder ✔️ 💻
 * [Sammlung Johannes Schirge](https://docs.google.com/document/d/14ahmnEl8IJCpVy-ilPOn__kiMhUAKPXZujHUalgULWQ/edit) Sammlung von Websites mit “freien” Bildern von Johannes Schirge ✔️ 💻
+* [Photos for Class](https://www.photosforclass.com) kostenlose Bilder ✔️ 💻
 * [undraw](https://undraw.co) Opensource Sammlung an Bildern, farblich anzupassen an das eigene Projekt ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
 * [Noun Project](https://thenounproject.com/) Icons und Photos unter CC und Public Domain ✔️ 💻
@@ -206,6 +209,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Bensounds](https://www.bensound.com) kostenlose Musiksammlung für multimediale Projekte ✔️ 💻
 * [audiyou](https://www.audiyou.de/freesounds/) kostenlose Audiofiles ✔️ 💻
 * [BBC Soundeffects](https://sound-effects.bbcrewind.co.uk) kostenlose Soundeffekte ✔️ 💻
+* [OpenGameArt](https://opengameart.org) Musik & Soundeffekte ✔️ 💻
 * [BBC Empty Sets Collection](https://www.bbc.co.uk/archive/empty_sets_collection/zfvy382) Sammlung digitaler Videohintergründe ✔️ 💻
 * [Social Media Templates](https://ditchthattextbook.com/social-media-templates/) Sammlung von Social Media Templates für Google Slides, Keynote etc. ✔️ 💻
 * [Geräuschesammler](https://geräuschesammler.de) Sammlung kostenloser Geräusche ✔️ 💻
@@ -944,4 +948,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **700** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **703** Tools, Tipps & Tricks!
