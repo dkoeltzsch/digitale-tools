@@ -421,8 +421,8 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Checkvist](https://checkvist.com) Taskmanagement-Tool 💻 📱
 * [Microsoft Planner](https://tasks.office.com) Taskmanagement-Tool 📱 💻 💰
 * [Slice](https://slice.wbrain.me) gemeinsames Erstellen von Diskussionstafeln ✔️ 💻
-* [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Taskcards](https://www.taskcards.de) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. DSGVO-konform ✔️ 📱 💻
+* [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Pinup](https://pinup.com/wnmP_mV0a) virtuelle Notizzettel anlegen ✔️ 📱 💻
 * [Wakelet](https://wakelet.com) Sammlungen anlegen und teilen, ähnlich wie Lesezeichen ✔️ 📱 💻
 * [Glogster](http://edu.glogster.com) Erstellen von multimedialen 3D-Postern ✔️ 💻 💰
@@ -738,8 +738,10 @@ siehe auch: Virtual & Augmented Reality
 ## Tafelersatz
 siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
+* [Taskcards](https://www.taskcards.de) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. DSGVO-konform ✔️ 📱 💻
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Miro](https://miro.com) interaktives Whiteboard ✔️ 📱 💻
+* [Geogebra Notes](https://www.geogebra.org/notes?lang=de)interaktives Whiteboard ✔️ 📱 💻
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
 * [Whiteboard.fi](https://whiteboard.fi) virtuelles Whiteboard, individuell für alle Lernende mit Übersicht aller für die Lehrkraft ✔️ 💻
 * [Bitpaper](https://www.bitpaper.io) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
@@ -950,4 +952,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **705** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **706** Tools, Tipps & Tricks!
