@@ -169,6 +169,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [ImageToSketch](http://imagetosketch.com/index.html) Bilder in Skizzen verwandeln ✔️ 💻
 * [ChatterPix](https://apps.apple.com/de/app/chatterpix/id734038526) Bilder mit Text & Ton versehen 📱
 * [Photopea](https://www.photopea.com) Kostenlose Bildbearbeitungssoftware direkt im Browser ✔️ 💻
+* [Imgflip](https://imgflip.com) Memes & Gifs erstellen ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
@@ -522,6 +523,7 @@ siehe auch: Digitales Klassenzimmer
 * [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
 * [Course Hero Infographics](https://www.coursehero.com/infographics/) Literatur aller Art in Infografiken visualisiert ✔️ 💻
 * [Adventskalenderanleitung von GrundschulTeacher](https://www.grundschulteacher.de/der-digitale-adventskalender/) Anleitung für einen digitalen Adventskalender ✔️ 💻
+* [Kurz und Gut](https://www.kurzundgut.ch) Sammlung an Kurzfilmen für den Unterricht ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -776,6 +778,11 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Lizenzhinweisgenerator](https://lizenzhinweisgenerator.de) automatische Erklärungen zu den Lizenzen von Material auf Websites ✔️ 💻
 * [Clean Up Pictures](https://cleanup.pictures) Texte und Gegenstände aus Bildern entfernen ✔️ 💻
 * [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/) Tool zur Autovervollständigen von Suchanfragen ✔️ 💻
+* [URLcast](https://urlcast.io) URL erst zu einem gewählten Zeitpunkt zugänglich machen ✔️ 💻
+* [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
+* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
+* [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
+* [Link Lock](https://ebildungslabor.github.io/link-lock/create/) Links verschicken, die mit einem Passwort verschlüsselt sind ✔️ 💻
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
@@ -847,6 +854,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Language Reactor](https://www.languagereactor.com) Erweiterung für zweisprachige Untertitel, Popup-Wörterbücher o.Ä. direkt in Netflix, Youtube & Co 💻
 * [Topshot](https://apps.apple.com/de/app/topshot/id1312753919) Einstieg in filmische Mittel ✔️ 📱
 * [BaM Video Delay](https://apps.apple.com/de/app/bam-video-delay/id517673842#?platform=ipad) App zur Videoanalyse 📱 💰
+* [Kurz und Gut](https://www.kurzundgut.ch) Sammlung an Kurzfilmen für den Unterricht ✔️ 💻
 
 <a name="virtual-&-augmented-reality"></a>
 ## Virtual & Augmented Reality
@@ -934,9 +942,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Slowly](https://slowly.app/en/) digitale Brieffreundschaften in Echtzeit, d.h. so lange wie ein Brief brauchen würde 📱
 * [FutureMe](https://www.futureme.org/letters/new) Briefe an das Zukunfts-Ich schreiben 💻
 * [txt.fyi](https://txt.fyi) Internetseite wird durch simple Texteingabe erstellt ✔️ 💻
-* [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
-* [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
-* [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
 * [Chordfinder](https://www.stufentheorie.de) passenden Akkorde zur Tonart finden ✔️ 💻
 * [WordHippo](https://www.wordhippo.com) Synonyme, Antonyme, u.v.m. ✔️ 💻
 * [Phyphox](https://phyphox.org) Smartphone für Experimente nutzen ✔️ 📱
@@ -952,4 +957,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **706** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **710** Tools, Tipps & Tricks!
