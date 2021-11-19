@@ -386,6 +386,7 @@ siehe auch: Rätsel-Tools
 * [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
 * [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
+* [Seterra](https://online.seterra.com/de) online Erdkunde-Quiz-Spiel ✔️ 💻
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
