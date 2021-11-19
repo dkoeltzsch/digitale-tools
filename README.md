@@ -280,7 +280,6 @@ siehe auch: Konferenztools
 * [Powtoon](https://www.powtoon.com) Erstellen von Videos 📱 💻
 * [Doodly](https://www.doodly.com) Erstellung von Doodle-Videos 💻 💰
 * [Toontastic](https://toontastic.withgoogle.com) Storytelling-App, um Cartoons zu zeichnen, animieren, erzählen und aufzunehmen 📱
-* [Text to Speech](https://ttsmp3.com) Umwandeln von Text in natürlich klingende Sprache ✔️ 💻
 * [Prowise Presenter](https://www.prowise.com/de-de/software-presenter-und-learn/prowise-presenter/) Erstellen interaktiver Lektionen 💻
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) Browsererweiterung zur Bildschirmaufnahme und Beschriftung 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
