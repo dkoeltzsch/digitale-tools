@@ -116,6 +116,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
 * [LearningSnacks](https://www.learningsnacks.de/#/welcome?channel=Learning%20Snacks) Sammlung und eigene Erstellung kleiner digitaler Lernhäppchen, meist textbasiert ✔️ 💻
+* [Bookwidgets](https://www.bookwidgets.com) Sammlung und eigene Erstellung digitaler Aufgabenformate ✔️ 💻 (💰)
 * [Classtime](https://www.classtime.com/de/) interaktive Lektionen gestalten, individuellen Lernfortschritt einsehen 💻 💰
 * [Quizlet](https://quizlet.com) interaktives Lernquiz, gut für Vokabeln und Definitionen, live & asynchron ✔️ 📱 💻
 * [Actionbound](https://de.actionbound.com) App für Multimedia-Guides, interaktive Schnitzeljagden und Handy-Rallyes 💻 📱
@@ -957,4 +958,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **710** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **711** Tools, Tipps & Tricks!
