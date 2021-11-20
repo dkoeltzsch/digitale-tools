@@ -159,6 +159,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Ohrka](https://www.ohrka.de) Hörspiele für Kinder ✔️ 💻
 * [Xylo](https://playxylo.com) virtuelles Xylophon spielen ✔️ 💻
 * [Virtual Piano](https://www.apronus.com/music/flashpiano.htm) virtuelles Piano spielen ✔️ 💻
+* [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -634,6 +635,8 @@ siehe auch: Tafelersatz
 * [QR-Code-Generator](https://kits.blog/qr/) QR-Codes erstellen ✔️ 💻
 * [goqr.me](http://goqr.me) QR-Codes erstellen ✔️ 💻
 * [QR app](https://www.qrapp.de) QR-Codes mit Logo, Farbe und Design erstellen ✔️ 💻
+* [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
+* [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
 
 <a name="quiz"></a>
 ## Quiz
@@ -958,4 +961,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **711** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **712** Tools, Tipps & Tricks!
