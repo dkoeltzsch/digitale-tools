@@ -526,6 +526,8 @@ siehe auch: Digitales Klassenzimmer
 * [Course Hero Infographics](https://www.coursehero.com/infographics/) Literatur aller Art in Infografiken visualisiert ✔️ 💻
 * [Adventskalenderanleitung von GrundschulTeacher](https://www.grundschulteacher.de/der-digitale-adventskalender/) Anleitung für einen digitalen Adventskalender ✔️ 💻
 * [Kurz und Gut](https://www.kurzundgut.ch) Sammlung an Kurzfilmen für den Unterricht ✔️ 💻
+* [Märchen im Unterricht](https://www.goethe.de/lrn/prj/mlg/miu/mak/deindex.htm) große multimediale Märchensammlung des Goethe-Instituts ✔️ 💻
+* [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) historische Zeitungen aus den Jahren 1671 bis 1950 ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -787,6 +789,9 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 * [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
 * [Link Lock](https://ebildungslabor.github.io/link-lock/create/) Links verschicken, die mit einem Passwort verschlüsselt sind ✔️ 💻
+* [Scanner Pro](https://readdle.com/de/scannerpro) Scanner App für iPhone oder iPad 📱
+* [Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=de&gl=US) Scanner App 📱
+* [Kurzanleitung zum Scannen mit dem Smartphone](https://www.heise.de/tipps-tricks/Scannen-mit-dem-Handy-so-klappt-s-4588667.html)
 
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
@@ -961,4 +966,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **712** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **717** Tools, Tipps & Tricks!
