@@ -961,9 +961,11 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [This X Does Not Exist](https://thisxdoesnotexist.com) Fake Bilder von Personen, Tieren, Wohnungen etc. ✔️ 💻
 * [Tholman Texter](https://tholman.com/texter/) Bilder aus Texten erstellen ✔️ 💻
 * [Türchen](https://tuerchen.com/de/) digitalen Adventskalender erstellen ✔️ 💻
+* [MyAdvent](https://www.myadvent.net/de/) digitalen Adventskalender erstellen ✔️ 💻
+* [24 mal freuen](https://24malfreuen.de) digitalen Adventskalender erstellen ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **717** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **719** Tools, Tipps & Tricks!
