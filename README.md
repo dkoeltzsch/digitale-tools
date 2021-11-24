@@ -707,6 +707,7 @@ siehe auch: Virtual & Augmented Reality
 * [Tweetgen](https://www.tweetgen.com) Twitterposts generieren ✔️ 💻
 * [PrankMeNot](https://www.prankmenot.com) Facebook, Twitter & Co generieren ✔️ 💻
 * [GenerateStatus](https://generatestatus.com) Social Media Posts generieren ✔️ 💻
+* [Funsta](https://funsta-fake-chat.de.aptoide.com/app) Social Media Posts generieren ✔️ 📱
 * [Story Generator](https://www.plot-generator.org.uk/story/) Ideengenerator für Geschichten, Charaktere u.v.m. ✔️ 💻
 * [Maze Generator](http://www.mazegenerator.net) Labyrinthgenerierung ✔️ 💻
 * [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
@@ -970,4 +971,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **721** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **722** Tools, Tipps & Tricks!
