@@ -160,6 +160,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Xylo](https://playxylo.com) virtuelles Xylophon spielen ✔️ 💻
 * [Virtual Piano](https://www.apronus.com/music/flashpiano.htm) virtuelles Piano spielen ✔️ 💻
 * [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
+* [Jamulus](https://jamulus.io/de/) gemeinsam online musizieren ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -480,7 +481,7 @@ siehe auch: Digitales Klassenzimmer
 
 <a name="(kostenloses)-material"></a>
 ## (Kostenloses) Material
-* [Lehrermarktplatz](https://lehrermarktplatz.de) Sammlung von Unterrichtsmaterialien, kostenlos & kostenpflichtig - bald als eduki zu finden! 💻
+* [eduki](https://eduki.com) Sammlung von Unterrichtsmaterialien, kostenlos & kostenpflichtig - ehemals Lehrermarktplatz! 💻
 * [Schulportal](https://schulportal.de) Sammlung von Unterrichtsmaterialien, Punkte-System 💻
 * [4teachers](https://www.4teachers.de) Sammlung von Unterrichtsmaterialien, kostenlos 💻
 * [Unterricht.Schule](https://unterricht.schule) Sammlung von Unterrichtsmaterialien, 1 kostenloser Download pro Tag ✔️ 💻
@@ -830,6 +831,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Wortliga](https://wortliga.de/textanalyse/) prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
 * [Blablabmeter](http://www.blablameter.de) prüft Texte ✔️ 💻
 * [Summarize This](https://summarizethis.com) automatisierte Zusammenfassung von Texten ✔️ 💻
+* [Versteckte Verse](https://versteckteverse.glitch.me) einzelne Wörter im Text einschwärzen, sog. Blackout Poetry ✔️ 💻
 
 <a name="video"></a>
 ## Video
@@ -968,4 +970,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **719** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **721** Tools, Tipps & Tricks!
