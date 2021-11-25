@@ -221,6 +221,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Medienpädagogik Blog](https://www.medienpaedagogik-praxis.de/kostenlose-medien/freie-musik/) Sammlung freier Musik ✔️ 💻
 * [Videvo](https://www.videvo.net/de/) kostenlose Videos, Soundeffekte u.v.m. 💻
 * [Your White Noise](https://yourwhitenoise.com/) Seite mit Klängen für Arbeit, Konzentration und Entspannung ✔️ 💻
+* [Kits.blog Piktogramm-Suche](https://kits.blog/picto/#/) Piktogramm Datenbank mit BY-NC-SA 4.0 Lizenz 
 
 <a name="coding"></a>
 ## Coding
@@ -328,6 +329,8 @@ siehe auch: Konferenztools
 * [fobizz](https://fobizz.com) Online Fortbildungen zum Thema digitale Medien im Unterricht
 * [Hopp Foundation](https://www.hopp-foundation.de) Workshop-Angebot für Lehrer und Schüler
 * [Webinar Radar](https://trello.com/b/awvx1TFG/webinar-radar-für-lehrerinnen) Trello Board mit toller Übersicht von Sebastian Staack ✔️ 📱 💻
+* [Open E-Learning-Center Niedersachsen](https://moodle.nibis.de/openelec/) Offene Moodle Instanz mit Selbstkursen zu verschiedenen Bereichen (Im Aufbau) 💻
+* 
 
 <a name="gamification"></a>
 ## Gamification
