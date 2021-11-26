@@ -837,6 +837,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [TelescopicText](https://www.telescopictext.org/write/) Teleskop Texte sehr simpel erstellen und teilen (be Registrierung) (✔️) 💻
 * [Voyant](https://voyant-tools.org) webbasierte Lese- und Analyseumgebung für digitale Texte ✔️ 💻
 * [Wortliga](https://wortliga.de/textanalyse/) prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
+* [Language Tool](https://languagetool.org/de) Grammatik-, Stil- und Rechtschreibprüfung als Web-Add-On 💻
 * [Blablabmeter](http://www.blablameter.de) prüft Texte ✔️ 💻
 * [Summarize This](https://summarizethis.com) automatisierte Zusammenfassung von Texten ✔️ 💻
 * [Versteckte Verse](https://versteckteverse.glitch.me) einzelne Wörter im Text einschwärzen, sog. Blackout Poetry ✔️ 💻
@@ -979,4 +980,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **727** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **728** Tools, Tipps & Tricks!
