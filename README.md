@@ -141,6 +141,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
 * [Photospeak](https://apps.apple.com/de/app/photospeak-3d-talking-photo/id329711426) Fotos sprechen lassen 📱
 * [Talkr](https://talkrapp.com) Fotos sprechen lassen 📱
+* [ChatterPix](https://apps.apple.com/de/app/chatterpix/id734038526) Fotos sprechen lassen 📱
 * [Voki](https://www.voki.com) sprechende virtuelle Figuren 📱 💻
 * [Soundtrap](https://www.soundtrap.com/?lang=de) digitale Audio-Workstation zum Erstellen von Musik & Podcasts 💻 💰
 * [Studio Link](https://www.studio-link.de/?fbclid=IwAR2YwVCmz6HY-V5DyLOO8-trhnM81fH5dMNNHqtLDkpR4Hd_9b2YiW09O8A) gemeinsame Audio-Aufnahme, Download der Software nötig 💻
@@ -407,6 +408,8 @@ siehe auch: Rätsel-Tools
 * [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
 * [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- & Rechtschreibleistung bei LRS 📱
 * [EiS](https://www.eis-app.de) Wörterbuch für die Hosentasche, mit dem man Gebärden lernen kann 📱
+* [Bedienungshilfen auf dem iPad](https://support.apple.com/de-de/guide/ipad/ipad9a2465f9/ipados) z.B. unter Sehen oder Hören ✔️ 💻
+* [Be My Eyes](https://www.bemyeyes.com/language/german) Tool, um sehbehinderte und Freiwillige mit einander zu verbinden und gemeinsam Probleme zu lösen 📱
 
 <a name="kooperatives-arbeiten"></a>
 ## Kooperatives Arbeiten
@@ -585,6 +588,7 @@ siehe auch: Tafelersatz
 * [Biorender](https://biorender.com) professionelle wissenschaftliche Figuren erstellen 💻
 * [MathCityMap](https://mathcitymap.eu/de/) App mit mathematischen Wanderpfaden 📱
 * [PearUp](https://www.pearup.de) Lern- und Übungsaufgaben erstellen und verteilen mit MINT Fokus 💻 (💰)
+* [LabMa](https://www.labma.de/lehrmittel-explorer.html) Datenbank für Experimente, Informationen über Zubehör, Bilder und Dokumente der Hersteller eines Geräts/Mediums ✔️ 💻
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -969,9 +973,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Türchen](https://tuerchen.com/de/) digitalen Adventskalender erstellen ✔️ 💻
 * [MyAdvent](https://www.myadvent.net/de/) digitalen Adventskalender erstellen ✔️ 💻
 * [24 mal freuen](https://24malfreuen.de) digitalen Adventskalender erstellen ✔️ 💻
+* [Snopes.com](https://www.snopes.com) digitale Plattform zur Faktenüberprüfung, fact-checking ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **722** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **727** Tools, Tipps & Tricks!
