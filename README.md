@@ -221,6 +221,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Medienpädagogik Blog](https://www.medienpaedagogik-praxis.de/kostenlose-medien/freie-musik/) Sammlung freier Musik ✔️ 💻
 * [Videvo](https://www.videvo.net/de/) kostenlose Videos, Soundeffekte u.v.m. 💻
 * [Your White Noise](https://yourwhitenoise.com/) Seite mit Klängen für Arbeit, Konzentration und Entspannung ✔️ 💻
+* [Kits.blog Piktogramm-Suche](https://kits.blog/picto/#/) Piktogramm Datenbank mit BY-NC-SA 4.0 Lizenz 
 
 <a name="coding"></a>
 ## Coding
@@ -328,6 +329,8 @@ siehe auch: Konferenztools
 * [fobizz](https://fobizz.com) Online Fortbildungen zum Thema digitale Medien im Unterricht
 * [Hopp Foundation](https://www.hopp-foundation.de) Workshop-Angebot für Lehrer und Schüler
 * [Webinar Radar](https://trello.com/b/awvx1TFG/webinar-radar-für-lehrerinnen) Trello Board mit toller Übersicht von Sebastian Staack ✔️ 📱 💻
+* [Open E-Learning-Center Niedersachsen](https://moodle.nibis.de/openelec/) Offene Moodle Instanz mit Selbstkursen zu verschiedenen Bereichen (Im Aufbau) ✔️💻
+* 
 
 <a name="gamification"></a>
 ## Gamification
@@ -635,7 +638,7 @@ siehe auch: Tafelersatz
 * [mal-den-code](https://mal-den-code.de) QR-Codes zum Ausmalen erstellen ✔️ 💻
 * [QR Code Monkey](https://www.qrcode-monkey.com) QR Codes mit Logo, Farbe und Design erstellen ✔️ 💻
 * [QR Code Generator](http://goqr.me/de/) QR-Codes erstellen ✔️ 💻
-* [QR-Code-Generator](https://kits.blog/qr/) QR-Codes erstellen ✔️ 💻
+* [QR-Code-Generator](https://kits.blog/qr/) QR-Codes erstellen und/ oder Audio hinterlegen ✔️ 💻
 * [goqr.me](http://goqr.me) QR-Codes erstellen ✔️ 💻
 * [QR app](https://www.qrapp.de) QR-Codes mit Logo, Farbe und Design erstellen ✔️ 💻
 * [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
