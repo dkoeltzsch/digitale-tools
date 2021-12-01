@@ -135,6 +135,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Vocaroo](https://vocaroo.com) sehr simple Sprachaufzeichnung, via Link & Download zu verschicken ✔️ 💻
 * [H5P](https://h5p.org) Alleskönner in Sachen Inhaltspräsentation und -abfrage 💻
 * [Audacity](https://www.audacity.de) Audioeditor und -rekorder 💻
+* [AudioMass](https://audiomass.co) Open Source, webbasierter Audio-Editor ✔️ 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Speakflow](https://www.speakflow.com) Teleprompter 💻
 * [Anchor](https://anchor.fm) Podcast erstellen & hochladen 📱 💻
@@ -532,6 +533,7 @@ siehe auch: Digitales Klassenzimmer
 * [fanTALES](https://www.fantales.eu) Materialien, Module & mehr für mehrsprachiges, interaktives und digitales Storytelling
 * [Course Hero Infographics](https://www.coursehero.com/infographics/) Literatur aller Art in Infografiken visualisiert ✔️ 💻
 * [Adventskalenderanleitung von GrundschulTeacher](https://www.grundschulteacher.de/der-digitale-adventskalender/) Anleitung für einen digitalen Adventskalender ✔️ 💻
+* [Adventskalendersammlung von Anna](https://lfbra.padlet.org/Anna_Donadell/pldqtv1hyfukfeqy) Sammlung von vielzähligen digitalen Adventskalender ✔️ 💻
 * [Kurz und Gut](https://www.kurzundgut.ch) Sammlung an Kurzfilmen für den Unterricht ✔️ 💻
 * [Märchen im Unterricht](https://www.goethe.de/lrn/prj/mlg/miu/mak/deindex.htm) große multimediale Märchensammlung des Goethe-Instituts ✔️ 💻
 * [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) historische Zeitungen aus den Jahren 1671 bis 1950 ✔️ 💻
@@ -875,6 +877,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Topshot](https://apps.apple.com/de/app/topshot/id1312753919) Einstieg in filmische Mittel ✔️ 📱
 * [BaM Video Delay](https://apps.apple.com/de/app/bam-video-delay/id517673842#?platform=ipad) App zur Videoanalyse 📱 💰
 * [Kurz und Gut](https://www.kurzundgut.ch) Sammlung an Kurzfilmen für den Unterricht ✔️ 💻
+* [Save From](https://de.savefrom.net/30/) Online Video Downloader ✔️ 💻
 
 <a name="virtual-&-augmented-reality"></a>
 ## Virtual & Augmented Reality
@@ -900,6 +903,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Statue of Liberty](https://apps.apple.com/de/app/statue-of-liberty/id1457506359) Freiheitsstatue in NYC virtuell erleben ✔️ 📱
 * [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
 * [Bookful](https://bookful.app) Bücher lesen inkl. Augmented Reality 📱 (💰)
+* [EyeJack](https://eyejackapp.com) Kuratierung und Verbreitung von AR Kunst 📱 (💰)
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -980,4 +984,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **728** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **732** Tools, Tipps & Tricks!
