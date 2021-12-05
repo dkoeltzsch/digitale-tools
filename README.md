@@ -108,6 +108,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Worksheetcrafter](https://getschoolcraft.com/de/) Programm zur Gestaltung von differenzierten Arbeitsblättern 💻 💰
 * [TeacherMade](https://teachermade.com/teachermade-features/) alte Arbeitsblätter interaktiv gestalten, Datei hochladen und anpassen ✔️ 💻
 * [Live Worksheets](https://www.liveworksheets.com) Erstellen von interaktiven Arbeitsblättern 💻
+* [Worksheet digital](https://worksheet.digital) digitale Arbeitsblätter direkt im Browser erstellen ✔️ 💻
 
 <a name="aufgabentools"></a>
 ## Aufgabentools
@@ -752,6 +753,7 @@ siehe auch: Virtual & Augmented Reality
 * [Carte à gratter](https://zanorg.net/carteagratter/?h=61921aed97c12) digitales Rubbellos erstellen ✔️ 💻
 * [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
 * [Eyechart Maker](http://www.eyechartmaker.com) Sehtest-Tafel erstellen ✔️ 💻
+* [Townscaper](https://oskarstalberg.com/Townscaper) Stadt virtuell erstellen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -984,4 +986,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **732** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **734** Tools, Tipps & Tricks!
