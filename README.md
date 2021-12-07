@@ -754,6 +754,7 @@ siehe auch: Virtual & Augmented Reality
 * [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
 * [Eyechart Maker](http://www.eyechartmaker.com) Sehtest-Tafel erstellen ✔️ 💻
 * [Townscaper](https://oskarstalberg.com/Townscaper) Stadt virtuell erstellen ✔️ 💻
+* [My Fortune Cookie](http://www.myfortunecookie.co.uk) virtueller Glückskeks ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -986,4 +987,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **734** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **735** Tools, Tipps & Tricks!
