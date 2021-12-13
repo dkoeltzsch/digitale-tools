@@ -958,6 +958,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Kritzel Klub](https://www.kritzel-klub.de) online Zeichentool ✔️ 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Exquis App](https://exquis.app/) gemeinsames Zeichnen bei dem jede/r einen Teil des Bildes gestaltet ✔️ 💻
+* [Quick, Draw!](https://quickdraw.withgoogle.com/?locale=de) Zeichnen, während die KI das Bild errät ✔️ 💻
 
 <a name="sonstiges"></a>
 ## Sonstiges
@@ -988,9 +989,10 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [MyAdvent](https://www.myadvent.net/de/) digitalen Adventskalender erstellen ✔️ 💻
 * [24 mal freuen](https://24malfreuen.de) digitalen Adventskalender erstellen ✔️ 💻
 * [Snopes.com](https://www.snopes.com) digitale Plattform zur Faktenüberprüfung, fact-checking ✔️ 💻
+* [EnglishTools.org](https://www.englishtools.org/en) Sammlung an verschiedensten Tools für den Englischunterricht ✔️ 💻
 
 ## Kategorien in Arbeit
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **742** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **744** Tools, Tipps & Tricks!
