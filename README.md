@@ -494,7 +494,8 @@ siehe auch: Digitales Klassenzimmer
 * [4teachers](https://www.4teachers.de) Sammlung von Unterrichtsmaterialien, kostenlos 💻
 * [Unterricht.Schule](https://unterricht.schule) Sammlung von Unterrichtsmaterialien, 1 kostenloser Download pro Tag ✔️ 💻
 * [zebis](https://www.zebis.ch/unterrichtsmaterial) Sammlung von Unterrichtsmaterialien (v.a. Videos) allerdings nur in der Schweiz abrufbar ✔️ 💻
-* [Übungskönig](https://www.uebungskoenig.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
+* [Übungskönig](https://www.uebungskoenig.de) Sammlung von Unterrichtsmaterialien ✔️ 💻
+* [Grundschulkönig](https://www.grundschulkoenig.de) Sammlung von Unterrichtsmaterialien für die Grundschule ✔️ 💻
 * [Newsela](https://newsela.com) Texte an verschiedene Schwierigkeitsstufen anpassen & mit Fragen/Medien versehen 📱 💻
 * [Unterrichtsmaterial-Schule](https://www.unterrichtsmaterial-schule.de) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
 * [Materialguru](https://www.materialguru.de/deutsch/) Sammlung von Unterrichtsmaterialien, kostenlos ✔️ 💻
@@ -538,6 +539,7 @@ siehe auch: Digitales Klassenzimmer
 * [Kurz und Gut](https://www.kurzundgut.ch) Sammlung an Kurzfilmen für den Unterricht ✔️ 💻
 * [Märchen im Unterricht](https://www.goethe.de/lrn/prj/mlg/miu/mak/deindex.htm) große multimediale Märchensammlung des Goethe-Instituts ✔️ 💻
 * [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) historische Zeitungen aus den Jahren 1671 bis 1950 ✔️ 💻
+* [mnweg.org](https://editor.mnweg.org/?p=1&materialType=bundle) Unterrichtsmaterialien für die Fächer Deutsch und Mathe ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -638,6 +640,7 @@ siehe auch: Tafelersatz
 * [LearningView](https://learningview.org) Werkzeug zur Planung, Dokumentation & Reflexion des Lernprozesses 📱 💻
 * [Sitzplangenerator](http://www.sitzplangenerator.de) digitalen Sitzplan erstellen ✔️ 💻
 * [Schoolwork](https://apps.apple.com/de/app/schoolwork/id1355112526) Materialien teilen, Feedback, Fortschritt u.v.m. 📱
+* [Sitzplan Generator](http://www.sitzplangenerator.de) Sitzplan virtuell erstellen ✔️ 💻
 
 <a name="qr-codes"></a>
 ## QR-Codes
@@ -755,6 +758,7 @@ siehe auch: Virtual & Augmented Reality
 * [Eyechart Maker](http://www.eyechartmaker.com) Sehtest-Tafel erstellen ✔️ 💻
 * [Townscaper](https://oskarstalberg.com/Townscaper) Stadt virtuell erstellen ✔️ 💻
 * [My Fortune Cookie](http://www.myfortunecookie.co.uk) virtueller Glückskeks ✔️ 💻
+* [Pokémon Card Maker](https://www.pokecard.net) Pokémon Karten selbst erstellen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -825,6 +829,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Post-it](https://apps.apple.com/us/app/post-it/id920127738) virtuelle PostIts 📱
 * [Minibooks](https://www.minibooks.ch) Erstellen von online Büchern ✔️ 💻
 * [Book Creator](https://bookcreator.com) Erstellen von online Büchern 📱 💻
+* [My Class Mag](https://myclassmag.com) Erstellen von online Magazinen
 * [Storybird](https://storybird.com) visuelles Geschichten schreiben 💻
 * [Mahara](https://mahara.de) e-Portfolio Plattform 📱 💻
 * [Pages](https://www.apple.com/de/pages/) Textverarbeitungs-Software 📱 💻
@@ -987,4 +992,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **735** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **741** Tools, Tipps & Tricks!
