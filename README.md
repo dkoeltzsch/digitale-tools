@@ -654,6 +654,7 @@ siehe auch: Tafelersatz
 * [QR app](https://www.qrapp.de) QR-Codes mit Logo, Farbe und Design erstellen ✔️ 💻
 * [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
 * [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
+* [QRToon](https://qrtoon.com) QR-Codes mit Cartoon-Porträts versehen ✔️ 💻
 
 <a name="quiz"></a>
 ## Quiz
@@ -995,4 +996,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **744** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **745** Tools, Tipps & Tricks!
