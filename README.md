@@ -224,7 +224,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Medienpädagogik Blog](https://www.medienpaedagogik-praxis.de/kostenlose-medien/freie-musik/) Sammlung freier Musik ✔️ 💻
 * [Videvo](https://www.videvo.net/de/) kostenlose Videos, Soundeffekte u.v.m. 💻
 * [Your White Noise](https://yourwhitenoise.com/) Seite mit Klängen für Arbeit, Konzentration und Entspannung ✔️ 💻
-* [Kits.blog Piktogramm-Suche](https://kits.blog/picto/#/) Piktogramm Datenbank mit BY-NC-SA 4.0 Lizenz 
+* [Piktogramm-Suche von kitsblog](https://kits.blog/picto/#/) Piktogramm Datenbank mit BY-NC-SA 4.0 Lizenz 
 
 <a name="coding"></a>
 ## Coding
@@ -549,14 +549,14 @@ siehe auch: Tafelersatz
 * [Popplet](https://www.popplet.com) kostenlose App zum Erstellen von Mindmaps und Storyboards 📱
 * [Bubbl.us](https://bubbl.us) virtuelles Mindmapping-Tool ✔️ 💻
 * [MindMup](https://app.mindmup.com) virtuelles Mindmapping-Tool 💻
-* [Mindmapp](https://map.kits.blog/app) virtuelles Mindmapping-Tool ✔️ 💻
+* [Mindmapp von kitsblog](https://map.kits.blog/app) virtuelles Mindmapping-Tool ✔️ 💻
 * [Ayoa](https://www.ayoa.com) virtuelles Mindmapping-Tool 💻
 * [Wisemapping](https://www.wisemapping.com) virtuelles Mindmapping-Tool ✔️ 💻
 * [Mind42](https://mind42.com) virtuelles Mindmapping-Tool ✔️ 💻
 * [Coggle](https://coggle.it/#pricing) Erstellen von Mindmaps und Flowcharts ✔️ 💻
 * [Mindmeister](https://www.mindmeister.com/de) Online-Mindmapping-Tool ✔️ 📱 💻
 * [Mindomo](https://www.mindomo.com/de/) Tool für kollaboratives Mind Mapping, Concept Mapping und Gliederung 📱 💻
-* [Mindwendel](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
+* [Mindwendel von kitsblog](https://idea.kits.blog) virtuelles Brainstorming Tool ✔️ 💻
 * [iBrainstorm](http://www.ibrainstormapp.com) virtuelles Brainstorming Tool ✔️ 📱
 * [Nextcloud Mindmaps](https://apps.nextcloud.com/apps/files_mindmap) Mindmapping-Tool in Nextcloud 💻
 * [The Brain](https://www.thebrain.com) Notizen & Mindmapping-Tool 📱 💻
@@ -655,6 +655,7 @@ siehe auch: Tafelersatz
 * [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
 * [Qwiqr](https://qwiqr.education) multimediales Feedback via QR-Code ✔️ 💻
 * [QRToon](https://qrtoon.com) QR-Codes mit Cartoon-Porträts versehen ✔️ 💻
+* [QR Storage von kitsblog](https://qr.kits.blog) QR-Codes erstellen ✔️ 💻
 
 <a name="quiz"></a>
 ## Quiz
@@ -728,7 +729,7 @@ siehe auch: Virtual & Augmented Reality
 * [Cyborg Web Apps Sammlung](https://appscyborg.com) Sammlung digitaler Tools, z.B. zur um Cartoons oder Polaroids zu generieren ✔️ 💻
 * [Penguin Classics Cover Generator](https://penguin.jos.ht) Erstellen von personifizierten Penguin Classics Buchcovern ✔️ 💻
 * [Wordcloud](https://www.wordclouds.com) Wordcloud-Generator ✔️ 💻
-* [Wortwolke](https://kits.blog/cloud/) Wordcloud-Generator ✔️ 💻
+* [Wortwolke von kitsblog](https://kits.blog/cloud/) Wordcloud-Generator ✔️ 💻
 * [Wortwolke24](https://www.wortwolke24.de) Wordcloud-Generator ✔️ 💻
 * [PuzzleMaker](https://puzzlemaker.discoveryeducation.com) Generieren unterschiedlichster Puzzle Arten ✔️ 💻
 * [fodey.com](https://www.fodey.com/generators/newspaper/snippet.asp) Sammlung witziger Generatoren, z.B. Zeitungsartikel ✔️ 💻
@@ -776,7 +777,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Microsoft Whiteboard](https://whiteboard.microsoft.com/me/whiteboards?culture=en) virtuelle, digitale Tafel, kooperativ zu bearbeiten 💻
 * [OpenBoard](https://openboard.ch/index.de.html?fbclid=IwAR1dBvk5NxmRfBKF6dn6KOWeTsbmgEzu7bLSrGEDhg11RmTRKmjUZYzphvg) interaktives Whiteboard für Kollaboration und Präsentationen ✔️ 📱 💻
 * [Explain Everything](https://explaineverything.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 📱 💻
-* [Excalidraw](https://excalidraw.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
+* [Excalidraw von kitsblog](https://excalidraw.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Flinga](https://ebildungslabor.de/blog/flinga/) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Conceptboard](https://app.conceptboard.com/login-redirect) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Draw.Chat](https://draw.chat) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
@@ -840,6 +841,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Cryptpad](https://cryptpad.fr) kollaborativer Web-Editor inkl. Datenverschlüsselung ✔️ 💻
 * [Zumpad](https://zumpad.zum.de) Erstellen gemeinsamer Texte oder Teilen von Informationen, Wählen einer einfachen selbstgewählten Webadresse ✔️ 💻  
 * [Etherpad](https://yopad.eu) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
+* [Etherpad von kitsblog](https://pad.kits.blog) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
 * [Edupad](https://edupad.ch) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
 * [Board.net](https://board.net) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
 * [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 💻
@@ -960,6 +962,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Exquis App](https://exquis.app/) gemeinsames Zeichnen bei dem jede/r einen Teil des Bildes gestaltet ✔️ 💻
 * [Quick, Draw!](https://quickdraw.withgoogle.com/?locale=de) Zeichnen, während die KI das Bild errät ✔️ 💻
+* [Excalidraw von kitsblog](https://excalidraw.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 
 <a name="sonstiges"></a>
 ## Sonstiges
@@ -996,4 +999,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * hier könnte deine Kategorie stehen
 * implizites Lernen
 
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **745** Tools, Tipps & Tricks!
+Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **747** Tools, Tipps & Tricks!
