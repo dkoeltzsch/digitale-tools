@@ -995,8 +995,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Snopes.com](https://www.snopes.com) digitale Plattform zur Faktenüberprüfung, fact-checking ✔️ 💻
 * [EnglishTools.org](https://www.englishtools.org/en) Sammlung an verschiedensten Tools für den Englischunterricht ✔️ 💻
 
-## Kategorien in Arbeit
-* hier könnte deine Kategorie stehen
-* implizites Lernen
-
-Großes Dankeschön an dich, dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **747** Tools, Tipps & Tricks!
+## Großes Dankeschön an dich
+dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **747** Tools, Tipps & Tricks!
