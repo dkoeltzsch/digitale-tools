@@ -367,6 +367,7 @@ siehe auch: Rätsel-Tools
 * [Favelio](https://www.favelio.com/home) Erzählen leicht interaktiver, nicht-linearer Geschichten 📱 💻
 * [2min Tabletop](https://tools.2minutetabletop.com) Sammlung von digitalen Spielfiguren mit Suchmaske und Editor ✔️ 💻
 * [Boardgames Arena](https://de.boardgamearena.com) Sammlung von Brettspielen zum digitalen Spielen mit Freunden ✔️ 📱 💻
+* [Gidd.io](https://gidd.io) Sammlung von Spielen zum digitalen Spielen mit Freunden ✔️ 💻
 * [ClassTools](https://www.classtools.net) Sammlung von vers. digitalen Tools, vorwiegend spielerisch ✔️ 💻
 * [GB Studio](https://www.gbstudio.dev) Retro Video Games durch Drag and Drop selbst zusammenbauen
 * [Playfactile](https://www.playfactile.com) Online-Quizze im Jeopardy-Stil ✔️ 💻
@@ -800,6 +801,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Snapdrop](https://snapdrop.net) Verschicken von Dateien mit Personen in Reichweite ✔️ 💻
 * [PDF Compressor](https://pdfcompressor.com/de/) Komprimieren von PDFs ✔️ 💻
 * [pdf.io](https://pdf.io/de/) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
+* [Xodo](https://www.xodo.com/app/#/) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 📱 💻
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
 * [Lizenzhinweisgenerator](https://lizenzhinweisgenerator.de) automatische Erklärungen zu den Lizenzen von Material auf Websites ✔️ 💻
@@ -817,7 +819,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 <a name="textbearbeitung-&-notizen"></a>
 ## Textbearbeitung & Notizen
 * [DocDroid](https://www.docdroid.net/de) Dokumentkonverter ✔️ 💻
-* [Sejda](https://www.sejda.com/de/) PDF-Editor, online, kostenlos 💻 💰
+* [Xodo](https://www.xodo.com/app/#/) PDF-Editor ✔️ 📱 💻
+* [Sejda](https://www.sejda.com/de/) PDF-Editor 💻 💰
 * [Telegraph](https://telegra.ph) simpler, kostenloser Blogging Dienst ✔️ 💻
 * [Cabinet](https://www.cabinet.app) Notizbuch in App Format 📱
 * [Good Notes](https://www.goodnotes.com) Notiz / Textbearbeitungsapp 📱 💰
@@ -844,7 +847,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Etherpad von kitsblog](https://pad.kits.blog) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
 * [Edupad](https://edupad.ch) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
 * [Board.net](https://board.net) webbasierter Texteditor zur kollaborativen Bearbeitung von Texten ✔️ 💻
-* [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 💻
+* [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 
+* [Obsidian](https://obsidian.md) Plattform zum Schreiben von Markdown inkl. Wiki-Funktion ✔️ 💻 
 * [Collabora Office](https://nextcloud.com/de/collaboraonline/) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 * [Online Office](https://www.onlyoffice.com/de/office-for-nextcloud.aspx) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 * [Transkribieren mit Word](https://support.microsoft.com/de-de/office/transkribieren-ihrer-aufzeichnungen-7fc2efec-245e-45f0-b053-2a97531ecf57) kleiner Trick um Audioaufnahmen direkt in Word automatisch transkribieren zu lassen ✔️ 💻
@@ -997,4 +1001,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **747** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **750** Tools, Tipps & Tricks!
