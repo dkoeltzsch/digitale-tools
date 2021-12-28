@@ -775,6 +775,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Miro](https://miro.com) interaktives Whiteboard ✔️ 📱 💻
 * [Geogebra Notes](https://www.geogebra.org/notes?lang=de)interaktives Whiteboard ✔️ 📱 💻
+* [OpenBoard](https://www.openboard.ch/index.de.html) virtuelles Whiteboard ✔️ 💻
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
 * [Whiteboard.fi](https://whiteboard.fi) virtuelles Whiteboard, individuell für alle Lernende mit Übersicht aller für die Lehrkraft ✔️ 💻
 * [Bitpaper](https://www.bitpaper.io) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
@@ -1005,4 +1006,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **752** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **753** Tools, Tipps & Tricks!
