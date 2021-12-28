@@ -374,6 +374,7 @@ siehe auch: Rätsel-Tools
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 * [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
+* [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
 * [Games to learn English](https://www.gamestolearnenglish.com) virtuelle Englischspiele ✔️ 💻
 * [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
 * [Sheppard Software](https://www.sheppardsoftware.com) spielerische Wissensvermittlung ✔️ 💻
@@ -397,6 +398,7 @@ siehe auch: Rätsel-Tools
 * [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Seterra](https://online.seterra.com/de) online Erdkunde-Quiz-Spiel ✔️ 💻
+* [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -473,6 +475,7 @@ siehe auch: Digitales Klassenzimmer
 * [Jam](https://jam.systems) Audiokonferenz-Tool ✔️ 💻
 * [Nextcloud Talk](https://nextcloud.com/de/talk/) Videokonferenz-Tool eingebettet in Nextcloud (für größere Gruppen ist ein zusätzlicher Serverdienst nötig) 📱 💻
 * [Team Viewer](https://www.teamviewer.com/de/) Videokonferenz-Tool mit Zugriffsmöglichkeit 💰
+* [Senfcall](https://senfcall.de) Videokonfenz-Tool, DGSVO-konform ✔️ 💻
 
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
@@ -920,6 +923,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
 * [Bookful](https://bookful.app) Bücher lesen inkl. Augmented Reality 📱 (💰)
 * [EyeJack](https://eyejackapp.com) Kuratierung und Verbreitung von AR Kunst 📱 (💰)
+* [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -1001,4 +1005,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **750** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **752** Tools, Tipps & Tricks!
