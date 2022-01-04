@@ -862,6 +862,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Language Tool](https://languagetool.org/de) Grammatik-, Stil- und Rechtschreibprüfung als Web-Add-On 💻
 * [Blablabmeter](http://www.blablameter.de) prüft Texte ✔️ 💻
 * [Summarize This](https://summarizethis.com) automatisierte Zusammenfassung von Texten ✔️ 💻
+* [Lose The Very](https://www.losethevery.com) Adjektiv-Generierung, um "very" zu vermeiden (engl. Sprache) ✔️ 💻
 * [Versteckte Verse](https://versteckteverse.glitch.me) einzelne Wörter im Text einschwärzen, sog. Blackout Poetry ✔️ 💻
 
 <a name="video"></a>
@@ -1006,4 +1007,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **753** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **754** Tools, Tipps & Tricks!
