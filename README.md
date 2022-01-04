@@ -766,6 +766,7 @@ siehe auch: Virtual & Augmented Reality
 * [Townscaper](https://oskarstalberg.com/Townscaper) Stadt virtuell erstellen ✔️ 💻
 * [My Fortune Cookie](http://www.myfortunecookie.co.uk) virtueller Glückskeks ✔️ 💻
 * [Pokémon Card Maker](https://www.pokecard.net) Pokémon Karten selbst erstellen ✔️ 💻
+* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) Fantasie Karten selbst erstellen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -1007,4 +1008,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **754** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **755** Tools, Tipps & Tricks!
