@@ -871,6 +871,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Loom](https://www.loom.com) Aufnehmen und Teilen von Videonachrichten 📱 💻
 * [Flipgrid](https://info.flipgrid.com) Video Response Plattform ✔️ 📱 💻
 * [Plotagon](https://www.plotagon.com) animierte Videos, z.B. mit eigener Stimme erstellen 📱
+* [Animated Drawing](https://sketch.metademolab.com) eigene Bilder in Animationen verwandeln
 * [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=de&gl=US) Animationen erstellen 📱
 * [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 * [Touchcast](https://touchcast.com/studio) Videos bearbeiten, interaktiv gestalten u.v.m. 📱
@@ -1008,4 +1009,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **755** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **756** Tools, Tipps & Tricks!
