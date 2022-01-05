@@ -43,6 +43,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Gruppeneinteilung](#gruppeneinteilung)
 
+[Historisches](#historisches)
+
 [Inklusion](#inklusion)
 
 [Kooperatives Arbeiten](#kooperatives-arbeiten)
@@ -225,6 +227,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Videvo](https://www.videvo.net/de/) kostenlose Videos, Soundeffekte u.v.m. 💻
 * [Your White Noise](https://yourwhitenoise.com/) Seite mit Klängen für Arbeit, Konzentration und Entspannung ✔️ 💻
 * [Piktogramm-Suche von kitsblog](https://kits.blog/picto/#/) Piktogramm Datenbank mit BY-NC-SA 4.0 Lizenz 
+* [360° Cities](https://www.360cities.net) Sammlung von 360° Bildern und Videos ✔️ 💻
 
 <a name="coding"></a>
 ## Coding
@@ -333,7 +336,6 @@ siehe auch: Konferenztools
 * [Hopp Foundation](https://www.hopp-foundation.de) Workshop-Angebot für Lehrer und Schüler
 * [Webinar Radar](https://trello.com/b/awvx1TFG/webinar-radar-für-lehrerinnen) Trello Board mit toller Übersicht von Sebastian Staack ✔️ 📱 💻
 * [Open E-Learning-Center Niedersachsen](https://moodle.nibis.de/openelec/) Offene Moodle Instanz mit Selbstkursen zu verschiedenen Bereichen (Im Aufbau) ✔️💻
-* 
 
 <a name="gamification"></a>
 ## Gamification
@@ -380,6 +382,7 @@ siehe auch: Rätsel-Tools
 * [Sheppard Software](https://www.sheppardsoftware.com) spielerische Wissensvermittlung ✔️ 💻
 * [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
 * [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
+* [UIIVIT](https://uiivit.org) historisches Lernspiel zur Geschichte globaler Handelswege 💻
 
 <a name="geographisches"></a>
 ## Geographisches
@@ -407,6 +410,22 @@ siehe auch: Rätsel-Tools
 * [Chooser!](https://apps.apple.com/de/app/chooser/id1275945156#?platform=ipad) eine Person wird ausgewählt ✔️ 📱
 * [Decide Now!](https://apps.apple.com/de/app/decide-now/id383718755#?platform=ipad) Entscheidungsrad ✔️ 📱 💰
 * [Tap Roulette](https://apps.apple.com/de/app/tap-roulette-make-decisions-with-friends/id430254631) eine Person wird ausgewählt ✔️ 📱 💰
+
+<a name="historisches"></a>
+## Historisches
+* [UIIVIT](https://uiivit.org) historisches Lernspiel zur Geschichte globaler Handelswege 💻
+* [KZ Gedenkstätte Neugamme](https://www.kz-gedenkstaette-neuengamme.de/erinnerungen/pageflow/) multimediale Reportage zur Gedenkstätte ✔️ 💻
+* [Andreasstraße](https://www.andreasstrasse.de/#/1) multimediale Reportage zur Besetzung der Erfurter Stasti-Zentrale ✔️ 💻
+* [PennMuseum](https://www.penn.museum/cgi/hieroglyphsreal.php?name=Max+Mustermann&inscribe=insrcibe) Wörter in Hieroglyphen schreiben ✔️ 💻
+* [WDR AR 1933-1945](https://apps.apple.com/de/app/wdr-ar-1933-1945/id1446878251) Zeitzeugenberichte zum 2. Weltkrieg in AR ✔️ 📱
+* [Shakespeare's Globe 360](https://apps.apple.com/de/app/shakespeares-globe-360/id959985371) 3D-Globe-Theater in virtueller Realität ✔️ 📱
+* [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
+* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
+* [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
+* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -748,18 +767,6 @@ siehe auch: Virtual & Augmented Reality
 * [Fun Ticket Generator](https://tickets.kadsoftwareusa.com) Eintrittskarten generieren ✔️ 💻
 * [Break Your Own News](https://breakyourownnews.com) Nachrichten generieren ✔️ 💻
 * [AddLetters](http://www.addletters.com) Schilder, Nachrichten u.v.m. generieren ✔️ 💻
-* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
-* [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
-* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
-* [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
-* [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
-* [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
-* [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
-* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
-* [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
-* [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
-* [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
-* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
 * [Carte à gratter](https://zanorg.net/carteagratter/?h=61921aed97c12) digitales Rubbellos erstellen ✔️ 💻
 * [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
 * [Eyechart Maker](http://www.eyechartmaker.com) Sehtest-Tafel erstellen ✔️ 💻
@@ -904,30 +911,41 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 <a name="virtual-&-augmented-reality"></a>
 ## Virtual & Augmented Reality
+* [3DBEAR](https://www.3dbear.io) AR schnell & leicht in der App erstellen, Bilder & Filme davon teilen ✔️ 📱
 * [Blippar](https://www.blippar.com) Erstellung und Veröffentlichung von Augmented Reality-Inhalten für Smartphone Web 💻 💰
-* [CoSpaces](https://cospaces.io/edu/) VR-Plattform, mit der per Browser oder App durch Drag and Drop kleine 3D-Welten erstellt werden können 💻 📱
 * [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, um digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
 * [Moment AR](https://apps.apple.com/us/app/moment-ar/id1448116339) Erweiterung von mergeEDU, Emotionen in AR erleben 📱
 * [Areeka](https://areeka.net) Plattform für Augmented Reality Inhalte in der Bildung 💻 💰
 * [Qlone](https://www.qlone.pro) alles-in-einem Werkzeug für 3D-Scannen und AR ✔️ 📱
-* [QuiverVision](https://quivervision.com) ausgemalte Bilder zum virtuellen Leben erwecken ✔️ 📱
-* [Tiltbrush](https://www.tiltbrush.com) in Virtueller Realität zeichnen & malen
-* [WDR AR 1933-1945](https://apps.apple.com/de/app/wdr-ar-1933-1945/id1446878251) Zeitzeugenberichte zum 2. Weltkrieg in AR ✔️ 📱
-* [HoloBuilder](https://www.holobuilder.com) 360° Touren selbst anlegen 💻 (💰)
-* [Tour Creator](https://arvr.google.com/tourcreator/) 360° Touren gestalten
-* [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
-* [360° Cities](https://www.360cities.net) Sammlung von 360° Bildern und Videos ✔️ 💻
-* [Insight Heart](https://animares.com/portfolio/insight-heart) VR Animation des menschlichen Herzens ✔️ 📱 💰
-* [Shakespeare's Globe 360](https://apps.apple.com/de/app/shakespeares-globe-360/id959985371) 3D-Globe-Theater in virtueller Realität ✔️ 📱
 * [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
-* [Google Earth VR](https://arvr.google.com/earth/) virtuell Orte in der ganzen Welt erkunden ✔️ 💻
-* [3DBEAR](https://www.3dbear.io) AR schnell & leicht in der App erstellen, Bilder & Filme davon teilen ✔️ 📱
-* [GamesLab VR Sammlung](https://medien-und-bildung.lvr.de/de/unser_angebot/medienzentrum_duesseldorf/medialab/computerspiele_2/im_lab/vr_im_gameslab/vr_im_gameslab.html) ausgewählte Empfehlungen für VR des GamesLab ✔️ 💻
-* [Statue of Liberty](https://apps.apple.com/de/app/statue-of-liberty/id1457506359) Freiheitsstatue in NYC virtuell erleben ✔️ 📱
-* [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
+* [WDR AR 1933-1945](https://apps.apple.com/de/app/wdr-ar-1933-1945/id1446878251) Zeitzeugenberichte zum 2. Weltkrieg in AR ✔️ 📱
 * [Bookful](https://bookful.app) Bücher lesen inkl. Augmented Reality 📱 (💰)
 * [EyeJack](https://eyejackapp.com) Kuratierung und Verbreitung von AR Kunst 📱 (💰)
 * [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
+* [QuiverVision](https://quivervision.com) ausgemalte Bilder zum virtuellen Leben erwecken ✔️ 📱
+* [Tiltbrush](https://www.tiltbrush.com) in Virtueller Realität zeichnen & malen
+* [Insight Heart](https://animares.com/portfolio/insight-heart) VR Animation des menschlichen Herzens ✔️ 📱 💰
+* [CoSpaces](https://cospaces.io/edu/) VR-Plattform, mit der per Browser oder App durch Drag and Drop kleine 3D-Welten erstellt werden können 💻 📱
+* [Shakespeare's Globe 360](https://apps.apple.com/de/app/shakespeares-globe-360/id959985371) 3D-Globe-Theater in virtueller Realität ✔️ 📱
+* [HoloBuilder](https://www.holobuilder.com) 360° Touren selbst anlegen 💻 (💰)
+* [Tour Creator](https://arvr.google.com/tourcreator/) 360° Touren gestalten
+* [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
+* [Statue of Liberty](https://apps.apple.com/de/app/statue-of-liberty/id1457506359) Freiheitsstatue in NYC virtuell erleben ✔️ 📱
+* [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
+* [Google Earth VR](https://arvr.google.com/earth/) virtuell Orte in der ganzen Welt erkunden ✔️ 💻
+* [Virtual Vacation](https://virtualvacation.us) virtuell Orte auf der ganzen Welt erkunden ✔️ 💻
+* [gez.la](https://gez.la) virtuelle Museumsbesuche ✔️ 💻
+* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
+* [Kunstmatrix](https://www.kunstmatrix.com/en) virtuelle 3D-Ausstellungen ✔️ 💻
+* [citywalks.live](https://citywalks.live) virtuelle Walking Tour durch reale Städte ✔️ 💻
+* [drive and listen](https://driveandlisten.herokuapp.com) Driving Tour durch reale Städte ✔️ 💻
+* [Mapcrunch](https://www.mapcrunch.com) zufällige Streeview ✔️ 💻
+* [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
+* [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
+* [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
+* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
+* [GamesLab VR Sammlung](https://medien-und-bildung.lvr.de/de/unser_angebot/medienzentrum_duesseldorf/medialab/computerspiele_2/im_lab/vr_im_gameslab/vr_im_gameslab.html) ausgewählte Empfehlungen für VR des GamesLab ✔️ 💻
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -1006,7 +1024,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [24 mal freuen](https://24malfreuen.de) digitalen Adventskalender erstellen ✔️ 💻
 * [Snopes.com](https://www.snopes.com) digitale Plattform zur Faktenüberprüfung, fact-checking ✔️ 💻
 * [EnglishTools.org](https://www.englishtools.org/en) Sammlung an verschiedensten Tools für den Englischunterricht ✔️ 💻
+* [Every Name Counts](https://enc.arolsen-archives.org/ueber-everynamecounts/) Crowdsourcing-Initiative für die Verfolgten des Nationalsozialismus ✔️ 💻
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **756** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **760** Tools, Tipps & Tricks!
