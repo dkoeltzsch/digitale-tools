@@ -930,6 +930,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [HoloBuilder](https://www.holobuilder.com) 360° Touren selbst anlegen 💻 (💰)
 * [Tour Creator](https://arvr.google.com/tourcreator/) 360° Touren gestalten
 * [Houses of Parliament](https://edition.cnn.com/interactive/2017/04/world/house-of-parliament/) 360 Grad Simulation der Houses of Parliament ✔️ 💻
+* [Schloss Neuschwanstein](https://3dtopevent.info/neuschwanstein/#pano=35) 360 Grad Ansicht des Schloss Neuschwanstein ✔️ 💻
 * [Statue of Liberty](https://apps.apple.com/de/app/statue-of-liberty/id1457506359) Freiheitsstatue in NYC virtuell erleben ✔️ 📱
 * [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
 * [Google Earth VR](https://arvr.google.com/earth/) virtuell Orte in der ganzen Welt erkunden ✔️ 💻
@@ -1028,4 +1029,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **760** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **761** Tools, Tipps & Tricks!
