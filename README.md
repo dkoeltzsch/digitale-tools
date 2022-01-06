@@ -425,7 +425,7 @@ siehe auch: Rätsel-Tools
 * [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
-* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
+* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻 💰
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -945,7 +945,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
 * [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
-* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻
+* [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻 💰
 * [GamesLab VR Sammlung](https://medien-und-bildung.lvr.de/de/unser_angebot/medienzentrum_duesseldorf/medialab/computerspiele_2/im_lab/vr_im_gameslab/vr_im_gameslab.html) ausgewählte Empfehlungen für VR des GamesLab ✔️ 💻
 
 <a name="vokabeln-lernen"></a>
