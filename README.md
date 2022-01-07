@@ -641,6 +641,7 @@ siehe auch: Tafelersatz
 * [Typing Club](https://www.typingclub.com) Tastaturen Schreiben Lernen ✔️ 💻
 * [Andy Chatbot](https://andychatbot.com) Englisch lernen durch Chaten mit der KI 📱 💰
 * [ELSA](https://elsaspeak.com/en/) Englisches Aussprachetraining (US-Akzent) via App 📱
+* [Youglish](https://youglish.com) Aussprachetraining mit Hilfe von Videos und Erklärungen ✔️ 💻
 * [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- und Rechtschreibleistung von LRS-Kindern 📱
 * [Orthografie Trainer](https://orthografietrainer.net/index.php) kostenlose Übungssätze ab ca. 5. Klasse ✔️ 💻
 * [Road to Grammar](http://www.roadtogrammar.com) Englische Grammatik online üben ✔️ 💻
@@ -984,6 +985,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Metager](https://metager.de) Suchmaschine inkl. Privatssphäre ✔️ 💻
 * [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) Wikipedia in einfacher Sprache ✔️ 💻
 * [Find das Bild](http://www.find-das-bild.de) Bildersuche für Kinder ✔️ 💻
+* [Youglish](https://youglish.com) Suchmaschine für Aussprache von unbekannten Wörtern ✔️ 💻
 
 <a name="Zeichnen"></a>
 ## Zeichnen
@@ -1025,8 +1027,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [24 mal freuen](https://24malfreuen.de) digitalen Adventskalender erstellen ✔️ 💻
 * [Snopes.com](https://www.snopes.com) digitale Plattform zur Faktenüberprüfung, fact-checking ✔️ 💻
 * [EnglishTools.org](https://www.englishtools.org/en) Sammlung an verschiedensten Tools für den Englischunterricht ✔️ 💻
-* [Every Name Counts](https://enc.arolsen-archives.org/ueber-everynamecounts/) Crowdsourcing-Initiative für die Verfolgten des Nationalsozialismus ✔️ 💻
+* [forScore](https://forscore.co) Notenblatt-Organizer inkl. Gesichtserkennung zum Umblättern 📱 💰
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **761** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **763** Tools, Tipps & Tricks!
