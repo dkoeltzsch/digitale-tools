@@ -402,6 +402,7 @@ siehe auch: Rätsel-Tools
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Seterra](https://online.seterra.com/de) online Erdkunde-Quiz-Spiel ✔️ 💻
 * [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
+* [River Runner Global](https://river-runner-global.samlearner.com) Weg eines Regentropens verfolgen ✔️ 💻
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -1032,4 +1033,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **764** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **765** Tools, Tipps & Tricks!
