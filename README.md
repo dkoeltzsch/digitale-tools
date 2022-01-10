@@ -814,6 +814,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Snapdrop](https://snapdrop.net) Verschicken von Dateien mit Personen in Reichweite ✔️ 💻
 * [PDF Compressor](https://pdfcompressor.com/de/) Komprimieren von PDFs ✔️ 💻
 * [pdf.io](https://pdf.io/de/) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
+* [PDFBanao](https://www.pdfbanao.com/de) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 📱💻
 * [Xodo](https://www.xodo.com/app/#/) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 📱 💻
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
