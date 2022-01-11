@@ -103,7 +103,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 ## Arbeitsblätter erstellen
 * [Wizer.me](https://wizer.me) Erstellen von online Arbeitsblättern 📱 💻
 * [Canva](https://www.canva.com/de_de/erstellen/arbeitsblaetter/) Mediendesign, viele schicke Vorlagen u.v.m., kostenloser EDU-Account 💻
-* [Tutory](https://www.tutory.de) Online Editor für Arbeitsblätter 💻
+* [Tutory](https://www.tutory.de) Online-Editor für analoge und digitale Arbeitsblätter 💻
 * [Grundschulstoff](https://www.grundschulstoff.de/arbeitsblatt-generator/schulfaecher.html) Unterrichtsmaterial und Arbeitsblätter für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Grundschule Arbeitsblätter](https://www.grundschule-arbeitsblaetter.de/arbeitsblatt-generator/) Arbeitsblätter und Unterrichtsmaterial für die Grundschule inkl. Arbeitsblattgenerator ✔️ 💻
 * [Lingofox](https://www.lingofox.de) Software zur Erstellung von Arbeitsblättern für den Sprachunterricht 💻 💰
