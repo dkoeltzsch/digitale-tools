@@ -637,7 +637,6 @@ siehe auch: Tafelersatz
 * [wisc-online](https://www.wisc-online.com) englischsprachige Onlineübungen zu vielen Fächern ✔️ 💻
 * [Aufgabenfuchs](https://aufgabenfuchs.de) Sammlung von Aufgaben zu verschiedenen Fächern ✔️ 💻
 * [iXL](https://de.ixl.com) Sammlung von Matheaufgaben Klasse 1-6 ✔️ 💻
-* [EF Classes](https://class.ef.com) vollständige Lerneinheiten für alle Level und alle Kompetenzen für Englisch 📱 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Typing Club](https://www.typingclub.com) Tastaturen Schreiben Lernen ✔️ 💻
 * [Andy Chatbot](https://andychatbot.com) Englisch lernen durch Chaten mit der KI 📱 💰
@@ -1033,4 +1032,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **765** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **764** Tools, Tipps & Tricks!
