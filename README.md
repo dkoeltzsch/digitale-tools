@@ -619,6 +619,7 @@ siehe auch: Tafelersatz
 * [PearUp](https://www.pearup.de) Lern- und Übungsaufgaben erstellen und verteilen mit MINT Fokus 💻 (💰)
 * [LabMa](https://www.labma.de/lehrmittel-explorer.html) Datenbank für Experimente, Informationen über Zubehör, Bilder und Dokumente der Hersteller eines Geräts/Mediums ✔️ 💻
 * [iNaturalist](https://www.inaturalist.org) Entdecken & Teilen von Naturbeobachtungen 📱
+* [DUDAMATH](http://www.dudamath.com/action.html) digitale Umgebung für die interaktive Erkundung mathematischer Konzepte ✔️ 💻
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -1032,4 +1033,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **764** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **765** Tools, Tipps & Tricks!
