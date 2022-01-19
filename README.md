@@ -427,6 +427,7 @@ siehe auch: Rätsel-Tools
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
 * [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻 💰
+* [Civilisations AR](https://apps.apple.com/de/app/civilisations-ar/id1350792208) realistische, maßstabsgetreue historische Artefakte in AR 📱
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -564,6 +565,7 @@ siehe auch: Digitales Klassenzimmer
 * [Märchen im Unterricht](https://www.goethe.de/lrn/prj/mlg/miu/mak/deindex.htm) große multimediale Märchensammlung des Goethe-Instituts ✔️ 💻
 * [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) historische Zeitungen aus den Jahren 1671 bis 1950 ✔️ 💻
 * [mnweg.org](https://editor.mnweg.org/?p=1&materialType=bundle) Unterrichtsmaterialien für die Fächer Deutsch und Mathe ✔️ 💻
+* [MathsBot](https://mathsbot.com) Sammlung an Material und Aufgaben für den Matheunterricht ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -620,6 +622,8 @@ siehe auch: Tafelersatz
 * [LabMa](https://www.labma.de/lehrmittel-explorer.html) Datenbank für Experimente, Informationen über Zubehör, Bilder und Dokumente der Hersteller eines Geräts/Mediums ✔️ 💻
 * [iNaturalist](https://www.inaturalist.org) Entdecken & Teilen von Naturbeobachtungen 📱
 * [DUDAMATH](http://www.dudamath.com/action.html) digitale Umgebung für die interaktive Erkundung mathematischer Konzepte ✔️ 💻
+* [MathsBot](https://mathsbot.com) Sammlung an Material und Aufgaben für den Matheunterricht ✔️ 💻
+* [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze simulieren 📱
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -776,6 +780,8 @@ siehe auch: Virtual & Augmented Reality
 * [My Fortune Cookie](http://www.myfortunecookie.co.uk) virtueller Glückskeks ✔️ 💻
 * [Pokémon Card Maker](https://www.pokecard.net) Pokémon Karten selbst erstellen ✔️ 💻
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) Fantasie Karten selbst erstellen ✔️ 💻
+* [Klötzchen](https://apps.apple.com/de/app/klötzchen/id1027746349) digitales Würfelbauen 📱
+* [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze simulieren 📱
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -842,6 +848,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Notability](https://apps.apple.com/de/app/notability/id360593530) Notiz App 📱 💰
 * [One Note](https://www.microsoft.com/de-de/microsoft-365/onenote/digital-note-taking-app) Notiz App 📱 💻 💰 
 * [Evernote](https://evernote.com/intl/de/basic) Notiz App 📱 💻
+* [CollaNote](https://apps.apple.com/de/app/collanote-notiz-journal-pdf/id1540956268) Notiz App 📱
 * [Liquid Text](https://www.liquidtext.net) Notiz App mit Zusatzfunktionen, wie Organisation der Texte 📱 💻
 * [Marginnote](https://www.marginnote.com) Lese- und Annotationssoftware 📱 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
@@ -915,6 +922,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 <a name="virtual-&-augmented-reality"></a>
 ## Virtual & Augmented Reality
 * [3DBEAR](https://www.3dbear.io) AR schnell & leicht in der App erstellen, Bilder & Filme davon teilen ✔️ 📱
+* [JigSpace](https://apps.apple.com/de/app/jigspace/id1111193492) AR schnell & leicht in der App erstellen, Bilder & Filme davon teilen ✔️ 📱
 * [Blippar](https://www.blippar.com) Erstellung und Veröffentlichung von Augmented Reality-Inhalten für Smartphone Web 💻 💰
 * [mergeEDU](https://mergeedu.com)räumliche Computertechnologie, um digitale 3D-Inhalte zu berühren und mit ihnen zu interagieren
 * [Moment AR](https://apps.apple.com/us/app/moment-ar/id1448116339) Erweiterung von mergeEDU, Emotionen in AR erleben 📱
@@ -950,6 +958,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Kinderweltreise](https://www.kinderweltreise.de) Länder virtuell entdecken ✔️ 💻
 * [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻 💰
 * [GamesLab VR Sammlung](https://medien-und-bildung.lvr.de/de/unser_angebot/medienzentrum_duesseldorf/medialab/computerspiele_2/im_lab/vr_im_gameslab/vr_im_gameslab.html) ausgewählte Empfehlungen für VR des GamesLab ✔️ 💻
+* [Civilisations AR](https://apps.apple.com/de/app/civilisations-ar/id1350792208) realistische, maßstabsgetreue historische Artefakte in AR 📱
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -1033,4 +1042,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **765** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **771** Tools, Tipps & Tricks!
