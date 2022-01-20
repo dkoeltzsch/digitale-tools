@@ -875,7 +875,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [CodiMD](https://hackmd.okfn.de) Plattform zum Schreiben und Teilen von Markdown ✔️ 
 * [Obsidian](https://obsidian.md) Plattform zum Schreiben von Markdown inkl. Wiki-Funktion ✔️ 💻 
 * [Collabora Office](https://nextcloud.com/de/collaboraonline/) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
-* [Online Office](https://www.onlyoffice.com/de/office-for-nextcloud.aspx) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
+* [Only Office](https://www.onlyoffice.com/de/office-for-nextcloud.aspx) webbasiertes Office-Paket zur kollaborativen Bearbeitung von Texten und zur Einbindung in Nextcloud
 * [Transkribieren mit Word](https://support.microsoft.com/de-de/office/transkribieren-ihrer-aufzeichnungen-7fc2efec-245e-45f0-b053-2a97531ecf57) kleiner Trick um Audioaufnahmen direkt in Word automatisch transkribieren zu lassen ✔️ 💻
 * [TelescopicText](https://www.telescopictext.org/write/) Teleskop Texte sehr simpel erstellen und teilen (be Registrierung) (✔️) 💻
 * [Voyant](https://voyant-tools.org) webbasierte Lese- und Analyseumgebung für digitale Texte ✔️ 💻
@@ -921,6 +921,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [BaM Video Delay](https://apps.apple.com/de/app/bam-video-delay/id517673842#?platform=ipad) App zur Videoanalyse 📱 💰
 * [Kurz und Gut](https://www.kurzundgut.ch) Sammlung an Kurzfilmen für den Unterricht ✔️ 💻
 * [Save From](https://de.savefrom.net/30/) Online Video Downloader ✔️ 💻
+* [iVCam](https://www.e2esoft.com/ivcam/) Handy/Tablet  als Webcam oder Desktopcam statt Overheadprojektor 📱
 
 <a name="virtual-&-augmented-reality"></a>
 ## Virtual & Augmented Reality
@@ -1045,4 +1046,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **774** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **775** Tools, Tipps & Tricks!
