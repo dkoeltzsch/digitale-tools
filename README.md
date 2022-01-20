@@ -194,6 +194,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Wunderstock](https://wunderstock.com) kostenlose Bilder ✔️ 💻
 * [Sammlung Johannes Schirge](https://docs.google.com/document/d/14ahmnEl8IJCpVy-ilPOn__kiMhUAKPXZujHUalgULWQ/edit) Sammlung von Websites mit “freien” Bildern von Johannes Schirge ✔️ 💻
 * [Photos for Class](https://www.photosforclass.com) kostenlose Bilder ✔️ 💻
+* [EasyZoom](https://easyzoom.com) Sammlung hochauflösender Bilder ✔️ 💻
 * [undraw](https://undraw.co) Opensource Sammlung an Bildern, farblich anzupassen an das eigene Projekt ✔️ 💻
 * [Freepik](https://www.freepik.com) kostenlose Bilder, Vektoren o.Ä. ✔️ 💻
 * [Noun Project](https://thenounproject.com/) Icons und Photos unter CC und Public Domain ✔️ 💻
@@ -587,6 +588,7 @@ siehe auch: Tafelersatz
 * [Nextcloud Mindmaps](https://apps.nextcloud.com/apps/files_mindmap) Mindmapping-Tool in Nextcloud 💻
 * [The Brain](https://www.thebrain.com) Notizen & Mindmapping-Tool 📱 💻
 * [simplemind](https://simplemind.eu) Mindmapping-Tool 📱 💻 (💰)
+* [mind-map-online](https://mind-map-online.de) virtuelles Mindmapping-Tool (✔️) 💻
 
 <a name="mint"></a>
 ## MINT
@@ -650,6 +652,7 @@ siehe auch: Tafelersatz
 * [Prosodiya](https://prosodiya.de) App zur Verbesserung der Lese- und Rechtschreibleistung von LRS-Kindern 📱
 * [Orthografie Trainer](https://orthografietrainer.net/index.php) kostenlose Übungssätze ab ca. 5. Klasse ✔️ 💻
 * [Road to Grammar](http://www.roadtogrammar.com) Englische Grammatik online üben ✔️ 💻
+* [English4u](https://www.english-4u.de) online Übungen für das Fach Englisch ✔️ 💻
 * [Quill](https://www.quill.org) freie Schreib- und Grammatikübungen für Englisch 💻
 * [Mauswiesel](https://mauswiesel.bildung.hessen.de) Übungen für verschiedene Fächer, eher Primar- und Unterstufe ✔️ 💻
 * [Cool Lama](https://coollama.de) Spiele und Übungen für Mathe ✔️ 💻
@@ -1042,4 +1045,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **771** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **774** Tools, Tipps & Tricks!
