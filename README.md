@@ -384,6 +384,7 @@ siehe auch: Rätsel-Tools
 * [Lega Kids](https://www.legakids.net) Spiele für Lernende mit LRS ✔️ 💻
 * [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
 * [UIIVIT](https://uiivit.org) historisches Lernspiel zur Geschichte globaler Handelswege 💻
+* [Spuren auf Papier](https://gedenkkreis.de/spuren-auf-papier) Serious Game zum Thema Krankenmord während des Nationalsozialismus ✔️ 📱 💻
 
 <a name="geographisches"></a>
 ## Geographisches
@@ -430,6 +431,7 @@ siehe auch: Rätsel-Tools
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
 * [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻 💰
 * [Civilisations AR](https://apps.apple.com/de/app/civilisations-ar/id1350792208) realistische, maßstabsgetreue historische Artefakte in AR 📱
+* [Spuren auf Papier](https://gedenkkreis.de/spuren-auf-papier) Serious Game zum Thema Krankenmord während des Nationalsozialismus ✔️ 📱 💻
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -1048,4 +1050,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **776** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **777** Tools, Tipps & Tricks!
