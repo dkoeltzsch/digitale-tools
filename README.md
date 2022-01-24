@@ -385,6 +385,7 @@ siehe auch: Rätsel-Tools
 * [Trimino](http://schule.paul-matthies.de/Trimino.php) Trimino Generator ✔️ 💻
 * [UIIVIT](https://uiivit.org) historisches Lernspiel zur Geschichte globaler Handelswege 💻
 * [Spuren auf Papier](https://gedenkkreis.de/spuren-auf-papier) Serious Game zum Thema Krankenmord während des Nationalsozialismus ✔️ 📱 💻
+* [Wiki History Game](https://wikitrivia.tomjwatson.com) historische Ereignisse in die richtige Reihenfolge bringen ✔️ 💻
 
 <a name="geographisches"></a>
 ## Geographisches
@@ -432,6 +433,7 @@ siehe auch: Rätsel-Tools
 * [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻 💰
 * [Civilisations AR](https://apps.apple.com/de/app/civilisations-ar/id1350792208) realistische, maßstabsgetreue historische Artefakte in AR 📱
 * [Spuren auf Papier](https://gedenkkreis.de/spuren-auf-papier) Serious Game zum Thema Krankenmord während des Nationalsozialismus ✔️ 📱 💻
+* [Wiki History Game](https://wikitrivia.tomjwatson.com) historische Ereignisse in die richtige Reihenfolge bringen ✔️ 💻
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -789,6 +791,7 @@ siehe auch: Virtual & Augmented Reality
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) Fantasie Karten selbst erstellen ✔️ 💻
 * [Klötzchen](https://apps.apple.com/de/app/klötzchen/id1027746349) digitales Würfelbauen 📱
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze simulieren 📱
+* [Stellarium](https://stellarium-web.org) Simulation des Nachthimmels und der Sternenbilder ✔️ 📱 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -1050,4 +1053,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **777** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **779** Tools, Tipps & Tricks!
