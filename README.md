@@ -358,12 +358,13 @@ siehe auch: Rätsel-Tools
 * [Bitsboard](http://bitsboard.com) Sammlung und eigenes Erstellen von Lernspielen mit eigenen Bildern, Videos und Tönen 📱
 * [Stadt Land Fluss online](https://stadtlandflussonline.net/new-game.xhtml) multiplayer, kostenlos, online Variante des Spieleklassikers ✔️ 💻
 * [Quick Words](https://quickwords.net) virtuelles Wörterspiel ✔️ 💻
-* [GeoGuessr](https://www.geoguessr.com) webbasiertes Geographie-Computerspiel ✔️ 📱 💻
 * [Brightful](https://app.brightful.me/game/#/signup) online Spiele für virtuelle Gruppentreffen 📱 💻
 * [Google Expeditionen](https://edu.google.com/intl/de_de/products/vr-ar/expeditions/?modal_active=none) virtuelle Schulausflüge 📱
 * [GarticPhone](https://garticphone.com/de) Stille Post online ✔️ 💻
 * [Codenames](https://codenames.game) Brettpiel Codenames online ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
+* [Escape Team](https://www.escape-team.de) Escape Games zum Ausdrucken & auch selbst erstellen 📱 (💰)
+* [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Exquis App](https://exquis.app/) gemeinsames Zeichnen bei dem jede/r einen Teil des Bildes gestaltet ✔️ 💻
 * [Twinery](https://twinery.org/2/#!/stories) Erzählen leicht interaktiver, nicht-linearer Geschichten 💻
@@ -378,6 +379,8 @@ siehe auch: Rätsel-Tools
 * [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 * [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
 * [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
+* [GeoGuessr](https://www.geoguessr.com) webbasiertes Geographie-Computerspiel ✔️ 📱 💻
+* [Geotastic](https://geotastic.net/home) multiplayer Geographie-Quiz 💻
 * [Games to learn English](https://www.gamestolearnenglish.com) virtuelle Englischspiele ✔️ 💻
 * [Bodenreise](https://bodenreise.ch) interaktive Reise durch die Schichten des Bodens ✔️ 💻
 * [Sheppard Software](https://www.sheppardsoftware.com) spielerische Wissensvermittlung ✔️ 💻
@@ -404,6 +407,8 @@ siehe auch: Rätsel-Tools
 * [Geo Greetings](http://geogreeting.com) Botschaften in Landkarten integrieren ✔️ 💻
 * [what3words](https://what3words.com/) realen Standort durch drei Wörter verschlüsseln ✔️ 📱 💻
 * [Seterra](https://online.seterra.com/de) online Erdkunde-Quiz-Spiel ✔️ 💻
+* [GeoGuessr](https://www.geoguessr.com) webbasiertes Geographie-Computerspiel ✔️ 📱 💻
+* [Geotastic](https://geotastic.net/home) multiplayer Geographie-Quiz 💻
 * [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
 * [River Runner Global](https://river-runner-global.samlearner.com) Weg eines Regentropens verfolgen ✔️ 💻
 * [doing geo & ethics](https://doinggeoandethics.com) vielfältige & multimediale Sammlung an Informationen zu Geographie & Ethik ✔️ 💻
@@ -503,6 +508,7 @@ siehe auch: Digitales Klassenzimmer
 * [Nextcloud Talk](https://nextcloud.com/de/talk/) Videokonferenz-Tool eingebettet in Nextcloud (für größere Gruppen ist ein zusätzlicher Serverdienst nötig) 📱 💻
 * [Team Viewer](https://www.teamviewer.com/de/) Videokonferenz-Tool mit Zugriffsmöglichkeit 💰
 * [Senfcall](https://senfcall.de) Videokonfenz-Tool, DGSVO-konform ✔️ 💻
+* [Camper](https://barcamps.eu) Barcamps finden und selbst veranstalten 💻
 
 <a name="lesen-&-lesematerial"></a>
 ## Lesen & Lesematerial
@@ -721,6 +727,7 @@ siehe auch: Tafelersatz
 ## Rätsel
 siehe auch: Gamification, Simulatoren
 * [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
+* [Escape Team](https://www.escape-team.de) Escape Games zum Ausdrucken & auch selbst erstellen 📱 (💰)
 * [Rebus Club](https://rebus.club) Verschlüsseln von Sätzen in Bilder-Rätseln, in mehreren Sprachen verfügbar ✔️ 💻
 * [XWords](https://www.xwords-generator.de/de) Kreuzworträtsel Generator ✔️ 💻
 * [Puzzel.org](https://puzzel.org/de/) Rästel Generator, u.a. Kreuzworträtsel, Memory, Puzzle ✔️ 💻 (💰)
@@ -887,6 +894,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [TelescopicText](https://www.telescopictext.org/write/) Teleskop Texte sehr simpel erstellen und teilen (be Registrierung) (✔️) 💻
 * [Voyant](https://voyant-tools.org) webbasierte Lese- und Analyseumgebung für digitale Texte ✔️ 💻
 * [Wortliga](https://wortliga.de/textanalyse/) prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
+* [LIX](https://www.psychometrica.de/lix.html) Berechnung des Lesbarkeitsindex von Texten
+* [RATTE](http://ratte.herokuapp.com) Regensburger Analyse Tool für Texte, prüft auf Verständlichkeit & Co ✔️ 💻
 * [Language Tool](https://languagetool.org/de) Grammatik-, Stil- und Rechtschreibprüfung als Web-Add-On 💻
 * [Blablabmeter](http://www.blablameter.de) prüft Texte ✔️ 💻
 * [Summarize This](https://summarizethis.com) automatisierte Zusammenfassung von Texten ✔️ 💻
@@ -978,6 +987,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Anki](https://apps.ankiweb.net) Lernkartei-Software mit speziellen Wiederholungsintervall 📱 💻
 * [Phase6](http://phase-6.de) Lernkartei-Software 📱 💻 💰
+* [Buffl](https://www.buffl.co/de/home) Lernkartei-Software 📱 💻 💰
 * [cabuu](https://www.cabuu.app) Online Lernplatform für Vokabeln in Englisch, Latein & Französisch 📱 💰
 * [Alfons](https://alfons.westermann.de/alfons/#/information) Online-Lernprogramm für die Fächer Deutsch, Mathematik und Englisch der Klassen 1-4 📱 💻 💰
 * [LearnEnglish Apps British Council](https://www.britishcouncil.de/en/english/apps) Sammlung kostenloser Lernapps 📱
@@ -1050,7 +1060,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Snopes.com](https://www.snopes.com) digitale Plattform zur Faktenüberprüfung, fact-checking ✔️ 💻
 * [EnglishTools.org](https://www.englishtools.org/en) Sammlung an verschiedensten Tools für den Englischunterricht ✔️ 💻
 * [forScore](https://forscore.co) Notenblatt-Organizer inkl. Gesichtserkennung zum Umblättern 📱 💰
+* [Webcounter](http://www.teaching-apps.com/webcounter/) simples Tool zum Punkte Zählen ✔️ 💻
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **779** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **787** Tools, Tipps & Tricks!
