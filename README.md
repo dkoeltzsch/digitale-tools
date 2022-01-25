@@ -580,6 +580,7 @@ siehe auch: Digitales Klassenzimmer
 * [MathsBot](https://mathsbot.com) Sammlung an Material und Aufgaben für den Matheunterricht ✔️ 💻
 * [doing geo & ethics](https://doinggeoandethics.com) vielfältige & multimediale Sammlung an Informationen zu Geographie & Ethik ✔️ 💻
 * [Wimasu](https://wimasu.de) Unterrichtsmaterial für den Sportunterricht ✔️ 💻
+* [Chronotopos Romantik](https://chronotopos-romantik.freies-deutsches-hochstift.de/project/how-to) interaktive Karte der Romantik, verfolge die Lebenswege bekannter Personen ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -1065,4 +1066,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **788** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **789** Tools, Tipps & Tricks!
