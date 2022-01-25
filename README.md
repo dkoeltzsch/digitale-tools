@@ -579,6 +579,7 @@ siehe auch: Digitales Klassenzimmer
 * [mnweg.org](https://editor.mnweg.org/?p=1&materialType=bundle) Unterrichtsmaterialien für die Fächer Deutsch und Mathe ✔️ 💻
 * [MathsBot](https://mathsbot.com) Sammlung an Material und Aufgaben für den Matheunterricht ✔️ 💻
 * [doing geo & ethics](https://doinggeoandethics.com) vielfältige & multimediale Sammlung an Informationen zu Geographie & Ethik ✔️ 💻
+* [Wimasu](https://wimasu.de) Unterrichtsmaterial für den Sportunterricht ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -1064,4 +1065,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **787** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **788** Tools, Tipps & Tricks!
