@@ -299,6 +299,7 @@ siehe auch: Konferenztools
 * [Circly](https://circlyapp.com/index.html) Visual Organizer Tool 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 * [Primolo](https://www.primolo.de) Website für Kinder erstellen 💻
+* [Ostellus](https://ostellus.schule) interaktive Kombination aus Karten, Quellen, Texten, Tabellen ✔️ 💻 
 
 <a name="feedback-&-umfragen"></a>
 ## Feedback & Umfragen
@@ -414,6 +415,7 @@ siehe auch: Rätsel-Tools
 * [River Runner Global](https://river-runner-global.samlearner.com) Weg eines Regentropens verfolgen ✔️ 💻
 * [doing geo & ethics](https://doinggeoandethics.com) vielfältige & multimediale Sammlung an Informationen zu Geographie & Ethik ✔️ 💻
 * [Kippelemente](https://www.planet-schule.de/mm/kippelemente/#/?_k=swinuz) interaktive Darstellung zum Thema Klimawandel ✔️ 💻
+* [Ostellus](https://ostellus.schule) interaktive Kombination aus Karten, Quellen, Texten, Tabellen ✔️ 💻 
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -441,6 +443,7 @@ siehe auch: Rätsel-Tools
 * [Spuren auf Papier](https://gedenkkreis.de/spuren-auf-papier) Serious Game zum Thema Krankenmord während des Nationalsozialismus ✔️ 📱 💻
 * [Wiki History Game](https://wikitrivia.tomjwatson.com) historische Ereignisse in die richtige Reihenfolge bringen ✔️ 💻
 * [Welt der Habsburger](https://www.habsburger.net/de) umfangreiche Informationen zu den Habsburgern ✔️ 💻
+* [Ostellus](https://ostellus.schule) interaktive Kombination aus Karten, Quellen, Texten, Tabellen ✔️ 💻 
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -1071,4 +1074,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **794** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **795** Tools, Tipps & Tricks!
