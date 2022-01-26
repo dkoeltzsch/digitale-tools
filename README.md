@@ -1003,6 +1003,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Quiz Academy](https://quizacademy.de) eigene Quiz und Karteikarten selber online erstellen ✔️ 📱 💻
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Vocab Kitchen](https://www.vocabkitchen.com/home) Texte in Vokabelübungen umwandeln 💻
+* [Freerice](https://freerice.com/categories/english-vocabulary) Vokabeln lernen für einen guten Zweck ✔️📱 💻
 
 <a name="woerterbuecher,-lexika,-suchmaschine-o.ae."></a>
 ## Wörterbücher, Lexika, Suchmaschine o.Ä.
@@ -1070,4 +1071,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **793** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **794** Tools, Tipps & Tricks!
