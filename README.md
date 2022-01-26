@@ -166,6 +166,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Virtual Piano](https://www.apronus.com/music/flashpiano.htm) virtuelles Piano spielen ✔️ 💻
 * [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
 * [Jamulus](https://jamulus.io/de/) gemeinsam online musizieren ✔️ 💻
+* [Deutsch To Go](https://www.deutsch-to-go.de) kurze deutsche Hörtexte inkl. Fragen & Übungen ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -412,6 +413,7 @@ siehe auch: Rätsel-Tools
 * [GeoGeek AR](http://geogeek-ar.com) Geographie Quiz inkl. AR Weltkugel 📱 (💰)
 * [River Runner Global](https://river-runner-global.samlearner.com) Weg eines Regentropens verfolgen ✔️ 💻
 * [doing geo & ethics](https://doinggeoandethics.com) vielfältige & multimediale Sammlung an Informationen zu Geographie & Ethik ✔️ 💻
+* [Kippelemente](https://www.planet-schule.de/mm/kippelemente/#/?_k=swinuz) interaktive Darstellung zum Thema Klimawandel ✔️ 💻
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -431,7 +433,6 @@ siehe auch: Rätsel-Tools
 * [Shakespeare's Globe 360](https://apps.apple.com/de/app/shakespeares-globe-360/id959985371) 3D-Globe-Theater in virtueller Realität ✔️ 📱
 * [MauAR](https://apps.apple.com/de/app/mauar-berliner-mauer/id1439084007) Berliner Mauer virtuell erleben ✔️ 💻
 * [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
-* [G-Pulse](https://g-pulse.de/virtueller-rundgang) Sammlung virtueller Museumsbesuche ✔️ 💻
 * [Geo](https://www.geo.de/reisen/reisewissen/22736-rtkl-coronakrise-diese-museen-koennen-sie-virtuell-besuchen) Sammlung virtueller Museumsbesuche ✔️ 💻
 * [History of the World](https://britishmuseum.withgoogle.com) Vernetzte Weltgeschichte, erstellt vom Britsh Museum ✔️ 💻
 * [Zeitklicks](https://www.zeitklicks.de) Simulation von Stadtwandel ✔️ 💻
@@ -439,6 +440,7 @@ siehe auch: Rätsel-Tools
 * [Civilisations AR](https://apps.apple.com/de/app/civilisations-ar/id1350792208) realistische, maßstabsgetreue historische Artefakte in AR 📱
 * [Spuren auf Papier](https://gedenkkreis.de/spuren-auf-papier) Serious Game zum Thema Krankenmord während des Nationalsozialismus ✔️ 📱 💻
 * [Wiki History Game](https://wikitrivia.tomjwatson.com) historische Ereignisse in die richtige Reihenfolge bringen ✔️ 💻
+* [Welt der Habsburger](https://www.habsburger.net/de) umfangreiche Informationen zu den Habsburgern ✔️ 💻
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -581,6 +583,7 @@ siehe auch: Digitales Klassenzimmer
 * [doing geo & ethics](https://doinggeoandethics.com) vielfältige & multimediale Sammlung an Informationen zu Geographie & Ethik ✔️ 💻
 * [Wimasu](https://wimasu.de) Unterrichtsmaterial für den Sportunterricht ✔️ 💻
 * [Chronotopos Romantik](https://chronotopos-romantik.freies-deutsches-hochstift.de/project/how-to) interaktive Karte der Romantik, verfolge die Lebenswege bekannter Personen ✔️ 💻
+* [Deutsch To Go](https://www.deutsch-to-go.de) kurze deutsche Hörtexte inkl. Fragen & Übungen ✔️ 💻
 
 <a name="mindmaps"></a>
 ## Mindmaps
@@ -1020,6 +1023,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) Wikipedia in einfacher Sprache ✔️ 💻
 * [Find das Bild](http://www.find-das-bild.de) Bildersuche für Kinder ✔️ 💻
 * [Youglish](https://youglish.com) Suchmaschine für Aussprache von unbekannten Wörtern ✔️ 💻
+* [Museo](https://museo.app) Suchmaschine für Kunstwerke von bekannten Museen ✔️ 💻
 
 <a name="Zeichnen"></a>
 ## Zeichnen
@@ -1066,4 +1070,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **789** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **793** Tools, Tipps & Tricks!
