@@ -272,6 +272,7 @@ siehe auch: Konferenztools
 * [Trember](https://app.trember.com/de/) immersiver Gruppen-Video-Chat ✔️ 💻
 * [WorkAdventure](https://workadventu.re) immersiver Gruppen-Video-Chat ✔️ 💻 💰
 * [flat.social](https://flat.social) immersiver Gruppen-Video-Chat ✔️ 💻
+* [framevr.io](https://framevr.io) virtuelle, immersive und digitale Umgebung ✔️ 💻
 
 <a name="erstellen-von-infographiken-und-lernvideos-o.ae."></a>
 ## Erstellen von Infographiken und Lernvideos o.Ä.
@@ -1074,4 +1075,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **795** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **796** Tools, Tipps & Tricks!
