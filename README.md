@@ -649,6 +649,7 @@ siehe auch: Tafelersatz
 * [DUDAMATH](http://www.dudamath.com/action.html) digitale Umgebung für die interaktive Erkundung mathematischer Konzepte ✔️ 💻
 * [MathsBot](https://mathsbot.com) Sammlung an Material und Aufgaben für den Matheunterricht ✔️ 💻
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze simulieren 📱
+* [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/index.php) molekulares Modellierungsprogramm zum Erstellen und Ändern von Bildern chemischer Strukturen
 
 <a name="online-ueben"></a>
 ## Online Üben
@@ -1042,6 +1043,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Exquis App](https://exquis.app/) gemeinsames Zeichnen bei dem jede/r einen Teil des Bildes gestaltet ✔️ 💻
 * [Quick, Draw!](https://quickdraw.withgoogle.com/?locale=de) Zeichnen, während die KI das Bild errät ✔️ 💻
 * [Excalidraw von kitsblog](https://excalidraw.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
+* [Inkscape](https://inkscape.org) plattformunabhängige Software zur Bearbeitung und Erstellung zweidimensionaler Vektorgrafiken
+* [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/index.php) molekulares Modellierungsprogramm zum Erstellen und Ändern von Bildern chemischer Strukturen
 
 <a name="Zitieren"></a>
 ## Zitieren
@@ -1086,4 +1089,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **802** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **804** Tools, Tipps & Tricks!
