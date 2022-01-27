@@ -87,6 +87,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Zeichnen](#zeichnen)
 
+[Zitieren](#zitieren)
+
 [Sonstiges](#sonstiges)
 
 ### Kleine Legende
@@ -903,6 +905,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [TelescopicText](https://www.telescopictext.org/write/) Teleskop Texte sehr simpel erstellen und teilen (be Registrierung) (✔️) 💻
 * [Voyant](https://voyant-tools.org) webbasierte Lese- und Analyseumgebung für digitale Texte ✔️ 💻
 * [Wortliga](https://wortliga.de/textanalyse/) prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
+* [Hemingway Editor](https://hemingwayapp.com)prüft Texte auf Verständlichkeit, Prägnanz, anregende Sprache und Wortwiederholungen ✔️ 💻
 * [LIX](https://www.psychometrica.de/lix.html) Berechnung des Lesbarkeitsindex von Texten
 * [RATTE](http://ratte.herokuapp.com) Regensburger Analyse Tool für Texte, prüft auf Verständlichkeit & Co ✔️ 💻
 * [Language Tool](https://languagetool.org/de) Grammatik-, Stil- und Rechtschreibprüfung als Web-Add-On 💻
@@ -1040,6 +1043,14 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Quick, Draw!](https://quickdraw.withgoogle.com/?locale=de) Zeichnen, während die KI das Bild errät ✔️ 💻
 * [Excalidraw von kitsblog](https://excalidraw.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 
+<a name="Zitieren"></a>
+## Zitieren
+* [Zotero](https://www.zotero.org) Zitationssoftware für Apple Geräte: Literaturverwaltung, automatisches Litervaturverzeichnis usw.
+* [Citavi](https://www.citavi.com/de) Zitationssoftware für Windows Geräte: Literaturverwaltung, automatisches Litervaturverzeichnis usw.
+* [Endnote](https://endnote.com) Zitationssoftware für Apple & Windows Geräte: Literaturverwaltung, automatisches Litervaturverzeichnis usw. 💰
+* [Citation Machine](https://www.citationmachine.net) online Zitationssoftware ✔️ 💻
+* [Mendeley](https://www.mendeley.com/?interaction_required=true) Zitationssoftware für Apple & Windows Geräte: Literaturverwaltung, automatisches Litervaturverzeichnis usw.
+
 <a name="sonstiges"></a>
 ## Sonstiges
 * [exam.net](https://exam.net) Prüfungsplattform 💻 💰
@@ -1075,4 +1086,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **796** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **802** Tools, Tipps & Tricks!
