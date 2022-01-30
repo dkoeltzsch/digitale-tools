@@ -689,6 +689,7 @@ siehe auch: Tafelersatz
 * [Smart Timetable](https://apps.apple.com/de/app/stundenplan-smart-timetable/id1278473923) kostenlose Stundenplan-App für Schüler und Lehrer 📱
 * [iDoceo](https://www.idoceo.net) digitaler Lehrerassistent 📱 💻 💰
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
+* [Digiscreen](https://digiscreen.elearningdienst.de/?utm_campaign=Edumail&utm_medium=email&utm_source=Revue%20newsletter) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [LeOnKa](https://le-on-ka.de) Online-Unterrichtsmanager für Termine und Planung, inkl. Tafelersatz 💻 💰
 * [Classkick](https://classkick.com) virtuelles Klassenzimmer 💻
 * [SportZens](https://apps.apple.com/de/app/sportzens/id1382396039) Unterrichtsorganisation für Sportlehrkräfte 📱
@@ -816,6 +817,7 @@ siehe auch: Virtual & Augmented Reality
 ## Tafelersatz
 siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Classroomscreen](https://classroomscreen.com) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
+* [Digiscreen](https://digiscreen.elearningdienst.de/?utm_campaign=Edumail&utm_medium=email&utm_source=Revue%20newsletter) Lehrertool für Classroommanagement mit Timer, Zufallsgenerator u.v.m. ✔️ 💻
 * [Taskcards](https://www.taskcards.de) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. DSGVO-konform ✔️ 📱 💻
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Miro](https://miro.com) interaktives Whiteboard ✔️ 📱 💻
@@ -1086,7 +1088,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [EnglishTools.org](https://www.englishtools.org/en) Sammlung an verschiedensten Tools für den Englischunterricht ✔️ 💻
 * [forScore](https://forscore.co) Notenblatt-Organizer inkl. Gesichtserkennung zum Umblättern 📱 💰
 * [Webcounter](http://www.teaching-apps.com/webcounter/) simples Tool zum Punkte Zählen ✔️ 💻
+* [Random Timer](https://creativetechguy.com/utilities/randomtimer) virtueller Timer ✔️ 💻
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **804** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **806** Tools, Tipps & Tricks!
