@@ -334,6 +334,7 @@ siehe auch: Konferenztools
 * [Feedbackr](https://www.feedbackr.io) gegenseitige Bewertung, Gruppendiskussion, Meinungsbild u.v.m. ✔️ 📱 💻
 * [invote](https://invote.de) Online-Tool für Live-Umfragen durch Abstimmung ✔️ 📱 💻
 * [tscheck.in](https://tscheck.in) gemeinsame Fragen zu Beginn/Ende von Meetings beantworten ✔️ 💻
+* [Agile Tools by any-where.de](https://www.any-where.de/tools/) Abstimmungs- und Umfragetool ✔️ 💻
 
 <a name="fortbildungen"></a>
 ## Fortbildungen
@@ -380,6 +381,7 @@ siehe auch: Rätsel-Tools
 * [ClassTools](https://www.classtools.net) Sammlung von vers. digitalen Tools, vorwiegend spielerisch ✔️ 💻
 * [GB Studio](https://www.gbstudio.dev) Retro Video Games durch Drag and Drop selbst zusammenbauen
 * [Playfactile](https://www.playfactile.com) Online-Quizze im Jeopardy-Stil ✔️ 💻
+* [JeopardyLabs](https://jeopardylabs.com) Sammlung und Erstellung von Online-Quizzes im Jeopardy-Stil 💻
 * [Babadum](https://babadum.com) simples, aber spaßiges Sprachlernspiel mit visueller & auditiver Komponente, inkl. 21 Sprachen ✔️ 💻
 * [Wick Editor](https://www.wickeditor.com/#/) Open-Source-Tool zum Erstellen von Spielen, Animationen ✔️ 💻
 * [Catchy Words AR](https://apps.apple.com/us/app/catchy-words-ar/id1266039244) gamifizierte Rechtschreibeübung in AR ✔️ 📱
@@ -394,6 +396,9 @@ siehe auch: Rätsel-Tools
 * [UIIVIT](https://uiivit.org) historisches Lernspiel zur Geschichte globaler Handelswege 💻
 * [Spuren auf Papier](https://gedenkkreis.de/spuren-auf-papier) Serious Game zum Thema Krankenmord während des Nationalsozialismus ✔️ 📱 💻
 * [Wiki History Game](https://wikitrivia.tomjwatson.com) historische Ereignisse in die richtige Reihenfolge bringen ✔️ 💻
+* [Bitsy](https://ledoux.itch.io/bitsy) minimalistisches Open Source-Tool zur Spiele-Erstellung mit Fokus auf Narration ✔️ 💻
+* [Explorable Explanations](https://explorabl.es) spielerisches Lernen durch Simulationen ✔️ 💻
+* [Emoji Simulator](https://emojisimulator.de) Systeme spielerisch durch Simulationen verstehen ✔️ 💻
 
 <a name="geographisches"></a>
 ## Geographisches
@@ -427,6 +432,7 @@ siehe auch: Rätsel-Tools
 * [Chooser!](https://apps.apple.com/de/app/chooser/id1275945156#?platform=ipad) eine Person wird ausgewählt ✔️ 📱
 * [Decide Now!](https://apps.apple.com/de/app/decide-now/id383718755#?platform=ipad) Entscheidungsrad ✔️ 📱 💰
 * [Tap Roulette](https://apps.apple.com/de/app/tap-roulette-make-decisions-with-friends/id430254631) eine Person wird ausgewählt ✔️ 📱 💰
+* [Agile Tools by any-where.de](https://www.any-where.de/tools/) digitale Gruppeneinteilung ✔️ 💻
 
 <a name="historisches"></a>
 ## Historisches
@@ -496,6 +502,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [hypothes.is](https://web.hypothes.is) Websiten kollaborativ kommentieren 💻 
 * [Showbie](https://www.showbie.com) Cloudbasierte Lösung zum Aufgaben verteilen, Dokumente teilen uvm. 📱
 * [Argumentationswippe](https://argumentationswippe.de/#) Argumente platzieren und gegeneinander abwägen ✔️ 💻
+* [Agile Tools by any-where.de](https://www.any-where.de/tools/) Toolssammlung für kollaborative Zusammenarbeit ✔️ 💻
 
 <a name="konferenztools"></a>
 ## Konferenztools
@@ -736,6 +743,8 @@ siehe auch: Tafelersatz
 * [Blooket](https://www.blooket.com) interaktives Lernquiz 📱 💻
 * [Gimkit](https://www.gimkit.com/product/live) Quiztool mit gamifizierten Elementen 📱
 * [Welche Sprache ist das?](https://edl.ecml.at/Games/Whichlanguageisit/tabid/3202/Default.aspx) Sprachenquiz & weitere Spielereien zum Thema ✔️ 💻
+* [Playfactile](https://www.playfactile.com) Online-Quizze im Jeopardy-Stil ✔️ 💻
+* [JeopardyLabs](https://jeopardylabs.com) Sammlung und Erstellung von Online-Quizzes im Jeopardy-Stil 💻
 
 <a name="raetsel"></a>
 ## Rätsel
@@ -771,6 +780,7 @@ siehe auch: Gamification, Simulatoren
 * [PennMuseum](https://www.penn.museum/cgi/hieroglyphsreal.php?name=Max+Mustermann&inscribe=insrcibe) Wörter in Hieroglyphen schreiben ✔️ 💻
 * [Alphabet Photography](https://www.alphabetphotography.com) Wörter in Fotos umwandeln ✔️ 💻
 * [City Guesser](https://virtualvacation.us/guess) Orte virtuell erkunden & erraten ✔️ 💻
+* [Llama Font](https://llamafont.com) Text mit Llamas visualisieren ✔️ 💻
 
 <a name="simulatoren-&-generatoren"></a>
 ## Simulatoren & Generatoren
@@ -794,6 +804,8 @@ siehe auch: Virtual & Augmented Reality
 * [fodey.com](https://www.fodey.com/generators/newspaper/snippet.asp) Sammlung witziger Generatoren, z.B. Zeitungsartikel ✔️ 💻
 * [Map Image](https://www.mapimage.de) Kartenbilder (inkl. Markierungen, Beschriftungen etc.) erstellen ✔️ 💻
 * [Worldmapgenerator](https://www.worldmapgenerator.com/de/) eigene, individuelle Weltkarte erstellen ✔️ 💻
+* [Metro Map Maker](https://metromapmaker.com) eigene U-Bahn Netze erstellen ✔️ 💻
+* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) Fantasie Karten selbst erstellen ✔️ 💻
 * [ReadyPlayerMe](https://readyplayer.me) eigene Avatare erstellen 💻
 * [Bitmoji](https://www.bitmoji.com) eigene Avatare erstellen 📱
 * [Ransomizer](http://www.ransomizer.com) Erpresserbriefe generieren ✔️ 💻
@@ -809,10 +821,11 @@ siehe auch: Virtual & Augmented Reality
 * [Townscaper](https://oskarstalberg.com/Townscaper) Stadt virtuell erstellen ✔️ 💻
 * [My Fortune Cookie](http://www.myfortunecookie.co.uk) virtueller Glückskeks ✔️ 💻
 * [Pokémon Card Maker](https://www.pokecard.net) Pokémon Karten selbst erstellen ✔️ 💻
-* [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) Fantasie Karten selbst erstellen ✔️ 💻
 * [Klötzchen](https://apps.apple.com/de/app/klötzchen/id1027746349) digitales Würfelbauen 📱
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze simulieren 📱
 * [Stellarium](https://stellarium-web.org) Simulation des Nachthimmels und der Sternenbilder ✔️ 📱 💻
+* [Explorable Explanations](https://explorabl.es) spielerisches Lernen durch Simulationen ✔️ 💻
+* [Emoji Simulator](https://emojisimulator.de) Systeme spielerisch durch Simulationen verstehen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -823,6 +836,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Padlet](https://padlet.com) Erstellen von digitalen Pinnwänden, inkl. Videos, Bilder u.v.m. ✔️ 📱 💻
 * [Miro](https://miro.com) interaktives Whiteboard ✔️ 📱 💻
 * [Geogebra Notes](https://www.geogebra.org/notes?lang=de)interaktives Whiteboard ✔️ 📱 💻
+* [Whiteborb](https://www.whiteborb.com/YJRWbpPRYr) virtuelles Whiteboard ✔️ 💻
 * [OpenBoard](https://www.openboard.ch/index.de.html) virtuelles Whiteboard ✔️ 💻
 * [Whiteboard.Chat](https://www.whiteboard.chat) virtuelles Whiteboard ✔️
 * [Whiteboard.fi](https://whiteboard.fi) virtuelles Whiteboard, individuell für alle Lernende mit Übersicht aller für die Lehrkraft ✔️ 💻
@@ -862,6 +876,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/) Tool zur Autovervollständigen von Suchanfragen ✔️ 💻
 * [URLcast](https://urlcast.io) URL erst zu einem gewählten Zeitpunkt zugänglich machen ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
+* [Privnote](https://privnote.com) sich-selbst-löschende Nachrichten versenden ✔️ 💻
 * [nurkurz.online](https://nurkurz.online) Website ohne Registrierung erstellen, mit automatischer Löschfunktion nach 1-7 Tagen ✔️ 💻
 * [scrt.link](https://scrt.link) Links verschicken, die sich nach einmaliger Verwendung selbst zerstören ✔️ 💻
 * [Link Lock](https://ebildungslabor.github.io/link-lock/create/) Links verschicken, die mit einem Passwort verschlüsselt sind ✔️ 💻
@@ -1093,4 +1108,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **807** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **816** Tools, Tipps & Tricks!
