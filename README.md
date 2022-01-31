@@ -495,6 +495,7 @@ siehe auch: Mindmaps, Tafelersatz & Textbearbeitung & Notizen
 * [Gimkit Ink](https://www.gimkit.com/ink) Publizier-Plattform für Lernende 📱 💻
 * [hypothes.is](https://web.hypothes.is) Websiten kollaborativ kommentieren 💻 
 * [Showbie](https://www.showbie.com) Cloudbasierte Lösung zum Aufgaben verteilen, Dokumente teilen uvm. 📱
+* [Argumentationswippe](https://argumentationswippe.de/#) Argumente platzieren und gegeneinander abwägen ✔️ 💻
 
 <a name="konferenztools"></a>
 ## Konferenztools
@@ -1092,4 +1093,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **806** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **807** Tools, Tipps & Tricks!
