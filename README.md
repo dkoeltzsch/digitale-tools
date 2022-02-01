@@ -402,6 +402,7 @@ siehe auch: Rätsel-Tools
 * [Bitsy](https://ledoux.itch.io/bitsy) minimalistisches Open Source-Tool zur Spiele-Erstellung mit Fokus auf Narration ✔️ 💻
 * [Explorable Explanations](https://explorabl.es) spielerisches Lernen durch Simulationen ✔️ 💻
 * [Emoji Simulator](https://emojisimulator.de) Systeme spielerisch durch Simulationen verstehen ✔️ 💻
+* [Draw a Stickman](https://drawastickman.com) interaktives Zeichen Abenteuerspiel ✔️ 💻
 
 <a name="geographisches"></a>
 ## Geographisches
@@ -1080,6 +1081,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Art Coloring Book](https://artsandculture.google.com/experiment/art-coloring-book/1QGsh6vSfAQBgQ) berühmte Gemälde selbst ausmalen ✔️ 💻
 * [Bonomo](https://bomomo.com) online Zeichentool ✔️ 💻
 * [Color Mandala](https://colormandala.com) online Mandala Tool ✔️ 💻
+* [Draw a Stickman](https://drawastickman.com) interaktives Zeichen Abenteuerspiel ✔️ 💻
 
 <a name="Zitieren"></a>
 ## Zitieren
@@ -1126,4 +1128,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **831** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **832** Tools, Tipps & Tricks!
