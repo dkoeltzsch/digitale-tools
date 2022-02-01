@@ -171,7 +171,7 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Jamulus](https://jamulus.io/de/) gemeinsam online musizieren ✔️ 💻
 * [Deutsch To Go](https://www.deutsch-to-go.de) kurze deutsche Hörtexte inkl. Fragen & Übungen ✔️ 💻
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en&cp=e30.) dirigiere den Gesang von 4 Opernsängern um eine eigene Komposition aufzunehmen ✔️ 💻
-* [Beastmaker](https://academy.allaboutbirds.org/features/beastbox/?fbclid=IwAR0mLmA4jiMi0lI9PXIRWj0PohdwgkAmJv6Lx_gFfHSxToHwUZ-Xw6uHK9M) eigene Beatbox Sounds mit Tiergeräuschen erstellen ✔️ 💻
+* [BeastBox](https://academy.allaboutbirds.org/features/beastbox/?fbclid=IwAR0mLmA4jiMi0lI9PXIRWj0PohdwgkAmJv6Lx_gFfHSxToHwUZ-Xw6uHK9M) eigene Beatbox Sounds mit Tiergeräuschen erstellen ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
