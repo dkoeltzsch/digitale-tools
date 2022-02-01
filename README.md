@@ -184,6 +184,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [ChatterPix](https://apps.apple.com/de/app/chatterpix/id734038526) Bilder mit Text & Ton versehen 📱
 * [Photopea](https://www.photopea.com) Kostenlose Bildbearbeitungssoftware direkt im Browser ✔️ 💻
 * [Imgflip](https://imgflip.com) Memes & Gifs erstellen ✔️ 💻
+* [erase.bg](https://www.erase.bg) Hintergrund in Fotos entfernen ✔️ 💻
+* [Clean Up Pictures](https://cleanup.pictures) Texte und Gegenstände aus Bildern entfernen ✔️ 💻
 
 <a name="chat"></a>
 ## Chat
@@ -352,6 +354,7 @@ siehe auch: Konferenztools
 siehe auch: Rätsel-Tools
 * [Biparcours](https://biparcours.de) Gestaltung digitaler Lernangebote zur Erschließung außerschulischer Lernorte, z.B. Schnitzeljagd 📱
 * [LearningApps](https://learningapps.org/createApp.php) Inhalte als Quiz aufbereiten und ggf. einbetten ✔️ 💻
+* [Flippity](https://flippity.net) Sammlung an spielerischen Elementen und Aufgabenformen ✔️ 💻
 * [Classcraft](https://www.classcraft.com/de/) Aufgaben in ein Fantasy-Rollenspiel einbetten 💻 📱
 * [Quizizz](https://quizizz.com) interaktives Lernquiz mit Boostern, live & asynchron ✔️ 📱 💻
 * [Kahoot](https://kahoot.com) interaktives Lernquiz, live & asynchron ✔️ 📱 💻
@@ -458,6 +461,7 @@ siehe auch: Rätsel-Tools
 * [Wiki History Game](https://wikitrivia.tomjwatson.com) historische Ereignisse in die richtige Reihenfolge bringen ✔️ 💻
 * [Welt der Habsburger](https://www.habsburger.net/de) umfangreiche Informationen zu den Habsburgern ✔️ 💻
 * [Ostellus](https://ostellus.schule) interaktive Kombination aus Karten, Quellen, Texten, Tabellen ✔️ 💻 
+* [Fabricius](https://artsexperiments.withgoogle.com/fabricius/en) Hieroglyphen mit Hilfe von AI erlernen ✔️ 💻 
 
 <a name="inklusion"></a>
 ## Inklusion
@@ -880,7 +884,6 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [PDF24](https://tools.pdf24.org/de/pdf-zusammenfuegen) Sammlung an PDF Tools, wie konvertieren, zusammenfügen ✔️ 💻
 * [yout-ube](https://www.yout-ube.com) Bindestrich in youtube Links nach dem t ergänzen, um Videos ohne Werbung und in Vollbild zu öffnen 💻
 * [Lizenzhinweisgenerator](https://lizenzhinweisgenerator.de) automatische Erklärungen zu den Lizenzen von Material auf Websites ✔️ 💻
-* [Clean Up Pictures](https://cleanup.pictures) Texte und Gegenstände aus Bildern entfernen ✔️ 💻
 * [Frag Genial](https://ebildungslabor.de/werkzeug/fragenial/) Tool zur Autovervollständigen von Suchanfragen ✔️ 💻
 * [URLcast](https://urlcast.io) URL erst zu einem gewählten Zeitpunkt zugänglich machen ✔️ 💻
 * [url.dev](https://url.dev) sich-selbst-löschende Nachrichten versenden ✔️ 💻
@@ -1128,4 +1131,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **832** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **835** Tools, Tipps & Tricks!
