@@ -170,6 +170,8 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 * [Chirp QR](https://apps.apple.com/de/app/chirp-qr/id1048912963) Audiodateien via App erzeugen und als QR-Code ausgeben 📱
 * [Jamulus](https://jamulus.io/de/) gemeinsam online musizieren ✔️ 💻
 * [Deutsch To Go](https://www.deutsch-to-go.de) kurze deutsche Hörtexte inkl. Fragen & Übungen ✔️ 💻
+* [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en&cp=e30.) dirigiere den Gesang von 4 Opernsängern um eine eigene Komposition aufzunehmen ✔️ 💻
+* [Beastmaker](https://academy.allaboutbirds.org/features/beastbox/?fbclid=IwAR0mLmA4jiMi0lI9PXIRWj0PohdwgkAmJv6Lx_gFfHSxToHwUZ-Xw6uHK9M) eigene Beatbox Sounds mit Tiergeräuschen erstellen ✔️ 💻
 
 <a name="bildbearbeitung"></a>
 ## Bildbearbeitung
@@ -825,10 +827,12 @@ siehe auch: Virtual & Augmented Reality
 * [My Fortune Cookie](http://www.myfortunecookie.co.uk) virtueller Glückskeks ✔️ 💻
 * [Pokémon Card Maker](https://www.pokecard.net) Pokémon Karten selbst erstellen ✔️ 💻
 * [Klötzchen](https://apps.apple.com/de/app/klötzchen/id1027746349) digitales Würfelbauen 📱
+* [Brik Build](https://www.brik.co/pages/brikbuild) 2D Bilder mit Würfeln bauen ✔️ 💻
 * [Klipp Klapp](https://apps.apple.com/de/app/klipp-klapp/id1157365733) Würfelnetze simulieren 📱
 * [Stellarium](https://stellarium-web.org) Simulation des Nachthimmels und der Sternenbilder ✔️ 📱 💻
 * [Explorable Explanations](https://explorabl.es) spielerisches Lernen durch Simulationen ✔️ 💻
 * [Emoji Simulator](https://emojisimulator.de) Systeme spielerisch durch Simulationen verstehen ✔️ 💻
+* [Badge Maker](https://www.classtools.net/badgemaker/) Abzeichen, Sticker, runde Bilder selbst erstellen ✔️ 💻
 
 <a name="tafelersatz"></a>
 ## Tafelersatz
@@ -1073,6 +1077,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/index.php) molekulares Modellierungsprogramm zum Erstellen und Ändern von Bildern chemischer Strukturen
 * [Tracing Projector](https://apps.apple.com/us/app/tracing-projector/id1063062393) Bilder via iPad-App abpausen 📱
 * [AR Makr](https://apps.apple.com/at/app/ar-makr/id1434081130) eigene 2D/3D Zeichnungen in AR visualiseren 📱
+* [Art Coloring Book](https://artsandculture.google.com/experiment/art-coloring-book/1QGsh6vSfAQBgQ) berühmte Gemälde selbst ausmalen ✔️ 💻
+* [Bonomo](https://bomomo.com) online Zeichentool ✔️ 💻
 
 <a name="Zitieren"></a>
 ## Zitieren
@@ -1115,7 +1121,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [forScore](https://forscore.co) Notenblatt-Organizer inkl. Gesichtserkennung zum Umblättern 📱 💰
 * [Webcounter](http://www.teaching-apps.com/webcounter/) simples Tool zum Punkte Zählen ✔️ 💻
 * [Random Timer](https://creativetechguy.com/utilities/randomtimer) virtueller Timer ✔️ 💻
+* [And then I was like...](https://andtheniwaslike.co) eigene Gifs mit der Kamera erstellen 💻
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **823** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **830** Tools, Tipps & Tricks!
