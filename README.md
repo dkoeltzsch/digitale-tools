@@ -1079,6 +1079,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [AR Makr](https://apps.apple.com/at/app/ar-makr/id1434081130) eigene 2D/3D Zeichnungen in AR visualiseren 📱
 * [Art Coloring Book](https://artsandculture.google.com/experiment/art-coloring-book/1QGsh6vSfAQBgQ) berühmte Gemälde selbst ausmalen ✔️ 💻
 * [Bonomo](https://bomomo.com) online Zeichentool ✔️ 💻
+* [Color Mandala](https://colormandala.com) online Mandala Tool ✔️ 💻
 
 <a name="Zitieren"></a>
 ## Zitieren
@@ -1125,4 +1126,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **830** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **831** Tools, Tipps & Tricks!
