@@ -425,6 +425,7 @@ siehe auch: Rätsel-Tools
 * [doing geo & ethics](https://doinggeoandethics.com) vielfältige & multimediale Sammlung an Informationen zu Geographie & Ethik ✔️ 💻
 * [Kippelemente](https://www.planet-schule.de/mm/kippelemente/#/?_k=swinuz) interaktive Darstellung zum Thema Klimawandel ✔️ 💻
 * [Ostellus](https://ostellus.schule) interaktive Kombination aus Karten, Quellen, Texten, Tabellen ✔️ 💻 
+* [WWF Free Rivers](https://apps.apple.com/us/app/wwf-free-rivers/id1349935575) Auswirkungen des Wasserkreislaufs in AR 📱
 
 <a name="gruppeneinteilung"></a>
 ## Gruppeneinteilung
@@ -626,6 +627,7 @@ siehe auch: Tafelersatz
 ## MINT
 * [Geogebra](https://www.geogebra.org/?lang=de) Grafiktaschenrechner & interaktives Mathetool ✔️ 📱 💻
 * [Geogebra Classroom](https://www.geogebra.org/m/vexj65n9) Arbeitsblätter erstellen und via Code Zugang erteilen, inkl. Forschrittsansicht
+* [Geogebra AR](https://apps.apple.com/us/app/geogebra-augmented-reality/id1276964610) selbst erstellte 3D Animationen in AR erkunden 📱
 * [Derive](https://derive.de.uptodown.com/windows) leistungsstarkes Mathematik-Tool ✔️
 * [Mathcad](https://www.mathcad.com/de) Mathematiksoftware 💰
 * [Maple](https://de.maplesoft.com) Mathematiksoftware 💰
@@ -1011,6 +1013,11 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Kinderzeitmaschine](https://www.kinderzeitmaschine.de) Geschichte virtuell entdecken ✔️ 💻 💰
 * [GamesLab VR Sammlung](https://medien-und-bildung.lvr.de/de/unser_angebot/medienzentrum_duesseldorf/medialab/computerspiele_2/im_lab/vr_im_gameslab/vr_im_gameslab.html) ausgewählte Empfehlungen für VR des GamesLab ✔️ 💻
 * [Civilisations AR](https://apps.apple.com/de/app/civilisations-ar/id1350792208) realistische, maßstabsgetreue historische Artefakte in AR 📱
+* [Froggipedia](https://apps.apple.com/us/app/froggipedia/id1348306157) Lebenszyklus eines Forsches verfolgen inkl. Sezier-Ansicht in AR 📱 💰
+* [WWF Free Rivers](https://apps.apple.com/us/app/wwf-free-rivers/id1349935575) Auswirkungen des Wasserkreislaufs in AR 📱
+* [Geogebra AR](https://apps.apple.com/us/app/geogebra-augmented-reality/id1276964610) selbst erstellte 3D Animationen in AR erkunden 📱
+* [AR Makr](https://apps.apple.com/at/app/ar-makr/id1434081130) eigene 2D/3D Zeichnungen in AR visualiseren 📱
+* [Animal Safari AR](https://apps.apple.com/ch/app/animal-safari-ar-3d-learning/id1468220377) Tiere in AR beobachten 📱
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -1064,6 +1071,8 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Excalidraw von kitsblog](https://excalidraw.com) virtuelles Whiteboard, kooperativ zu bearbeiten ✔️ 💻
 * [Inkscape](https://inkscape.org) plattformunabhängige Software zur Bearbeitung und Erstellung zweidimensionaler Vektorgrafiken
 * [ChemSketch](https://www.acdlabs.com/resources/freeware/chemsketch/index.php) molekulares Modellierungsprogramm zum Erstellen und Ändern von Bildern chemischer Strukturen
+* [Tracing Projector](https://apps.apple.com/us/app/tracing-projector/id1063062393) Bilder via iPad-App abpausen 📱
+* [AR Makr](https://apps.apple.com/at/app/ar-makr/id1434081130) eigene 2D/3D Zeichnungen in AR visualiseren 📱
 
 <a name="Zitieren"></a>
 ## Zitieren
@@ -1109,4 +1118,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **817** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **823** Tools, Tipps & Tricks!
