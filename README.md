@@ -376,6 +376,7 @@ siehe auch: Rätsel-Tools
 * [Codenames](https://codenames.game) Brettpiel Codenames online ✔️ 💻
 * [Genial.ly](https://www.genial.ly) interaktive Inhalte erstellen, z.B. Präsentationen, Breakouts, Bilder, Spiele 💻
 * [Escape Team](https://www.escape-team.de) Escape Games zum Ausdrucken & auch selbst erstellen 📱 (💰)
+* [Escape Fake](https://escapefake.org/en/home-4/) Escape Game zum Thema Fake News mit AR 📱
 * [BreakoutEDU](https://breakoutedu.com) Sammlung & Erstellung von digitalen Breakout Spielen ✔️ 💻 💰
 * [Skribbl](https://skribbl.io) kostenloses Multiplayer-Zeichen- und Ratespiel ✔️ 💻
 * [Exquis App](https://exquis.app/) gemeinsames Zeichnen bei dem jede/r einen Teil des Bildes gestaltet ✔️ 💻
@@ -1026,6 +1027,7 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 * [Geogebra AR](https://apps.apple.com/us/app/geogebra-augmented-reality/id1276964610) selbst erstellte 3D Animationen in AR erkunden 📱
 * [AR Makr](https://apps.apple.com/at/app/ar-makr/id1434081130) eigene 2D/3D Zeichnungen in AR visualiseren 📱
 * [Animal Safari AR](https://apps.apple.com/ch/app/animal-safari-ar-3d-learning/id1468220377) Tiere in AR beobachten 📱
+* [Escape Fake](https://escapefake.org/en/home-4/) Escape Game zum Thema Fake News mit AR 📱
 
 <a name="vokabeln-lernen"></a>
 ## Vokabeln Lernen
@@ -1131,4 +1133,4 @@ siehe auch: kollaboratives Arbeiten, Mindmaps & Textbearbeitung & Notizen
 
 ## Großes Dankeschön an dich
 dafür, dass du etwas zu dieser Liste beigetragen hast. Du bist toll! 
-Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **835** Tools, Tipps & Tricks!
+Ein Hoch auf die Kollaboration, denn deshalb findet man hier bereits **836** Tools, Tipps & Tricks!
